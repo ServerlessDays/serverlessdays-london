@@ -1,0 +1,58 @@
+---
+layout: base.njk
+---
+<div class="flex-ns pt5-ns w-100">
+    <div class="w-auto w-10-l dn db-l tr">
+    </div>
+    <div class="w-100 w-40-ns tr">
+        <img class="v-top cover" src={{ eventDetails.logo }} style="margin-right: -90px">
+        <h1 class="avenir mt0 tr f2 i mv1" style="margin-right: -75px">{{ eventDetails.name }}</h1>
+        <div class="avenir fw4 f4 pt0 pl3 pl0-ns tr" style="margin-right: -75px">
+        <p class="mv1">{{eventDetails.startDate}} to {{eventDetails.endDate}}</p>
+        
+        </div>
+    </div>
+    <div class="w-auto w-50-ns tl v-top cover pr3">
+        <img src="{{ eventDetails.hero }}" class="heroImage">
+    </div>
+    
+</div>
+<div class="contrastBkg contrastColor pa3 tl db w-100" style="margin-top:-270px">
+    <div class="flex-ns mb2">
+        <div class="w-100 w-10-l dn db-ns">
+        </div>
+        <div class=""> 
+            <p class="fw7 f2 mv2">{{ eventDetails.tagline }}</p>
+        </div>
+    </div>
+</div>
+<div class="w-100 pa3 tl f4 db mt4">
+    <div class="flex-ns">
+        <div class="w-100 w-10-l dn db-ns">
+        </div>
+        <div> 
+            {% for item in eventDetails.cta %}
+                {% if item.accent %}
+                <span><a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr2 primaryColor accentBkg" href="{{ item.path }}">{{ item.name }}</a></span>
+                {% else %}
+                <span><a class="pv2 ph4 f4 no-underline ba br2 mr2 primaryColor primaryBorder" href="{{ item.path }}">{{ item.name }}</a></span>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<div class="w-100 pa3 tl f4 dn mt4">
+    <div class="flex-ns">
+        <div class="w-100 w-10-l dn db-ns">
+        </div>
+        <div class="dt  w-30-m w-20-l"> 
+            <p class="fw7 mv2">Milestones</p>
+            {% for item in eventDetails.milestones %}
+                <div class="dt-row">
+                    <div class="dtc mt1 mb0 pv1 pr2 tl">{{ item.date }}</div> 
+                    <div class="dtc tr fr pl3">{{ item.description }}</div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

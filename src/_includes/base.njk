@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:url" content="{{ page.url }}">
+    <meta property="og:image" content="{{ page.image }}">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:site" content="{{ page.twitter }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:url" content="{{ page.url }}">
+    <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="css/tachyons.css">
+    <link rel="stylesheet" href="css/markdown.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <body class="primaryColor avenir w-100 primaryBkg">
+      {% include 'navBar.njk' %}
+        {{ content | safe }}
+    </body>
+</html>
