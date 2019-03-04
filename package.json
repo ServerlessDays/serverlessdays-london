@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.7.1"
+    "@11ty/eleventy": "^0.7.1",
+    "markdown-it": "^8.4.2"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.3.0"
   }
 }

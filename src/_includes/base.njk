@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+   <head>
     <title>{{ page.title }}</title>
     <meta charset="utf-8">
     <meta property="og:title" content="{{ page.title }}">
@@ -19,8 +20,10 @@
     <link rel="stylesheet" href="css/tachyons.css">
     <link rel="stylesheet" href="css/markdown.css">
     <link rel="stylesheet" href="css/custom.css">
-    <body class="primaryColor avenir w-100 primaryBkg">
+    </head>
+    <body class="avenir w-100 primaryColor primaryBkg">
       {% include 'navBar.njk' %}
         {{ content | safe }}
     </body>
+    {% include 'footer.njk' %}
 </html>

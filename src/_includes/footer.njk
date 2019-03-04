@@ -1,0 +1,9 @@
+<div class="w-100 pv5 primaryColor">
+    <div class="flex-ns">
+        <div class="w-10 dn db-ns">
+        </div>
+        {% for item in navBarItems %}
+            <a class="no-underline primaryColor pa2" href="{{ item.path }}">{{ item.name }}</a>
+        {% endfor %}
+    </div>
+</div>

@@ -6,6 +6,14 @@
 .contrastBorder { border-color: #001F3F; }
 .accentColor { color: green }
 .accentBkg { background: green }
+.secondaryColor { color: maroon}
+.secondaryBkg { background: #f3ecda}
+.secondaryContrastColor { color: #f3ecda}
+.secondaryConstrastBkg { background: maroon}
+.tertiaryColor { color: #ffffff}
+.tertiaryBkg { background: #1e656d}
+.tertiaryContrastColor { color: #1e656d}
+.tertiaryContrastBkg { background: #ffffff}
 .heroImage {
     clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
 }
