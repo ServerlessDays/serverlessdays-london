@@ -1,10 +1,10 @@
-<div class="fixed w-100 tc tr-ns pa3 pr5-ns avenir primaryColor primaryBkg z-max">
+<div class="fixed-ns w-100 tc tr-ns pa1 pa3-ns pr1 pr5-ns avenir primaryColor primaryBkg z-max">
+  <span class="dib">
   <a
     id="home"
     class="dib pv2 ph3 primaryColor pointer no-underline underline-grow"
     href="/"
   >Home</a>
-  <div class="dib">
   {% for item in navBarItems %}
     {% if item.cta %}
     <a
@@ -20,5 +20,5 @@
     >{{ item.name }}</a>    
     {% endif %}
   {% endfor %}
-  </div>
+  </span>
 </div>
