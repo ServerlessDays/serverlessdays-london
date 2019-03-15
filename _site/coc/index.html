@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
+<!DOCTYPE html><html lang="en"><head>
     <title>ServerlessDays - Code of Conduct</title>
     <meta charset="utf-8">
     <meta property="og:title" content="ServerlessDays - Code of Conduct">
@@ -16,74 +14,1254 @@
     <meta name="twitter:url" content="/coc/">
     <meta name="twitter:image" content="https://london.serverlessdays.io/img/london_large.jpg">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon"/>
-    <link rel="stylesheet" href="css/tachyons.css">
-    <link rel="stylesheet" href="css/markdown.css">
-    <link rel="stylesheet" href="css/custom.css">
-    </head>
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <style type="text/css">.primaryColor { color: #ffffff; }
+.primaryBkg { background-color: #001F3F; }
+.contrastColor { color: #001F3F; }
+.contrastBkg { background-color: #ffffff; }div[class*="language-"] {
+     position: relative;
+}
+
+ code[class*="language-"] {
+     position: relative;
+     z-index:1;
+     color: #f8f8f2;
+     background-color: #141434;
+     text-align: left;
+     white-space: pre;
+     word-spacing: normal;
+     word-break: normal;
+     word-wrap: normal;
+     line-height: 1.5;
+     font-size: 0.875;
+ 
+     -moz-tab-size: 4;
+     -o-tab-size: 4;
+     tab-size: 4;
+ 
+     -webkit-hyphens: none;
+     -moz-hyphens: none;
+     -ms-hyphens: none;
+     hyphens: none;
+ }
+ 
+/* Code blocks */
+
+:not(pre) > code[class*="language-"] {
+    background: #141434;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+    padding: 0.5em;
+    border-radius: 0.3em;
+    white-space: normal;
+}
+:not(pre) > code {
+background: #141434;
+color: #00e0e0;
+padding: 0.1rem 0.3rem;
+border-radius: 0.2em;
+white-space: normal;
+font-size: 0.875;
+font-weight: 200;
+}
+
+@media screen and (-ms-high-contrast: active) {
+    code[class*="language-"] {
+        color: windowText;
+        background: window;
+    }
+
+    :not(pre) > code[class*="language-"] {
+        background: window;
+    }
+}
+/*! TACHYONS v4.11.1 | http://tachyons.io */
+/*
+ *
+ *      ________            ______
+ *      ___  __/_____ _________  /______  ______________________
+ *      __  /  _  __ `/  ___/_  __ \_  / / /  __ \_  __ \_  ___/
+ *      _  /   / /_/ // /__ _  / / /  /_/ // /_/ /  / / /(__  )
+ *      /_/    \__,_/ \___/ /_/ /_/_\__, / \____//_/ /_//____/
+ *                                 /____/
+ *
+ *    TABLE OF CONTENTS
+ *
+ *    1. External Library Includes
+ *       - Normalize.css | http://normalize.css.github.io
+ *    2. Tachyons Modules
+ *    3. Variables
+ *       - Media Queries
+ *       - Colors
+ *    4. Debugging
+ *       - Debug all
+ *       - Debug children
+ *
+ */
+/* External Library Includes */
+/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
+/* Document
+   ========================================================================== */
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+html { line-height: 1.15; /* 1 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+/* Sections
+   ========================================================================== */
+/**
+ * Remove the margin in all browsers.
+ */
+body { margin: 0; }
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+h1 { font-size: 2em; margin: .67em 0; }
+/* Grouping content
+   ========================================================================== */
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+a { background-color: transparent; }
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+ strong { font-weight: bolder; }
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+code { font-family: monospace, monospace; /* 1 */ font-size: 1em; /* 2 */ }
+/**
+ * Add the correct font size in all browsers.
+ */
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+img { border-style: none; }
+/* Forms
+   ========================================================================== */
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+button, input { font-family: inherit; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ margin: 0; /* 2 */ }
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+button, input {/* 1 */ overflow: visible; }
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+button {/* 1 */ text-transform: none; }
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+button, [type="button"], [type="reset"], [type="submit"] { -webkit-appearance: button; }
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+button::-moz-focus-inner, [type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner { border-style: none; padding: 0; }
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+button:-moz-focusring, [type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring { outline: 1px dotted ButtonText; }
+/**
+ * Correct the padding in Firefox.
+ */
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+legend { box-sizing: border-box; /* 1 */ color: inherit; /* 2 */ display: table; /* 1 */ max-width: 100%; /* 1 */ padding: 0; /* 3 */ white-space: normal; /* 1 */ }
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+[type="checkbox"], [type="radio"] { box-sizing: border-box; /* 1 */ padding: 0; /* 2 */ }
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button { height: auto; }
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+[type="search"] { -webkit-appearance: textfield; /* 1 */ outline-offset: -2px; /* 2 */ }
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+::-webkit-file-upload-button { -webkit-appearance: button; /* 1 */ font: inherit; /* 2 */ }
+/* Interactive
+   ========================================================================== */
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+details { display: block; }
+/*
+ * Add the correct display in all browsers.
+ */
+summary { display: list-item; }
+/* Misc
+   ========================================================================== */
+/**
+ * Add the correct display in IE 10+.
+ */
+/**
+ * Add the correct display in IE 10.
+ */
+[hidden] { display: none; }
+/* Modules */
+/*
+ 
+  BOX SIZING
+
+*/
+html, body, div, section, main, nav, form, legend, code, a, h1, h2, p, figcaption, tr,
+input[type="email"], input[type="number"], input[type="password"],
+input[type="tel"], input[type="text"], input[type="url"] { box-sizing: border-box; }
+/*
+
+   ASPECT RATIOS
+
+*/
+/* This is for fluid media that is embedded from third party sites like youtube, vimeo etc.
+ * Wrap the outer element in aspect-ratio and then extend it with the desired ratio i.e
+ * Make sure there are no height and width attributes on the embedded media.
+ * Adapted from: https://github.com/suitcss/components-flex-embed
+ *
+ * Example:
+ *
+ * <div class="aspect-ratio aspect-ratio--16x9">
+ *  <iframe class="aspect-ratio--object"></iframe>
+ * </div>
+ *
+ * */
+/*
+
+   IMAGES
+   Docs: http://tachyons.io/docs/elements/images/
+
+*/
+/* Responsive images! */
+img { max-width: 100%; }
+/*
+
+   BACKGROUND SIZE
+   Docs: http://tachyons.io/docs/themes/background-size/
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+  Often used in combination with background image set as an inline style
+  on an html element.
+*/
+/*
+
+    BACKGROUND POSITION
+
+    Base:
+    bg = background
+
+    Modifiers:
+    -center = center center
+    -top = top center
+    -right = center right
+    -bottom = bottom center
+    -left = center left
+
+    Media Query Extensions:
+      -ns = not-small
+      -m  = medium
+      -l  = large
+
+ */
+/*
+
+   OUTLINES
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+    BORDERS
+    Docs: http://tachyons.io/docs/themes/borders/
+
+    Base:
+      b = border
+
+    Modifiers:
+      a = all
+      t = top
+      r = right
+      b = bottom
+      l = left
+      n = none
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.ba { border-style: solid; border-width: 1px; }
+/*
+
+   BORDER COLORS
+   Docs: http://tachyons.io/docs/themes/borders/
+
+   Border colors can be used to extend the base
+   border classes ba,bt,bb,br,bl found in the _borders.css file.
+
+   The base border class by default will set the color of the border
+   to that of the current text color. These classes are for the cases
+   where you desire for the text and border colors to be different.
+
+   Base:
+     b = border
+
+   Modifiers:
+   --color-name = each color variable name is also a border color name
+
+*/
+.b--transparent { border-color: transparent; }
+/*
+
+   BORDER RADIUS
+   Docs: http://tachyons.io/docs/themes/border-radius/
+
+   Base:
+     br   = border-radius
+
+   Modifiers:
+     0    = 0/none
+     1    = 1st step in scale
+     2    = 2nd step in scale
+     3    = 3rd step in scale
+     4    = 4th step in scale
+
+   Literal values:
+     -100 = 100%
+     -pill = 9999px
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.br2 { border-radius: .25rem; }
+/*
+
+   BORDER STYLES
+   Docs: http://tachyons.io/docs/themes/borders/
+
+   Depends on base border module in _borders.css
+
+   Base:
+     b = border-style
+
+   Modifiers:
+     --none   = none
+     --dotted = dotted
+     --dashed = dashed
+     --solid  = solid
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+ */
+/*
+
+   BORDER WIDTHS
+   Docs: http://tachyons.io/docs/themes/borders/
+
+   Base:
+     bw = border-width
+
+   Modifiers:
+     0 = 0 width border
+     1 = 1st step in border-width scale
+     2 = 2nd step in border-width scale
+     3 = 3rd step in border-width scale
+     4 = 4th step in border-width scale
+     5 = 5th step in border-width scale
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/* Resets */
+/*
+
+  BOX-SHADOW
+  Docs: http://tachyons.io/docs/themes/box-shadow/
+
+  Media Query Extensions:
+   -ns = not-small
+   -m  = medium
+   -l  = large
+
+ */
+/*
+
+   CODE
+
+*/
+/*
+
+   COORDINATES
+   Docs: http://tachyons.io/docs/layout/position/
+
+   Use in combination with the position module.
+
+   Base:
+     top
+     bottom
+     right
+     left
+
+   Modifiers:
+     -0  = literal value 0
+     -1  = literal value 1
+     -2  = literal value 2
+     --1 = literal value -1
+     --2 = literal value -2
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   CLEARFIX
+   http://tachyons.io/docs/layout/clearfix/
+
+*/
+/* Nicolas Gallaghers Clearfix solution
+   Ref: http://nicolasgallagher.com/micro-clearfix-hack/ */
+/*
+
+   DISPLAY
+   Docs: http://tachyons.io/docs/layout/display
+
+   Base:
+    d = display
+
+   Modifiers:
+    n     = none
+    b     = block
+    ib    = inline-block
+    it    = inline-table
+    t     = table
+    tc    = table-cell
+    t-row          = table-row
+    t-columm       = table-column
+    t-column-group = table-column-group
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.dn { display: none; }
+.db { display: block; }
+.dib { display: inline-block; }
+/*
+  This will set table to full width and then
+  all cells will be equal width
+*/
+/*
+
+  FLEXBOX
+
+  Media Query Extensions:
+   -ns = not-small
+   -m  = medium
+   -l  = large
+
+*/
+/* 1. Fix for Chrome 44 bug.
+ * https://code.google.com/p/chromium/issues/detail?id=506893 */
+/*
+
+   FLOATS
+   http://tachyons.io/docs/layout/floats/
+
+   1. Floated elements are automatically rendered as block level elements.
+      Setting floats to display inline will fix the double margin bug in
+      ie6. You know... just in case.
+
+   2. Don't forget to clearfix your floats with .cf
+
+   Base:
+     f = float
+
+   Modifiers:
+     l = left
+     r = right
+     n = none
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   FONT FAMILY GROUPS
+   Docs: http://tachyons.io/docs/typography/font-family/
+
+*/
+/* Monospaced Typefaces (for code) */
+/* From http://cssfontstack.com */
+code, .code { font-family: Consolas, monaco, monospace; }
+/* Sans-Serif Typefaces */
+.avenir { font-family: 'avenir next', avenir, sans-serif; }
+/* Serif Typefaces */
+/*
+
+   FONT STYLE
+   Docs: http://tachyons.io/docs/typography/font-style/
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   FONT WEIGHT
+   Docs: http://tachyons.io/docs/typography/font-weight/
+
+   Base
+     fw = font-weight
+
+   Modifiers:
+     1 = literal value 100
+     2 = literal value 200
+     3 = literal value 300
+     4 = literal value 400
+     5 = literal value 500
+     6 = literal value 600
+     7 = literal value 700
+     8 = literal value 800
+     9 = literal value 900
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.fw6 { font-weight: 600; }
+/*
+
+   FORMS
+   
+*/
+/*
+
+   HEIGHTS
+   Docs: http://tachyons.io/docs/layout/heights/
+
+   Base:
+     h = height
+     min-h = min-height
+     min-vh = min-height vertical screen height
+     vh = vertical screen height
+
+   Modifiers
+     1 = 1st step in height scale
+     2 = 2nd step in height scale
+     3 = 3rd step in height scale
+     4 = 4th step in height scale
+     5 = 5th step in height scale
+
+     -25   = literal value 25%
+     -50   = literal value 50%
+     -75   = literal value 75%
+     -100  = literal value 100%
+
+     -auto = string value of auto
+     -inherit = string value of inherit
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/* Height Scale */
+.h1 { height: 1rem; }
+.h2 { height: 2rem; }
+/* Height Percentages - Based off of height of parent */
+/* Screen Height Percentage */
+/* String Properties */
+/*
+
+   LETTER SPACING
+   Docs: http://tachyons.io/docs/typography/tracking/
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   LINE HEIGHT / LEADING
+   Docs: http://tachyons.io/docs/typography/line-height
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   LINKS
+   Docs: http://tachyons.io/docs/elements/links/
+
+*/
+.link { text-decoration: none; transition: color .15s ease-in; }
+.link:link, .link:visited { transition: color .15s ease-in; }
+.link:hover { transition: color .15s ease-in; }
+.link:active { transition: color .15s ease-in; }
+.link:focus { transition: color .15s ease-in; outline: 1px dotted currentColor; }
+/*
+
+   LISTS
+   http://tachyons.io/docs/elements/lists/
+
+*/
+/*
+
+   MAX WIDTHS
+   Docs: http://tachyons.io/docs/layout/max-widths/
+
+   Base:
+     mw = max-width
+
+   Modifiers
+     1 = 1st step in width scale
+     2 = 2nd step in width scale
+     3 = 3rd step in width scale
+     4 = 4th step in width scale
+     5 = 5th step in width scale
+     6 = 6st step in width scale
+     7 = 7nd step in width scale
+     8 = 8rd step in width scale
+     9 = 9th step in width scale
+
+     -100 = literal value 100%
+
+     -none  = string value none
+
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/* Max Width Percentages */
+/* Max Width Scale */
+/* Max Width String Properties */
+/*
+
+   WIDTHS
+   Docs: http://tachyons.io/docs/layout/widths/
+
+   Base:
+     w = width
+
+   Modifiers
+     1 = 1st step in width scale
+     2 = 2nd step in width scale
+     3 = 3rd step in width scale
+     4 = 4th step in width scale
+     5 = 5th step in width scale
+
+     -10  = literal value 10%
+     -20  = literal value 20%
+     -25  = literal value 25%
+     -30  = literal value 30%
+     -33  = literal value 33%
+     -34  = literal value 34%
+     -40  = literal value 40%
+     -50  = literal value 50%
+     -60  = literal value 60%
+     -70  = literal value 70%
+     -75  = literal value 75%
+     -80  = literal value 80%
+     -90  = literal value 90%
+     -100 = literal value 100%
+
+     -third      = 100% / 3 (Not supported in opera mini or IE8)
+     -two-thirds = 100% / 1.5 (Not supported in opera mini or IE8)
+     -auto       = string value auto
+
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/* Width Scale */
+.w-100 { width: 100%; }
+.w-auto { width: auto; }
+/*
+
+    OVERFLOW
+
+    Media Query Extensions:
+      -ns = not-small
+      -m  = medium
+      -l  = large
+
+ */
+/*
+
+   POSITIONING
+   Docs: http://tachyons.io/docs/layout/position/
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+    OPACITY
+    Docs: http://tachyons.io/docs/themes/opacity/
+
+*/
+/*
+
+   ROTATIONS
+
+*/
+/*
+
+   SKINS
+   Docs: http://tachyons.io/docs/themes/skins/
+
+   Classes for setting foreground and background colors on elements.
+   If you haven't declared a border color, but set border on an element, it will 
+   be set to the current text color. 
+
+*/
+/* Text colors */
+/* Background colors */
+/* 
+  
+   SKINS:PSEUDO
+
+   Customize the color of an element when
+   it is focused or hovered over.
+ 
+ */
+/* Variables */
+/*
+   SPACING
+   Docs: http://tachyons.io/docs/layout/spacing/
+
+   An eight step powers of two scale ranging from 0 to 16rem.
+
+   Base:
+     p = padding
+     m = margin
+
+   Modifiers:
+     a = all
+     h = horizontal
+     v = vertical
+     t = top
+     r = right
+     b = bottom
+     l = left
+
+     0 = none
+     1 = 1st step in spacing scale
+     2 = 2nd step in spacing scale
+     3 = 3rd step in spacing scale
+     4 = 4th step in spacing scale
+     5 = 5th step in spacing scale
+     6 = 6th step in spacing scale
+     7 = 7th step in spacing scale
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.pa1 { padding: .25rem; }
+.pa2 { padding: .5rem; }
+.pt4 { padding-top: 2rem; }
+.pv1 { padding-top: .25rem; padding-bottom: .25rem; }
+.pv2 { padding-top: .5rem; padding-bottom: .5rem; }
+.pv3 { padding-top: 1rem; padding-bottom: 1rem; }
+.ph3 { padding-left: 1rem; padding-right: 1rem; }
+.mv0 { margin-top: 0; margin-bottom: 0; }
+/*
+   NEGATIVE MARGINS
+
+   Base:
+     n = negative
+
+   Modifiers:
+     a = all
+     t = top
+     r = right
+     b = bottom
+     l = left
+
+     1 = 1st step in spacing scale
+     2 = 2nd step in spacing scale
+     3 = 3rd step in spacing scale
+     4 = 4th step in spacing scale
+     5 = 5th step in spacing scale
+     6 = 6th step in spacing scale
+     7 = 7th step in spacing scale
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+  TABLES
+  Docs: http://tachyons.io/docs/elements/tables/
+
+*/
+/*
+
+   TEXT DECORATION
+   Docs: http://tachyons.io/docs/typography/text-decoration/
+
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.no-underline { text-decoration: none; }
+/*
+
+  TEXT ALIGN
+  Docs: http://tachyons.io/docs/typography/text-align/
+
+  Base
+    t = text-align
+
+  Modifiers
+    l = left
+    r = right
+    c = center
+    j = justify
+
+  Media Query Extensions:
+    -ns = not-small
+    -m  = medium
+    -l  = large
+
+*/
+.tr { text-align: right; }
+.tc { text-align: center; }
+/*
+
+   TEXT TRANSFORM
+   Docs: http://tachyons.io/docs/typography/text-transform/
+
+   Base:
+     tt = text-transform
+
+   Modifiers
+     c = capitalize
+     l = lowercase
+     u = uppercase
+     n = none
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   TYPE SCALE
+   Docs: http://tachyons.io/docs/typography/scale/
+
+   Base:
+    f = font-size
+
+   Modifiers
+     1 = 1st step in size scale
+     2 = 2nd step in size scale
+     3 = 3rd step in size scale
+     4 = 4th step in size scale
+     5 = 5th step in size scale
+     6 = 6th step in size scale
+     7 = 7th step in size scale
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+*/
+/*
+ * For Hero/Marketing Titles
+ *
+ * These generally are too large for mobile
+ * so be careful using them on smaller screens.
+ * */
+/* Type Scale */
+/* Small and hard to read for many people so use with extreme caution */
+/*
+
+   TYPOGRAPHY
+   http://tachyons.io/docs/typography/measure/
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/* Measure is limited to ~66 characters */
+/* Measure is limited to ~80 characters */
+/* Measure is limited to ~45 characters */
+/* Book paragraph style - paragraphs are indented with no vertical spacing. */
+/* Combine this class with a width to truncate text (or just leave as is to truncate at width of containing element. */
+/*
+
+   UTILITIES
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/* Equivalent to .overflow-y-scroll */
+/*
+
+   VISIBILITY
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+    Text that is hidden but accessible
+    Ref: http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+*/
+/*
+
+   WHITE SPACE
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+/*
+
+   VERTICAL ALIGN
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+.v-mid { vertical-align: middle; }
+/*
+
+  HOVER EFFECTS
+  Docs: http://tachyons.io/docs/themes/hovers/
+
+    - Dim
+    - Glow
+    - Hide Child
+    - Underline text
+    - Grow
+    - Pointer
+    - Shadow
+
+*/
+/*
+
+  Dim element on hover by adding the dim class.
+
+*/
+/*
+
+  Animate opacity to 100% on hover by adding the glow class.
+
+*/
+/*
+
+  Hide child & reveal on hover:
+
+  Put the hide-child class on a parent element and any nested element with the
+  child class will be hidden and displayed on hover or focus.
+
+  <div class="hide-child">
+    <div class="child"> Hidden until hover or focus </div>
+    <div class="child"> Hidden until hover or focus </div>
+    <div class="child"> Hidden until hover or focus </div>
+    <div class="child"> Hidden until hover or focus </div>
+  </div>
+*/
+/* Can combine this with overflow-hidden to make background images grow on hover
+ * even if you are using background-size: cover */
+/* Add pointer on hover */
+.pointer:hover { cursor: pointer; }
+/* 
+   Add shadow on hover.
+
+   Performant box-shadow animation pattern from 
+   http://tobiasahlin.com/blog/how-to-animate-box-shadow/ 
+*/
+/* Combine with classes in skins and skins-pseudo for 
+ * many different transition possibilities. */
+/*
+
+  Z-INDEX
+
+  Base
+    z = z-index
+
+  Modifiers
+    -0 = literal value 0
+    -1 = literal value 1
+    -2 = literal value 2
+    -3 = literal value 3
+    -4 = literal value 4
+    -5 = literal value 5
+    -999 = literal value 999
+    -9999 = literal value 9999
+
+    -max = largest accepted z-index value as integer
+
+    -inherit = string value inherit
+    -initial = string value initial
+    -unset = string value unset
+
+  MDN: https://developer.mozilla.org/en/docs/Web/CSS/z-index
+  Spec: http://www.w3.org/TR/CSS2/zindex.html
+  Articles:
+    https://philipwalton.com/articles/what-no-one-told-you-about-z-index/
+
+  Tips on extending:
+  There might be a time worth using negative z-index values.
+  Or if you are using tachyons with another project, you might need to
+  adjust these values to suit your needs.
+
+*/
+.z-max { z-index: 2147483647; }
+/*
+
+    NESTED
+    Tachyons module for styling nested elements
+    that are generated by a cms.
+
+*/
+/*
+
+  STYLES
+
+  Add custom styles here.
+
+*/
+/* Variables */
+/* Importing here will allow you to override any variables in the modules */
+/*
+
+   Tachyons
+   COLOR VARIABLES
+
+   Grayscale
+   - Solids
+   - Transparencies
+   Colors
+
+*/
+/*
+
+  CUSTOM MEDIA QUERIES
+
+  Media query values can be changed to fit your own content.
+  There are no magic bullets when it comes to media query width values.
+  They should be declared in em units - and they should be set to meet
+  the needs of your content. You can also add additional media queries,
+  or remove some of the existing ones.
+
+  These media queries can be referenced like so:
+
+  @media (--breakpoint-not-small) {
+    .medium-and-larger-specific-style {
+      background-color: red;
+    }
+  }
+
+  @media (--breakpoint-medium) {
+    .medium-screen-specific-style {
+      background-color: red;
+    }
+  }
+
+  @media (--breakpoint-large) {
+    .large-and-larger-screen-specific-style {
+      background-color: red;
+    }
+  }
+
+*/
+/* Media Queries */
+/* Debugging */
+/*
+
+  DEBUG CHILDREN
+  Docs: http://tachyons.io/docs/debug/
+
+  Just add the debug class to any element to see outlines on its
+  children.
+
+*/
+/*
+
+   DEBUG GRID
+   http://tachyons.io/docs/debug-grid/
+
+   Can be useful for debugging layout issues
+   or helping to make sure things line up perfectly.
+   Just tack one of these classes onto a parent element.
+
+*/
+/* Uncomment out the line below to help debug layout issues */
+/* @import './_debug'; */
+@media screen and (min-width: 30em) {
+ .flex-ns { display: flex; }
+ .fixed-ns { position: fixed; }
+ .pt6-ns { padding-top: 8rem; }
+ .pv3-ns { padding-top: 1rem; padding-bottom: 1rem; }
+}
+@media screen and (min-width: 30em) and (max-width: 60em) {
+ .pa2-m { padding: .5rem; }
+}
+@media screen and (min-width: 60em) {
+ .db-l { display: block; }
+ .w-10-l { width: 10%; }
+ .pa3-l { padding: 1rem; }
+ .pr5-l { padding-right: 4rem; }
+ .tr-l { text-align: right; }
+}
+
+</style></head>
     <body class="avenir w-100 primaryColor primaryBkg">
       <div class="fixed-ns w-100 tc tr-l pa1 pa2-m pa3-l pr5-l avenir primaryColor primaryBkg z-max">
   <span class="dib">
-  <a
-    id="home"
-    class="dib pv2 ph3 primaryColor pointer no-underline underline-grow"
-    href="/"
-  >Home</a>
+  <a id="home" class="dib pv2 ph3 primaryColor pointer no-underline underline-grow" href="/">Home</a>
   
     
-    <a
-      id="agenda"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="/agenda"
-    >Agenda</a>    
+    <a id="agenda" class="dib ph3 pv2 primaryColor pointer no-underline underline-grow" href="/agenda">Agenda</a>    
     
   
     
-    <a
-      id="speakers"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="/speakers"
-    >Speakers</a>    
+    <a id="speakers" class="dib ph3 pv2 primaryColor pointer no-underline underline-grow" href="/speakers">Speakers</a>    
     
   
     
-    <a
-      id="news"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="/news"
-    >News</a>    
+    <a id="news" class="dib ph3 pv2 primaryColor pointer no-underline underline-grow" href="/news">News</a>    
     
   
     
-    <a
-      id="venue"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="/venue"
-    >Venue</a>    
+    <a id="venue" class="dib ph3 pv2 primaryColor pointer no-underline underline-grow" href="/venue">Venue</a>    
     
   
     
-    <a
-      id="sponsors"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="/sponsors"
-    >Sponsors</a>    
+    <a id="sponsors" class="dib ph3 pv2 primaryColor pointer no-underline underline-grow" href="/sponsors">Sponsors</a>    
     
   
     
-    <a
-      id="coc"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="/coc"
-    >Code of Conduct</a>    
+    <a id="coc" class="dib ph3 pv2 primaryColor pointer no-underline underline-grow" href="/coc">Code of Conduct</a>    
     
   
     
-    <a
-      id="tickets"
-      class="dib ph3 pv2 mv0 fw6 contrastBkg contrastColor pointer ba b--transparent br2 no-underline underline-grow v-mid"
-      href="/tickets"
-    >Tickets</a>
+    <a id="tickets" class="dib ph3 pv2 mv0 fw6 contrastBkg contrastColor pointer ba b--transparent br2 no-underline underline-grow v-mid" href="/tickets">Tickets</a>
     
   
   </span>
@@ -108,7 +1286,7 @@ Need Help?</p>
 
 </div>
 
-    </body>
+    
     <div class="w-100 pv3 primaryColor">
     <div class="tc pv1 pv3-ns">
         
@@ -128,8 +1306,8 @@ Need Help?</p>
         
     </div>
     <div class="tc pv1 pv3-ns">
-        <a class="primaryColor no-underline pa2 v-mid" href="mailto:london@serverlessdays.io" >london@serverlessdays.io</a>
-        <a class="primaryColor no-underline pa2 v-mid" href="https://twitter.com/@serverlessLDN" >@serverlessLDN</a>
+        <a class="primaryColor no-underline pa2 v-mid" href="mailto:london@serverlessdays.io">london@serverlessdays.io</a>
+        <a class="primaryColor no-underline pa2 v-mid" href="https://twitter.com/@serverlessLDN">@serverlessLDN</a>
     </div>
 </div>
-</html>
+</body></html>
