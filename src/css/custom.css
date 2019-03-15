@@ -15,11 +15,32 @@
 .tertiaryContrastColor { color: #1e656d}
 .tertiaryContrastBkg { background: #ffffff}
 
+.w-05 { width: 5% }
+
 @media screen and (min-width: 30em) {
-    .heroImage {
+    .heroImage-ns {
         clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
     }
-    .shiftRight75 { margin-right: -75px }
-    .shiftRight90 { margin-right: -90px }
-    .shiftUp240 { margin-top:-240px }
+    .shiftRight75-ns { margin-right: -75px }
+    .shiftRight90-ns { margin-right: -90px }
+    .shiftUp240-ns { margin-top:-240px }
+    .w-05-ns { width: 5% }
+}
+
+@media screen and (min-width: 60em) {
+    .heroImage-l {
+        clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    }
+    .shiftRight75-l { margin-right: -75px }
+    .shiftRight90-l { margin-right: -90px }
+    .shiftUp240-l { margin-top:-240px }
+    .w-05-l { width: 5% }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .shiftRight75-m { margin-right: -75px }
+    .shiftRight90-m { margin-right: -90px }
+    .shiftUp240-m { margin-top:-240px }
+    .shiftUp90-m { margin-top:-90px }
+    .w-05-m { width: 5% }
 }

@@ -1,9 +1,11 @@
-<div class="w-100 pv5 primaryColor">
-    <div class="flex-ns">
-        <div class="w-10 dn db-ns">
-        </div>
+<div class="w-100 pv3 primaryColor">
+    <div class="tc pv1 pv3-ns">
         {% for item in navBarItems %}
             <a class="no-underline primaryColor pa2" href="{{ item.path }}">{{ item.name }}</a>
         {% endfor %}
+    </div>
+    <div class="tc pv1 pv3-ns">
+        <a class="primaryColor no-underline pa2 v-mid" href="mailto:{{ contact.email }}" >{{ contact.email }}</a>
+        <a class="primaryColor no-underline pa2 v-mid" href="{{ contact.twitter }}" >@serverlessLDN</a>
     </div>
 </div>

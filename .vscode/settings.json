@@ -1,9 +1,12 @@
 {
     "workbench.colorCustomizations": {
-        "titleBar.activeBackground": "#af4fa3",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#af4fa3",
-        "titleBar.inactiveForeground": "#e7e7e7"
+        "activityBar.background": "#3567d5",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#6a1630",
+        "activityBarBadge.foreground": "#e7e7e7"
     },
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "peacock.affectActivityBar": true,
+    "peacock.affectTitleBar": false
 }

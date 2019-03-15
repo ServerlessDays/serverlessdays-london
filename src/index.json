@@ -111,5 +111,9 @@
             "name": "Get Tickets"
         }
     }
-]
+],
+"contact": {
+    "email": "london@serverlessdays.io",
+    "twitter": "https://twitter.com/@serverlessLDN"
+}
 }
