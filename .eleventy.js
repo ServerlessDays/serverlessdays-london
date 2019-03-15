@@ -3,8 +3,18 @@ const md = new MarkdownIt()
 
 const Purgecss = require('purgecss')
 const { JSDOM } = require('jsdom')
+const CleanCSS = require("clean-css");
 
 const cssFiles = ['./src/css/custom.css','./src/css/markdown.css', './src/css/tachyons.css']
+
+const cleanCSSOptions = {
+  level: {
+    2: {
+      all: true, 
+      removeDuplicateRules: true 
+    }
+  }
+}
 
 const insertCss = (html, css) => {
 
@@ -51,7 +61,8 @@ module.exports = function (eleventyConfig) {
           for (let i = 0; i < purgecssResult.length; i++){
             cssMerge= cssMerge.concat(purgecssResult[i].css)
           }
-          return insertCss(content, cssMerge)
+          const cssMin = new CleanCSS(cleanCSSOptions).minify(cssMerge).styles
+          return insertCss(content, cssMin)
         }
       }
       return content

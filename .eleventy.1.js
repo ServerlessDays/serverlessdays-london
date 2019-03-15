@@ -19,7 +19,7 @@ const insertCss = (html, css) => {
 module.exports = function (eleventyConfig) {  
   eleventyConfig.addTransform("purgeCSS", function(content, outputPath){
     if( outputPath.endsWith(".html") ) {
-      console.log(outputPath)
+    
       const purgecss = new Purgecss({
         content: [outputPath],
         css: cssFiles
