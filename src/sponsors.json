@@ -1,5 +1,5 @@
 {
-    "layout": "coc.njk",
+    "layout": "sponsors.njk",
     "page": {
         "title": "ServerlessDays - Code of Conduct",
         "description": "One Day. One Track. One Community",

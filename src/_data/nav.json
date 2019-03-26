@@ -1,13 +1,15 @@
 {
-    "layout": "coc.njk",
-    "page": {
-        "title": "ServerlessDays - Code of Conduct",
-        "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/coc",
-        "image": "https://london.serverlessdays.io/img/london_large.jpg",
-        "twitter": "https://twitter.com/ServerlessLDN"
-    },
     "navBarItems": [
+        {
+            "key": "agenda",
+            "path": "/agenda",
+            "name": "Agenda"
+        },
+        {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
         {
             "key": "news",
             "path": "/news",

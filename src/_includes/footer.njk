@@ -1,11 +1,12 @@
 <div class="w-100 pv3 primaryColor">
     <div class="tc pv1 pv3-ns">
         {% for item in navBarItems %}
-            <a class="no-underline primaryColor pa2" href="{{ item.path }}">{{ item.name }}</a>
+            <a class="no-underline primaryColor pa2 f6" href="{{ item.path }}">{{ item.name }}</a>
         {% endfor %}
+        <a class="no-underline primaryColor pa2 f6" href="/privacy">Privacy Policy</a>
     </div>
     <div class="tc pv1 pv3-ns">
-        <a class="primaryColor no-underline pa2 v-mid" href="mailto:{{ contact.email }}" >{{ contact.email }}</a>
-        <a class="primaryColor no-underline pa2 v-mid" href="{{ contact.twitter }}" >@serverlessLDN</a>
+        <a class="primaryColor no-underline pa2 v-mid f5" href="mailto:{{ contact.email }}" >{{ contact.email }}</a>
+        <a class="primaryColor no-underline pa2 v-mid f5" href="{{ contact.twitter }}" >@serverlessLDN</a>
     </div>
 </div>

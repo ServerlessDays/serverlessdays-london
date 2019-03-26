@@ -1,0 +1,26 @@
+---
+layout: base.njk
+---
+
+<div class="pt4 pt6-ns w-100">
+    <div class="w-100 w-80-m w-60-l center">
+        <h1 class="f1">News</h1>
+    </div>
+    <div class="w-100 w-80-m w-60-l center ba br2 b--transparent shadow-3-light mb5 pa3">
+        <a class="no-underline primaryColor tl" href="{{ lead.link }}">
+            <div class="flex-ns">
+                <div class="w-100 w-70-ns pa3">
+                    <h2 class="f4 f3-ns mt2 mb0">{{ lead.headline }}</h2>
+                    <p class="f6 f5-ns">{{ lead.description }}</p>
+                    <div class="mv1 f5 i tl v-btm">{{ lead.date }}</div>
+                </div>
+                <div class="w-100 w-30-ns">
+                    <img class="cover" src="{{ lead.image }}" />
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+    

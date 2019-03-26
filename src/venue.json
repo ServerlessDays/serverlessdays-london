@@ -1,9 +1,9 @@
 {
-    "layout": "coc.njk",
+    "layout": "venue.njk",
     "page": {
-        "title": "ServerlessDays - Code of Conduct",
+        "title": "ServerlessDays - Venue",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/coc",
+        "url": "https://london.serverlessdays.io/venue",
         "image": "https://london.serverlessdays.io/img/london_large.jpg",
         "twitter": "https://twitter.com/ServerlessLDN"
     },
@@ -32,7 +32,7 @@
             "key": "tickets",
             "path": "/tickets",
             "name": "Tickets",
-            "cta": "true"
+            "cta": true
         }
     ]
 }

@@ -17,10 +17,14 @@
 
 .w-05 { width: 5% }
 
+.shadow-3-light { box-shadow: 2px 2px 4px 2px rgba(119, 119, 255, 0.2); }
+.shadow-5-light { box-shadow: 4px 4px 8px 0px rgba(119, 119, 255, 0.2); }
+
 @media screen and (min-width: 30em) {
     .heroImage-ns {
         clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
     }
+    .shiftRight60-ns { margin-right: -60px }
     .shiftRight75-ns { margin-right: -75px }
     .shiftRight90-ns { margin-right: -90px }
     .shiftUp240-ns { margin-top:-240px }
@@ -31,6 +35,7 @@
     .heroImage-l {
         clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
     }
+    .shiftRight60-l { margin-right: -60px }
     .shiftRight75-l { margin-right: -75px }
     .shiftRight90-l { margin-right: -90px }
     .shiftUp240-l { margin-top:-240px }
@@ -38,6 +43,7 @@
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
+    .shiftRight60-m { margin-right: -60px }
     .shiftRight75-m { margin-right: -75px }
     .shiftRight90-m { margin-right: -90px }
     .shiftUp240-m { margin-top:-240px }

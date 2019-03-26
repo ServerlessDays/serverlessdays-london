@@ -6,8 +6,8 @@ layout: base.njk
     </div>
     <div class="w-100 w-40-l tc tr-l">
         <img class="v-top-ns cover shiftRight90-l ph2 w-80 w-70-m w-100-l" src={{ eventDetails.logo }}>
-        <h1 class="avenir mr2 mr5-m mr0-l pr4 pr5-m pr0-l mt0 tr f3 f2-ns i mv0 mv1-ns shiftRight75-l">{{ eventDetails.name }}</h1>
-        <div class="avenir fw4 f4 pt0 pl3 pl0-ns tc tr-ns shiftRight75-l">
+        <h1 class="avenir mr2 mr5-m pr4 pr5-m pr0-l mt0 tr f3 f2-ns i mv0 mv1-ns shiftRight60-l">{{ eventDetails.name }}</h1>
+        <div class="avenir fw4 f4 pt0 pl3 pl0-ns tc tr-ns shiftRight60-l">
             <p class="tc tr-l f4 f3-l mv2">{{eventDetails.endDate}}</p>
         </div>
     </div>
@@ -83,3 +83,4 @@ layout: base.njk
         </div>
     </div>
 </div>
+{% include 'signup.njk' %}

@@ -6,18 +6,7 @@
     "url": "https://serverlessdays.io",
     "image": "https://london.serverlessdays.io/img/london_large.jpg",
     "twitter": "https://twitter.com/ServerlessLDN"
-    },
-"navBarItems": [
-    {
-        "key": "agenda",
-        "path": "/agenda",
-        "name": "Agenda"
-    },
-    {
-        "key": "speakers",
-        "path": "/speakers",
-        "name": "Speakers"
-    },
+},"navBarItems": [
     {
         "key": "news",
         "path": "/news",
@@ -51,7 +40,7 @@
     "startDate": "9 July 2019",
     "endDate": "11 July 2019",
     "logo": "img/serverless_white_new.svg",
-    "hero": "img/london_large.jpg",
+    "hero": "img/imperial_above.jpg",
     "tagline": "One Day. One Track. One Community",
     "milestones": [
         {
@@ -87,15 +76,15 @@
 "section": [
     {
         "name": "Speak",
-        "text": "Communitites grow through sharing. Take the opportunity to share your experiences working with Serverless platforms and technologies. We're looking for all levels of talks, from beginner to advanced, and all levels of speakers. If you're a first time speaker we offer mentoring, from assisting with your CFP submission, advice on your slides and helping you with your presentation and delivery.",
+        "text": "Communities grow through sharing. Take the opportunity to share your experiences working with Serverless platforms and technologies. We're looking for all levels of talks, from beginner to advanced, and all levels of speakers. If you're a first time speaker we offer mentoring, from assisting with your CFP submission, advice on your slides and helping you with your presentation and delivery.",
         "cta": {
-            "path": "https://papercall.io",
+            "path": "https://www.papercall.io/serverlessdaysldn2019",
             "name": "Submit a talk"
         }
     },
     {
         "name": "Sponsor",
-        "text": "Steve O'Grady writes in **The New Kingmakers** that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. ServerlessDays events are attended by developers pushing the boundaries of new technology, to the benifit of the organisations they work for, whether it's a startup looking to change the world, or an established 300 year old bank that continues to change the world. Get in front of these New Kingmakers at ServerlessDays London.",
+        "text": "Steve O'Grady writes in **The New Kingmakers** that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. ServerlessDays events are attended by developers pushing the boundaries of new technology, to the benefit of the organisations they work for, whether it's a startup looking to change the world, or an established 300 year old bank that continues to change the world. Get in front of these New Kingmakers at ServerlessDays London.",
         "image": "img/sponsor_grid.svg",
         "cta": {
             "path": "/sponsor",
