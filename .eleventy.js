@@ -39,14 +39,7 @@ module.exports = function (eleventyConfig) {
     // Copy the `css/fonts/` directory
     // If you use a subdirectory, it’ll copy using the same directory structure.
     // eleventyConfig.addPassthroughCopy('src/css')
-    eleventyConfig.addNunjucksShortcode("markdown", function(text) { return md.render(text) });
-    eleventyConfig.addFilter('csspurge', function(code) {
-      const purgecss = new Purgecss({
-        content: ['_includes/*'],
-        css: ['**/*.css']
-      })
-      return purgecssResult = purgecss.purge()
-    })
+    eleventyConfig.addNunjucksShortcode("markdown", function(text) { return md.render(text) }); 
     
     eleventyConfig.addTransform("purgeCSS", function(content, outputPath){
       if( outputPath.endsWith(".html") ) {
