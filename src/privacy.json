@@ -14,16 +14,6 @@
             "name": "News"
         },
         {
-            "key": "venue",
-            "path": "/venue",
-            "name": "Venue"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
-        },
-        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
