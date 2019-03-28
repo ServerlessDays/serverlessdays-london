@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:url" content="{{ page.url }}">
+    <meta property="og:image" content="{{ page.image }}">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:site" content="{{ page.twitter }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:url" content="{{ page.url }}">
+    <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <script src='https://js.tito.io/v1' async></script>
+    <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon"/>
+    </head>
+    <body class="avenir w-100 primaryColor primaryBkg">
+      {% include 'navBar.njk' %}
+        {{ content | safe }}
+    </body>
+    {% include 'footer.njk' %}
+</html>

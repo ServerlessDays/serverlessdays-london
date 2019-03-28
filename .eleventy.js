@@ -35,6 +35,7 @@ const insertCss = (html, css) => {
 module.exports = function (eleventyConfig) {
     // Copy the `img/` directory
     eleventyConfig.addPassthroughCopy('src/img')
+    eleventyConfig.addPassthroughCopy('src/static')
   
     // Copy the `css/fonts/` directory
     // If you use a subdirectory, it’ll copy using the same directory structure.

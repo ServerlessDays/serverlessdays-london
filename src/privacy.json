@@ -4,7 +4,7 @@
         "title": "ServerlessDays - Privacy Policy",
         "description": "One Day. One Track. One Community",
         "url": "https://london.serverlessdays.io/venue",
-        "image": "https://london.serverlessdays.io/img/london_large.jpg",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
         "twitter": "https://twitter.com/ServerlessLDN"
     },
     "navBarItems": [
@@ -20,7 +20,7 @@
             },
         {
             "key": "tickets",
-            "path": "/tickets",
+            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
             "name": "Tickets",
             "cta": true
         }

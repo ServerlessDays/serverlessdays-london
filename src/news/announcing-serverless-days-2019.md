@@ -1,7 +1,6 @@
 # Announcing ServerlessDays London 2019
 
 
-
 - Conference: July 11th 2019
 - Workshops: July 9th & 10th 2019
 - Location: Imperial College London
