@@ -2,7 +2,7 @@
 layout: base.njk
 ---
 <div class="flex-l pt4 pt6-ns w-100 db">
-    <div class="w-auto w-10-l dn db-l tr">
+    <div class="w-auto w-10-l dn db-l">
     </div>
     <div class="w-100 w-40-l tc tr-l">
         <img class="v-top-ns cover shiftRight90-l ph2 w-80 w-70-m w-100-l" src={{ eventDetails.logo }}>
@@ -11,7 +11,9 @@ layout: base.njk
             <p class="tc tr-l f4 f3-l mv2">{{eventDetails.endDate}}</p>
         </div>
     </div>
-    <div class="w-100 w-50-l tl-l v-top cover pa0 pr3-l">
+    <div class="w-auto w-10-l dn db-l">
+    </div>
+    <div class="w-100 w-40-l tr-l v-top cover pa0">
         <img src="{{ eventDetails.hero }}" class="heroImage-l">
     </div>
 </div>
@@ -44,7 +46,7 @@ layout: base.njk
         </div>
         <div class="w-100 w-10-l dn db-l">
         </div>
-        <div class="dt w-100 w-40-m w-20-l ph3 ph0-ns"> 
+        <div class="dt w-100 w-40-m w-30-l ph3 ph0-ns"> 
             <p class="fw7 mv3 pt3 pt0-ns f4">Milestones</p>
             {% for item in eventDetails.milestones %}
                 <div class="dt-row f5">

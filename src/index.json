@@ -13,6 +13,11 @@
         "name": "News"
     },
     {
+        "key": "sponsors",
+        "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+        "name": "Sponsors"
+    },
+    {
         "key": "coc",
         "path": "/coc",
         "name": "Code of Conduct"
