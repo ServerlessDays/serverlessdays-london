@@ -3,8 +3,8 @@
     "page": {
         "title": "ServerlessDays - Privacy Policy",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/venue",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
+        "url": "https://sydney.serverlessdays.io/venue",
+        "image": "https://sydney.serverlessdays.io/img/imperial_above.jpg",
         "twitter": "https://twitter.com/ServerlessLDN"
     },
     "navBarItems": [
@@ -15,7 +15,7 @@
         },
         {
             "key": "sponsors",
-            "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+            "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
             "name": "Sponsors"
         },
         {
@@ -25,7 +25,7 @@
             },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
             "name": "Tickets",
             "cta": true
         }

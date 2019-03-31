@@ -24,7 +24,7 @@ Conference format will be similar be previous events. Single track sessions (aim
 
 ### CFP
 
-Share your Serverless experiences at ServerlessDays London. The CFP is now open until 13 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdaysldn2019)
+Share your Serverless experiences at ServerlessDays London. The CFP is now open until 13 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdays-sydney)
 
 ### Workshops
 

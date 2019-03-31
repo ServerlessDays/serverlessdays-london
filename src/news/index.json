@@ -3,8 +3,8 @@
     "page": {
         "title": "ServerlessDays - News",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/news",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
+        "url": "https://sydney.serverlessdays.io/news",
+        "image": "https://sydney.serverlessdays.io/img/imperial_above.jpg",
         "twitter": "https://twitter.com/ServerlessLDN"
     },
     "navBarItems": [
@@ -20,14 +20,14 @@
             },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
             "name": "Tickets",
             "cta": true
         }
     ],
     "lead": {
-        "headline": "Announcing ServerlessDays London 2019",
-        "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+        "headline": "Announcing ServerlessDays Sydney 2019",
+        "description": "ServerlessDays Sydney 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
         "date": "26 March 2019",
         "link": "./announcing-serverless-days-2019",
         "image": ""

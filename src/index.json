@@ -4,7 +4,7 @@
     "title": "ServerlessDays - Home",
     "description": "One Day. One Track. One Community",
     "url": "https://serverlessdays.io",
-    "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
+    "image": "https://sydney.serverlessdays.io/img/imperial_above.jpg",
     "twitter": "https://twitter.com/ServerlessLDN"
 },"navBarItems": [
     {
@@ -14,7 +14,7 @@
     },
     {
         "key": "sponsors",
-        "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+        "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
         "name": "Sponsors"
     },
     {
@@ -24,13 +24,13 @@
         },
     {
         "key": "tickets",
-        "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+        "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
         "name": "Tickets",
         "cta": "true"
     }
 ],
 "eventDetails": {
-    "name": "London",
+    "name": "sydney",
     "description":"Let's get Serverless",
     "startDate": "9 July 2019",
     "endDate": "11 July 2019",
@@ -64,7 +64,7 @@
         }
     ],
     "cta": {
-        "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+        "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
         "name": "Get Tickets"
     }
 },
@@ -73,31 +73,31 @@
         "name": "Speak",
         "text": "Communities grow through sharing. Take the opportunity to share your experiences working with Serverless platforms and technologies. We're looking for all levels of talks, from beginner to advanced, and all levels of speakers. If you're a first time speaker we offer mentoring, from assisting with your CFP submission, advice on your slides and helping you with your presentation and delivery.",
         "cta": {
-            "path": "https://www.papercall.io/serverlessdaysldn2019",
+            "path": "https://www.papercall.io/serverlessdays-sydney",
             "name": "Submit a talk"
         }
     },
     {
         "name": "Sponsor",
-        "text": "Steve O'Grady writes in **The New Kingmakers** that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. ServerlessDays events are attended by developers pushing the boundaries of new technology, to the benefit of the organisations they work for, whether it's a startup looking to change the world, or an established 300 year old bank that continues to change the world. Get in front of these New Kingmakers at ServerlessDays London.",
+        "text": "Steve O'Grady writes in **The New Kingmakers** that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. ServerlessDays events are attended by developers pushing the boundaries of new technology, to the benefit of the organisations they work for, whether it's a startup looking to change the world, or an established 300 year old bank that continues to change the world. Get in front of these New Kingmakers at ServerlessDays sydney.",
         "image": "img/sponsor_grid.svg",
         "cta": {
-            "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+            "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
             "name": "Sponsor"
         }
     },
     {
         "name": "Attend",
-        "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. ",
+        "text": "After two great years in East sydney, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. ",
         "image": "img/imperial_med.jpeg",
         "cta": {
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
             "name": "Get Tickets"
         }
     }
 ],
 "contact": {
-    "email": "london@serverlessdays.io",
+    "email": "sydney@serverlessdays.io",
     "twitter": "https://twitter.com/@serverlessLDN"
 }
 }
