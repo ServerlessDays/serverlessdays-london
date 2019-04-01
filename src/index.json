@@ -21,19 +21,13 @@
         "key": "coc",
         "path": "/coc",
         "name": "Code of Conduct"
-        },
-    {
-        "key": "tickets",
-        "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
-        "name": "Tickets",
-        "cta": "true"
     }
 ],
 "eventDetails": {
     "name": "Sydney",
     "description":"Let's get Serverless",
-    "startDate": "9 July 2019",
-    "endDate": "11 July 2019",
+    "startDate": "27 August 2019",
+    "endDate": "27 August 2019",
     "logo": "img/serverless_white_new.svg",
     "hero": "img/SydneyHarbourOperaHouse.jpg",
     "tagline": "One Day. One Track. One Community",
@@ -56,8 +50,8 @@
         }
     ],
     "cta": {
-        "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
-        "name": "Get Tickets"
+        "path": "/news",
+        "name": "Latest News"
     }
 },
 "section": [
@@ -79,12 +73,12 @@
         }
     },
     {
-        "name": "Attend",
+        "name": "Find out more",
         "text": "ServerlessDays will be hosted at **Darlinghurst Theatre Company** near the Oxford Art Factory. Located between Museum and Kings Cross stations, it is located in the cultural heartland of Sydney. Darlinghurst Theatre Company offers a lot of character as a venue and maintains itself in good proportion to its local surronds. ",
         "image": "img/DarlinghurstTheatreCompany.jpg",
         "cta": {
-            "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
-            "name": "Get Tickets"
+            "path": "/news",
+            "name": "Latest News"
         }
     }
 ],

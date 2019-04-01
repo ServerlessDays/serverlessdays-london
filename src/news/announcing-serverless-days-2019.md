@@ -54,6 +54,6 @@ __Shay Hamama__ runs the ServerlessDays Sydney meetup group, is the main driving
 
 __Robert Preswick__ is one of the new members to the team in 2019. Previously she was a Marketing Director for Optimizely based in Sydney. With many years running and sponsoring tech events, she brings a wealth of experience to the team.
 
-__Peter Hanssens__ is the other addition to the team this year. She's the head of marketing at Reason, a Sydney based digital product agency, that is all in on Serverless technologies. She can be found on Twitter at [@bestofallhans](https://twitter.com/bestofallhans)
+__Peter Hanssens__ is the co-organiser of the Sydney Serverless meetup as well as the Sydney Data Engineering meetup. He's spent the last few years working in cloud including a stint at A Cloud Guru, one of the more famous serverless startups. He tweets at [@petehanssens](https://twitter.com/petehanssens)
 
 
