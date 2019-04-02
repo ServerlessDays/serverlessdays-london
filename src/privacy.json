@@ -4,7 +4,7 @@
         "title": "ServerlessDays - Privacy Policy",
         "description": "One Day. One Track. One Community",
         "url": "https://london.serverlessdays.io/venue",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
+        "image": "https://london.serverlessdays.io/img/imperial_med.jpg",
         "twitter": "https://twitter.com/ServerlessLDN"
     },
     "navBarItems": [
@@ -15,7 +15,7 @@
         },
         {
             "key": "sponsors",
-            "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+            "path": "/static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
             "name": "Sponsors"
         },
         {

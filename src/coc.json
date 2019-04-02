@@ -15,7 +15,7 @@
         },
         {
             "key": "sponsors",
-            "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+            "path": "/static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
             "name": "Sponsors"
         },
         {
