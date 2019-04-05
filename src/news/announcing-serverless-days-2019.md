@@ -33,9 +33,13 @@ We've found an amazing venue for the conference: [Darlinghurst Theatre Company](
 
 ### The Team
 
-__Shay Hamama__ is a keen enthusiast on Serverless technology and as Chief Product Officer at Luxury Escapes, he wants to open up the concept of serverless to those outside of engineering. He brings a wealth of knowledge in event organising from previous conferences and events.
-
-__Robert Preswick__ is Product Manager at Luxury Escapes and likes to see what becomes possible under Serverless that wasn't before. His experience as a PM helps keep the conference on track.
+(In Alphabetical Order)
 
 __Peter Hanssens__ is the co-organiser of the Sydney Serverless meetup as well as the Sydney Data Engineering meetup. He's spent the last few years working in cloud including a stint at A Cloud Guru, one of the more famous serverless startups. He tweets at [@petehanssens](https://twitter.com/petehanssens)
+
+__Robert Preswick__ is Product Manager at Luxury Escapes and likes to see what becomes possible under Serverless that wasn't before. Seeing the conference as another product he needs to deliver, his experience as a Product Manager helps in putting together a great conference for the attendees.
+
+__Shay Hamama__ is a keen enthusiast on new technologies and the way they change products and user experience. As Chief Product Officer at Luxury Escapes, he wants to open up the concept of serverless to those outside of engineering.
+
+__Timothy Downs__ is a tech and infrastructure professional, Head of Engineering at Luxury Escapes.  Tim is passionate about top-notch technologies and how to make the most out of them. Tim's experience and passion ensure we curate the right content for the conference.
 
