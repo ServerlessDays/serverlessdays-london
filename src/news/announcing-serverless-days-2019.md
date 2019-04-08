@@ -63,6 +63,6 @@ __Paul Johnston__ is ex-AWS Senior Developer Advocate for Serverless, and ex-CTO
 
 __Saffron Governor__ runs the show on the day, and basically makes it look as smooth as possible. She is pretty amazing, and certainly makes the rest of us look better. A pretty amazing person all round actually.
 
-__Simona Cotin__ works at Azure as a Cloud Developer Advocate and knows how to do amazing things with Azure Functions! What she doesn't know about Azure is probably not worth knowing. Tweets at [@simon_cotin](https://twitter.com/simona_cotin).
+__Simona Cotin__ works at Azure as a Cloud Developer Advocate and knows how to do amazing things with Azure Functions! What she doesn't know about Azure is probably not worth knowing. Tweets at [@simona_cotin](https://twitter.com/simona_cotin).
 
 

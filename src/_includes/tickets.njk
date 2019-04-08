@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+<div class="ph3 ph0-ns pt4 pt6-ns w-100">
+    <div class="markdown-body mw6-m mw7-l avenir center">
+        {{ content | safe }}
+    </div>
+
+    <div class="w-100 w-80-l center pt4 pb5">
+        <div class="dt center">
+        {% for ticket in tickets %}
+        <div class="dt-row">
+            <div class="dtc pt2 pb4 ph2">
+                <div class="b">{{ ticket.title }}</div>
+                <div class="pv2">{{ ticket.description }}</div>
+            </div>
+            
+            <div class="dtc b pt2 pb4 ph2 v-mid f4">{{ ticket.price }}</div>
+            <div class="dtc pt2 pb4 ph2 tc v-mid"><a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m contrastBkg contrastColor" href="{{ ticket.cta.path }}" target="_blank">{{ ticket.cta.name }}</a></div>
+        </div>
+        {% endfor %}
+        </div>
+    </div> 
+</div>
