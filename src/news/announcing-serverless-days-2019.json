@@ -15,7 +15,7 @@
         },
         {
             "key": "sponsors",
-            "path": "/static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+            "path": "/sponsors",
             "name": "Sponsors"
         },
         {
@@ -25,9 +25,13 @@
         },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "/tickets",
             "name": "Tickets",
             "cta": "true"
         }
-    ]
+    ],
+    "contact": {
+        "email": "london@serverlessdays.io",
+        "twitter": "https://twitter.com/@serverlessLDN"
+    }
 }

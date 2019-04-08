@@ -1,7 +1,7 @@
 {
     "layout": "sponsors.njk",
     "page": {
-        "title": "ServerlessDays - Code of Conduct",
+        "title": "ServerlessDays - Sponsors",
         "description": "One Day. One Track. One Community",
         "url": "https://london.serverlessdays.io/coc",
         "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
@@ -12,11 +12,6 @@
             "key": "news",
             "path": "/news",
             "name": "News"
-        },
-        {
-            "key": "venue",
-            "path": "/venue",
-            "name": "Venue"
         },
         {
             "key": "sponsors",
@@ -30,9 +25,19 @@
             },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "/tickets",
             "name": "Tickets",
             "cta": "true"
         }
-    ]
+    ],
+    "sponsor": {
+        "cta": {
+            "path": "/static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
+            "name": "Download"
+        }
+    },
+    "contact": {
+        "email": "london@serverlessdays.io",
+        "twitter": "https://twitter.com/@serverlessLDN"
+    }
 }

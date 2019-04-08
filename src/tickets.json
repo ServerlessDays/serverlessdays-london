@@ -1,0 +1,66 @@
+{
+    "layout": "tickets.njk",
+    "page": {
+        "title": "ServerlessDays - Tickets",
+        "description": "One Day. One Track. One Community",
+        "url": "https://london.serverlessdays.io/coc",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
+        "twitter": "https://twitter.com/ServerlessLDN"
+    },
+    "navBarItems": [
+        {
+            "key": "news",
+            "path": "/news",
+            "name": "News"
+        },
+        {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
+        {
+            "key": "coc",
+            "path": "/coc",
+            "name": "Code of Conduct"
+            },
+        {
+            "key": "tickets",
+            "path": "/tickets",
+            "name": "Tickets",
+            "cta": "true"
+        }
+    ],
+    "tickets": [
+            {
+                "title": "Standard Ticket",
+                "description": "Standard Admission",
+                "price": "£35",
+                "cta": {            
+                    "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+                    "name": "Buy"
+                }
+            },
+            {
+                "title": "Standard + Sponsor Ticket",
+                "description": "Standard Admission for you and sponsor a ticket for someone else",
+                "price": "£70",
+                "cta": {            
+                    "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+                    "name": "Buy"
+                }
+            },
+            {
+                "title": "Scholarship",
+                "description": "Are you from an under represented minority? Apply for our scholarship via diversitytickets.org",
+                "price": "£0",
+                "cta": {            
+                    "path": "https://diversitytickets.org/en/events/420",
+                    "name": "Apply"
+                }
+            }
+        ],
+    "contact": {
+        "email": "london@serverlessdays.io",
+        "twitter": "https://twitter.com/@serverlessLDN"
+    }
+}

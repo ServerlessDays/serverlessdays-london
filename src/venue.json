@@ -34,5 +34,9 @@
             "name": "Tickets",
             "cta": true
         }
-    ]
+    ],
+    "contact": {
+        "email": "london@serverlessdays.io",
+        "twitter": "https://twitter.com/@serverlessLDN"
+    }
 }
