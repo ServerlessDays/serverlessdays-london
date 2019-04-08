@@ -21,6 +21,12 @@
         "key": "coc",
         "path": "/coc",
         "name": "Code of Conduct"
+    },
+    {
+        "key": "tickets",
+        "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+        "name": "Tickets",
+        "cta": "true"
     }
 ],
 "eventDetails": {
@@ -73,12 +79,12 @@
         }
     },
     {
-        "name": "Find out more",
+        "name": "Attend",
         "text": "ServerlessDays will be hosted at **Darlinghurst Theatre Company** near the Oxford Art Factory. Located between Museum and Kings Cross stations, it is located in the cultural heartland of Sydney. Darlinghurst Theatre Company offers a lot of character as a venue and maintains itself in good proportion to its local surronds. ",
         "image": "img/DarlinghurstTheatreCompany.jpg",
         "cta": {
-            "path": "/news",
-            "name": "Latest News"
+            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+            "name": "Get Tickets"
         }
     }
 ],

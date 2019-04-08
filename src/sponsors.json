@@ -27,6 +27,12 @@
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
+        },
+        {
+            "key": "tickets",
+            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+            "name": "Tickets",
+            "cta": "true"
         }
     ]
 }
