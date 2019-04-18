@@ -27,4 +27,10 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
+In addition, on the day of the event, a safety team consisting of individuals independent from the local organising team, will be identified that you can contact if you feel unsafe or harrassed.
+
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+
+Additional options to report Code of Conduct related issues include
+
+- Email report@serverlessdays.io with details. This email address is monitored by a group of individuals independent for the local ServerlessDays organising team.
