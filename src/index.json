@@ -6,11 +6,17 @@
     "url": "https://serverlessdays.io",
     "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
     "twitter": "https://twitter.com/ServerlessLDN"
-},"navBarItems": [
+},
+"navBarItems": [
     {
         "key": "news",
         "path": "/news",
         "name": "News"
+    },
+    {
+        "key": "speakers",
+        "path": "/speakers",
+        "name": "Speakers"
     },
     {
         "key": "sponsors",

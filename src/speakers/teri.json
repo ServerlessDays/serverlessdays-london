@@ -1,9 +1,9 @@
 {
-    "layout": "news.njk",
+    "layout": "speaker.njk",
     "page": {
-        "title": "ServerlessDays - News",
-        "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/news",
+        "title": "ServerlessDays - Teri Radichel",
+        "description": "Teri Radichel is leading authority on Cloud Security",
+        "url": "https://serverlessdays.io",
         "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
         "twitter": "https://twitter.com/ServerlessLDN"
     },
@@ -32,18 +32,21 @@
             "key": "tickets",
             "path": "/tickets",
             "name": "Tickets",
-            "cta": true
+            "cta": "true"
         }
     ],
-    "lead": {
-        "headline": "Announcing ServerlessDays London 2019",
-        "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
-        "date": "26 March 2019",
-        "link": "./announcing-serverless-days-2019",
-        "image": ""
-    },
-    "contact": {
-        "email": "london@serverlessdays.io",
-        "twitter": "https://twitter.com/@serverlessLDN"
-    }
+    "speakers" :  [
+        {
+            "img": "/img/teriradichel.jpg",
+            "alt": "Teri Radichel"
+        },
+        {
+            "img": "/img/linclark.jpg",
+            "alt": "Lin Clark"
+        },
+        {
+            "img": "/img/sarahdrasner.jpg",
+            "alt": "Sarah Drasner"
+        }
+    ]
 }
