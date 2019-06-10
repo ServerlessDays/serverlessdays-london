@@ -1,11 +1,13 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays - Privacy Policy",
+        "title": "ServerlessDays London - Home",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/venue",
-        "image": "https://london.serverlessdays.io/img/imperial_med.jpg",
-        "twitter": "https://twitter.com/ServerlessLDN"
+        "url": "https://london.serverlessdays.io/privacy",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
+        "twitter": "https://twitter.com/ServerlessLDN",
+        "date": "11 July 2019",
+        "location": "Imperial College, South Kensington, London"
     },
     "navBarItems": [
         {

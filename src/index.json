@@ -1,11 +1,13 @@
 {
 "layout": "home.njk",
 "page": {
-    "title": "ServerlessDays - Home",
+    "title": "ServerlessDays London - Home",
     "description": "One Day. One Track. One Community",
-    "url": "https://serverlessdays.io",
-    "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
-    "twitter": "https://twitter.com/ServerlessLDN"
+    "url": "https://london.serverlessdays.io",
+    "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
+    "twitter": "https://twitter.com/ServerlessLDN",
+    "date": "11 July 2019",
+    "location": "Imperial College, South Kensington, London"
 },
 "navBarItems": [
     {
@@ -40,44 +42,142 @@
     "description":"Let's get Serverless",
     "startDate": "9 July 2019",
     "endDate": "11 July 2019",
-    "logo": "img/serverless_white_new.svg",
-    "hero": "img/imperial_above.jpg",
+    "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
+    "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
     "tagline": "One Day. One Track. One Community",
-    "milestones": [
-        {
-            "date": "25 March 2019",
-            "description": "CFP Opens"
-        },
-        {
-            "date": "13 May 2019",
-            "description": "CFP Closes"
-        },
-        {
-            "date": "27 May 2019",
-            "description": "Speakers Announced"
-        },
-        {
-            "date": "9 July 2019",
-            "description": "Workshop Day"
-        },
-        {
-            "date": "10 July 2019",
-            "description": "Workshop Day"
-        },
-        {
-            "date": "11 July 2019",
-            "description": "ServerlessDay!"
-        }
-    ],
     "cta": {
         "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
         "name": "Get Tickets"
     }
 },
+"sponsors": {
+    "platinum": [
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "alt": "Amazon Web Services",
+            "link": "https://aws.amazon.com"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_85/v1559653248/cloudflare.png",
+            "alt": "Cloudflare",
+            "link": "https://cloudflare.com"
+        }
+    ],
+    "gold": [
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
+            "alt": "Google Cloud Platform",
+            "link": "https://cloud.google.com"
+        }
+    ],
+    "silver": [
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1560201785/scale_factory.png",
+            "alt": "Scale Factory",
+            "link": "https://www.scalefactory.com/"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
+            "alt": "IBM",
+            "link": "https://cloud.ibm.com"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1560205139/Thundra_white.png",
+            "alt": "Thundra",
+            "link": "https://thundra.io"
+        }
+    ],
+    "community": [
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1528242508/reason-white.png",
+            "alt": "Reason",
+            "link": "https://reason.co"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/London/2019/nearst.png",
+            "alt": "NearSt",
+            "link": "https://near.st"
+        }
+    ]
+},
 "section": [
     {
-        "name": "Speak",
-        "text": "Communities grow through sharing. Take the opportunity to share your experiences working with Serverless platforms and technologies. We're looking for all levels of talks, from beginner to advanced, and all levels of speakers. If you're a first time speaker we offer mentoring, from assisting with your CFP submission, advice on your slides and helping you with your presentation and delivery.",
+        "name": "Speakers",
+        "text": "We are lucky to have some world class speakers this year from around the world.",
+        "featured": [
+            {
+                "img": "/img/teriradichel.jpg",
+                "alt": "Teri Radichel",
+                "link": "/speakers/teri",
+                "talk": "Cloud Security for Developers"
+            },
+            {
+                "img": "/img/linclark.jpg",
+                "alt": "Lin Clark",
+                "link": "/speakers/lin",
+                "talk": "The future of WebAssembly and Serverless"
+            },
+            {
+                "img": "/img/sarahdrasner.jpg",
+                "alt": "Sarah Drasner",
+                "link": "/speakers/sarah",
+                "talk": "The Art of Code Comments"
+            },
+            {
+                "img": "/img/teriradichel.jpg",
+                "alt": "Teri Radichel",
+                "link": "/speakers/teri",
+                "talk": "Cloud Security for Developers"
+            },
+            {
+                "img": "/img/linclark.jpg",
+                "alt": "Lin Clark",
+                "link": "/speakers/lin",
+                "talk": "The future of WebAssembly and Serverless"
+            },
+            {
+                "img": "/img/sarahdrasner.jpg",
+                "alt": "Sarah Drasner",
+                "link": "/speakers/sarah",
+                "talk": "The Art of Code Comments"
+            },
+            {
+                "img": "/img/teriradichel.jpg",
+                "alt": "Teri Radichel",
+                "link": "/speakers/teri",
+                "talk": "Cloud Security for Developers"
+            },
+            {
+                "img": "/img/linclark.jpg",
+                "alt": "Lin Clark",
+                "link": "/speakers/lin",
+                "talk": "The future of WebAssembly and Serverless"
+            },
+            {
+                "img": "/img/sarahdrasner.jpg",
+                "alt": "Sarah Drasner",
+                "link": "/speakers/sarah",
+                "talk": "The Art of Code Comments"
+            },
+            {
+                "img": "/img/teriradichel.jpg",
+                "alt": "Teri Radichel",
+                "link": "/speakers/teri",
+                "talk": "Cloud Security for Developers"
+            },
+            {
+                "img": "/img/linclark.jpg",
+                "alt": "Lin Clark",
+                "link": "/speakers/lin",
+                "talk": "The future of WebAssembly and Serverless"
+            },
+            {
+                "img": "/img/sarahdrasner.jpg",
+                "alt": "Sarah Drasner",
+                "link": "/speakers/sarah",
+                "talk": "The Art of Code Comments"
+            }
+        ],
         "cta": {
             "path": "https://www.papercall.io/serverlessdaysldn2019",
             "name": "Submit a talk"
