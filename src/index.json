@@ -71,73 +71,73 @@
     },
     "speakers": [
         {
-            "img": "/img/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
             "link": "/speakers/teri",
             "talk": "Cloud Security for Developers"
         },
         {
-            "img": "/img/linclark.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
             "alt": "Lin Clark",
             "link": "/speakers/lin",
             "talk": "The future of WebAssembly and Serverless"
         },
         {
-            "img": "/img/sarahdrasner.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
             "alt": "Sarah Drasner",
             "link": "/speakers/sarah",
             "talk": "The Art of Code Comments"
         },
         {
-            "img": "/img/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
             "link": "/speakers/teri",
             "talk": "Cloud Security for Developers"
         },
         {
-            "img": "/img/linclark.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
             "alt": "Lin Clark",
             "link": "/speakers/lin",
             "talk": "The future of WebAssembly and Serverless"
         },
         {
-            "img": "/img/sarahdrasner.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
             "alt": "Sarah Drasner",
             "link": "/speakers/sarah",
             "talk": "The Art of Code Comments"
         },
         {
-            "img": "/img/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
             "link": "/speakers/teri",
             "talk": "Cloud Security for Developers"
         },
         {
-            "img": "/img/linclark.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
             "alt": "Lin Clark",
             "link": "/speakers/lin",
             "talk": "The future of WebAssembly and Serverless"
         },
         {
-            "img": "/img/sarahdrasner.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
             "alt": "Sarah Drasner",
             "link": "/speakers/sarah",
             "talk": "The Art of Code Comments"
         },
         {
-            "img": "/img/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
             "link": "/speakers/teri",
             "talk": "Cloud Security for Developers"
         },
         {
-            "img": "/img/linclark.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
             "alt": "Lin Clark",
             "link": "/speakers/lin",
             "talk": "The future of WebAssembly and Serverless"
         },
         {
-            "img": "/img/sarahdrasner.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
             "alt": "Sarah Drasner",
             "link": "/speakers/sarah",
             "talk": "The Art of Code Comments"
@@ -184,7 +184,7 @@
         "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. ",
         "image": "img/imperial_med.jpeg",
         "cta": {
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/London/2019/imperial_med.jpg",
             "name": "Get Tickets"
         }
     }
