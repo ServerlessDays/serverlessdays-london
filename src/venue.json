@@ -4,46 +4,6 @@
         "title": "ServerlessDays London - Venue",
         "description": "One Day. One Track. One Community",
         "url": "https://london.serverlessdays.io/venue",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
-        "twitter": "https://twitter.com/ServerlessLDN",
-        "eventDate": "11 July 2019",
-        "location": "Imperial College, South Kensington, London"
-    },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
-            "key": "venue",
-            "path": "/venue",
-            "name": "Venue"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-            },
-        {
-            "key": "tickets",
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
-            "name": "Tickets",
-            "cta": true
-        }
-    ],
-    "contact": {
-        "email": "london@serverlessdays.io",
-        "twitter": "https://twitter.com/@serverlessLDN"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg"
     }
 }
