@@ -35,7 +35,7 @@ layout: base.njk
         </div>
     </div>
 </div>
-<div class="absolute right-2 pa2 mr5 mt6 tertiaryColor tertiaryBkg ba br3 b--transparent shadow-6 mw7 measure-wide">    
+<div class="absolute-ns right-2-ns pa2 mr5-ns mt6-ns tertiaryColor tertiaryBkg ba-ns br3-ns b--transparent shadow-6-ns w-100 mw7-ns measure-wide-ns">    
     <div class="w-100 pt3 pb4 tc">
         {% for sponsor in sponsors.platinum %}
             <span class="center dib pv3 ph3 v-mid">
@@ -73,42 +73,13 @@ layout: base.njk
         {% endfor %}
     </div>
 </div>
-<div class="clearfix w-100 ph1 pv3 pa3-ns tl f4 secondaryColor secondaryBkg">
-    <div class="flex-ns mv3 mv5-l">
-        <div class="w-100 w-05-l dn db-l">
-        </div>
-        <div class="w-100 w-60-m w-50-l ph3 ph0-ns">
-            <h2 class="f2 mt2 mb3">{{ section[0].name }}</h2>
-            <div class="pr3-m w-100">
-                {% for speaker in section[0].featured %}
-                    <div class="pv3 pr3 w-100">
-                        <a class="no-underline secondaryColor flex" href="{{ speaker.link }}" >
-                            <img class="ba br-100 b--transparent bw0 h4 w4 cover shadow-7" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />    
-                            <div class="ml4 pt3">
-                                <div class="f4 tl">{{ speaker.alt }} - {{ speaker.talk }}</div>
-                                <div class="f5 mt3 tl measure-narrow">{% markdown speaker.talk %}</div>
-                            </div>
-                        </a>
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-        <div class="w-100 w-10-l dn db-l">
-        </div>
-    </div>
+<div class="w-100 ph1 pv3 pa3-ns tl f4 secondaryColor secondaryBkg">
+    {% include 'components/speakers.njk' %}
 </div>
-<div class="w-100 ph1 pv3 pa3-ns f5 f4-ns tl f5 f4-ns primaryColor primaryBkg">
-    <div class="flex-ns mv3 mv5-ns">
-        <div class="w-100 w-05-l dn db-l">
-        </div>
-        <div class="w-100 w-60-m w-50-l tl ph3 ph0-ns">
-            <h2 class="f2 mv3">{{ section[2].name }}</h2>
-            <div class="f5 lh-copy pr3-m">{% markdown section[2].text %}</div>
-            <div class="mt4"><span><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 contrastColor contrastBkg" href="{{ section[2].cta.path }}" target="_blank">{{ section[2].cta.name }}</a></span></div>
-        </div>
-        <div class="w-100 w-40-m w-40-l db-ns tc tl-m ph2 ph3-m ph0-l">
-            <img class="ba br3 b--transparent pt4 pt0-ns cover" height="320" src="{{ section[2].image }}"/>
-        </div>
-    </div>
+<div class="w-100 ph1 pv3 pa3-ns tl f4 primaryColor primaryBkg">
+    {% include 'components/agenda.njk' %}
 </div>
-{% include 'signup.njk' %}
+<div class="w-100 ph1 pv3 pa3-ns f5 f4-ns tl f5 f4-ns tertiaryColor tertiaryBkg">
+    {% include 'components/venue.njk' %}
+</div>
+{% include 'components/signup.njk' %}

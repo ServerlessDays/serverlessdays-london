@@ -82,7 +82,7 @@
             "link": "https://cloud.ibm.com"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1560205139/Thundra_white.png",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
             "alt": "Thundra",
             "link": "https://thundra.io"
         }
@@ -100,108 +100,137 @@
         }
     ]
 },
-"section": [
+"homepage": [
     {
-        "name": "Speakers",
-        "text": "We are lucky to have some world class speakers this year from around the world.",
-        "featured": [
-            {
-                "img": "/img/teriradichel.jpg",
-                "alt": "Teri Radichel",
-                "link": "/speakers/teri",
-                "talk": "Cloud Security for Developers"
-            },
-            {
-                "img": "/img/linclark.jpg",
-                "alt": "Lin Clark",
-                "link": "/speakers/lin",
-                "talk": "The future of WebAssembly and Serverless"
-            },
-            {
-                "img": "/img/sarahdrasner.jpg",
-                "alt": "Sarah Drasner",
-                "link": "/speakers/sarah",
-                "talk": "The Art of Code Comments"
-            },
-            {
-                "img": "/img/teriradichel.jpg",
-                "alt": "Teri Radichel",
-                "link": "/speakers/teri",
-                "talk": "Cloud Security for Developers"
-            },
-            {
-                "img": "/img/linclark.jpg",
-                "alt": "Lin Clark",
-                "link": "/speakers/lin",
-                "talk": "The future of WebAssembly and Serverless"
-            },
-            {
-                "img": "/img/sarahdrasner.jpg",
-                "alt": "Sarah Drasner",
-                "link": "/speakers/sarah",
-                "talk": "The Art of Code Comments"
-            },
-            {
-                "img": "/img/teriradichel.jpg",
-                "alt": "Teri Radichel",
-                "link": "/speakers/teri",
-                "talk": "Cloud Security for Developers"
-            },
-            {
-                "img": "/img/linclark.jpg",
-                "alt": "Lin Clark",
-                "link": "/speakers/lin",
-                "talk": "The future of WebAssembly and Serverless"
-            },
-            {
-                "img": "/img/sarahdrasner.jpg",
-                "alt": "Sarah Drasner",
-                "link": "/speakers/sarah",
-                "talk": "The Art of Code Comments"
-            },
-            {
-                "img": "/img/teriradichel.jpg",
-                "alt": "Teri Radichel",
-                "link": "/speakers/teri",
-                "talk": "Cloud Security for Developers"
-            },
-            {
-                "img": "/img/linclark.jpg",
-                "alt": "Lin Clark",
-                "link": "/speakers/lin",
-                "talk": "The future of WebAssembly and Serverless"
-            },
-            {
-                "img": "/img/sarahdrasner.jpg",
-                "alt": "Sarah Drasner",
-                "link": "/speakers/sarah",
-                "talk": "The Art of Code Comments"
-            }
-        ],
-        "cta": {
-            "path": "https://www.papercall.io/serverlessdaysldn2019",
-            "name": "Submit a talk"
-        }
+        "img":"https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_90/v1521408642/owl_mascot.png",
+        "alt":"Owl mascot",
+        "text":"An opportunity to engage, learn and be part of the growing Serverless community"
     },
     {
-        "name": "Sponsor",
-        "text": "Steve O'Grady writes in **The New Kingmakers** that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. ServerlessDays events are attended by developers pushing the boundaries of new technology, to the benefit of the organisations they work for, whether it's a startup looking to change the world, or an established 300 year old bank that continues to change the world. Get in front of these New Kingmakers at ServerlessDays London.",
-        "image": "img/sponsor_grid.svg",
-        "cta": {
-            "path": "./static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf",
-            "name": "Sponsor"
-        }
-    },
-    {
-        "name": "Attend",
-        "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. ",
-        "image": "img/imperial_med.jpeg",
-        "cta": {
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
-            "name": "Get Tickets"
-        }
+        "img":"https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_90/v1521408642/octo_mascot.png",
+        "alt":"Octo mascot",
+        "text":"Creating an event that accessible to everyone in the broader community"
     }
 ],
+"speakers": [
+    {
+        "img": "/img/teriradichel.jpg",
+        "alt": "Teri Radichel",
+        "link": "/speakers/teri",
+        "talk": "Cloud Security for Developers"
+    },
+    {
+        "img": "/img/linclark.jpg",
+        "alt": "Lin Clark",
+        "link": "/speakers/lin",
+        "talk": "The future of WebAssembly and Serverless"
+    },
+    {
+        "img": "/img/sarahdrasner.jpg",
+        "alt": "Sarah Drasner",
+        "link": "/speakers/sarah",
+        "talk": "The Art of Code Comments"
+    },
+    {
+        "img": "/img/teriradichel.jpg",
+        "alt": "Teri Radichel",
+        "link": "/speakers/teri",
+        "talk": "Cloud Security for Developers"
+    },
+    {
+        "img": "/img/linclark.jpg",
+        "alt": "Lin Clark",
+        "link": "/speakers/lin",
+        "talk": "The future of WebAssembly and Serverless"
+    },
+    {
+        "img": "/img/sarahdrasner.jpg",
+        "alt": "Sarah Drasner",
+        "link": "/speakers/sarah",
+        "talk": "The Art of Code Comments"
+    },
+    {
+        "img": "/img/teriradichel.jpg",
+        "alt": "Teri Radichel",
+        "link": "/speakers/teri",
+        "talk": "Cloud Security for Developers"
+    },
+    {
+        "img": "/img/linclark.jpg",
+        "alt": "Lin Clark",
+        "link": "/speakers/lin",
+        "talk": "The future of WebAssembly and Serverless"
+    },
+    {
+        "img": "/img/sarahdrasner.jpg",
+        "alt": "Sarah Drasner",
+        "link": "/speakers/sarah",
+        "talk": "The Art of Code Comments"
+    },
+    {
+        "img": "/img/teriradichel.jpg",
+        "alt": "Teri Radichel",
+        "link": "/speakers/teri",
+        "talk": "Cloud Security for Developers"
+    },
+    {
+        "img": "/img/linclark.jpg",
+        "alt": "Lin Clark",
+        "link": "/speakers/lin",
+        "talk": "The future of WebAssembly and Serverless"
+    },
+    {
+        "img": "/img/sarahdrasner.jpg",
+        "alt": "Sarah Drasner",
+        "link": "/speakers/sarah",
+        "talk": "The Art of Code Comments"
+    }
+],
+"agenda": [
+    {
+        "time": "08:30",
+        "name": "Doors Open"
+    },
+    {
+        "time": "09:30",
+        "name": "Welcome Remarks"
+    },
+    {
+        "time": "09:40",
+        "name": "Keynote",
+        "speaker": "Lin Clark & Till Schneidereit",
+        "link": "/something"
+    },
+    {
+        "time": "10:20",
+        "name": "Keynote",
+        "speaker": "Teri Radichel",
+        "link": "/something"
+    },
+    {
+        "time": "11:00",
+        "name": "Break",
+        "link": "/something"
+    },
+    {
+        "time": "11:30",
+        "name": "Lightning Talks",
+        "speaker": "Bob",
+        "link": "/something"
+    },
+    {
+        "time": "12:10",
+        "name": "Lunch"
+    }
+],
+"venue": {
+    "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. ",
+    "image": "img/imperial_med.jpeg",
+    "cta": {
+        "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+        "name": "Get Tickets"
+    }
+},
 "contact": {
     "email": "london@serverlessdays.io",
     "twitter": "https://twitter.com/@serverlessLDN"

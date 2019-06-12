@@ -42,6 +42,7 @@
     .w-16-ns { width: 16.5% }
     .w-12-ns { width: 12.5% }
     .w-05-ns { width: 5% }
+    .shadow-6-ns { box-shadow: 0px 0px 24px 24px rgba(0, 0, 0, 0.2); }
 }
 
 @media screen and (min-width: 60em) {
