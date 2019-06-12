@@ -1,0 +1,31 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Sarah Drasner",
+        "description": "Sarah Drasner is an all around badass",
+        "url": "https://serverlessdays.io",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+    },
+    "speaker": {
+        "name": "Sara Drasner",
+        "img": "/img/sarahdrasner.jpg",
+        "bio": "",
+        "talk": {
+            "title": "",
+            "abstract" : ""
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/sara_edo",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Social%20Media%20Icons/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
