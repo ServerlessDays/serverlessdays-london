@@ -6,8 +6,10 @@ layout: base.njk
         <h1 class="f1">Speakers</h1>
             {% for speaker in speakers %}
             <div class="fl w-100 w-33-ns pa3 pa4-ns v-mid center">
-                <img class="ba br-100 b--transparent h5 w5 cover shadow-6-light" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />
-                <p class="f3 pt2">{{ speaker.alt }}</p>
+                <a class="no-underline" href="{{ speaker.link }}">
+                    <img class="ba br-100 b--transparent h5 w5 cover shadow-6-light" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />
+                    <p class="f3 pt2 primaryColor tc">{{ speaker.alt }}</p>
+                </a>
             </div>
             {% endfor %}
     </div>
