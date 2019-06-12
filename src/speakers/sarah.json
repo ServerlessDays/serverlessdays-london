@@ -9,16 +9,12 @@
     "speaker": {
         "name": "Sara Drasner",
         "img": "/img/sarahdrasner.jpg",
-        "bio": "",
-        "talk": {
-            "title": "",
-            "abstract" : ""
-        },
+        "bio": "Sarah Drasner is an award-winning Speaker, Head of Developer Experience at Netlify, Vue core team member, and Staff Writer at CSS-Tricks. Sarah is formerly Principal Lead of Emerging Markets, Cloud Advocates at Microsoft and Manager of UX & Engineering at Trulia/Zillow Group. She’s the author of SVG Animations from O’Reilly and has given Frontend Masters workshops. Sarah is a co-organizer of ConcatenateConf, a free conference for Nigerian and Kenyan developers. Sarah is also the co-founder of Web Animation Workshops, with Val Head. She has worked for 15 years as a web developer, and at points worked as a Scientific Illustrator and a Professor in the Greek Islands.",
         "social": [
             {
                 "name": "Twitter",
                 "link": "https://twitter.com/sara_edo",
-                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Social%20Media%20Icons/Twitter.svg"
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
             }
         ],
         "links": [

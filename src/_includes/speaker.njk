@@ -18,6 +18,22 @@ layout: base.njk
                     <div class="f5 lh-copy mw6 mw7-ns markdown-body">
                         {% markdown speaker.bio %}
                     </div>
+                    {% if speaker.talk %}
+                        <div class="dt w-100">
+                            <div class="dt-row">
+                                <div class="dtc i pv2 w3 pr3">Title</div>
+                                <div class="dtc pv2 b">
+                                    {{ speaker.talk.title }}
+                                </div>
+                            </div>
+                            <div class="dt-row">
+                                <div class="dtc i w3 pr3">Abstract</div>
+                                <div class="dtc f5 lh-copy markdown-body">
+                                    {% markdown speaker.talk.abstract %}
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %}
                 </div>
             </div>
         </div>

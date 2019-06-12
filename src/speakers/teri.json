@@ -10,10 +10,6 @@
         "name": "Teri Radichel",
         "img": "/img/teriradichel.jpg",
         "bio": "Teri Radichel has helped 1000's of companies with cloud security through consulting, writing, research, and training. She has multiple cybersecurity certifications, including the GSE. Teri is the founding organizer of the Seattle AWS Architects and Engineers Meetup which has nearly 3000 members. She was on the original team that helped Capital One move production workloads to AWS. At another company, Teri led a team of 30 people in two counties and architected a SAAS IOT solution for firewalls connecting to the cloud. Her team implemented a secure CI/CD pipeline based on her white paper on event-driven security. She then moved into security research, writing articles for publications such as Light Reading and Infosecurity Magazine, and reverse engineering malware. She also helped with technical due diligence for cloud acquisitions. She received the SANS Difference Makers Award for cloud security innovation and is an AWS Hero.  \r\n \r\nAs the CEO of 2nd Sight Lab, she has helped companies from startups to Fortune 100 with cloud security assessments, pentests, audits, and training. Teri presents on cloud security at conferences such as RSA, AWS re:Invent, AWS re:Inforce, IANS Security Forums, Countermeasure, Serverless Days, and BSides. She writes a blog called Cloud Security and is working on a book, [Cybersecurity for Executives](https://medium.com/cloud-security/cybersecurity-for-executives-table-of-contents-3e3a4104c31b). You can follow her on Twitter [@teriradichel](https://twitter.com/teriradichel).",
-        "talk": {
-            "title": "",
-            "abstract" : ""
-        },
         "social": [
             {
                 "name": "Twitter",
