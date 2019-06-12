@@ -6,7 +6,7 @@
         "url": "https://london.serverlessdays.io/sponsors",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
         "twitter": "https://twitter.com/ServerlessLDN",
-        "date": "11 July 2019",
+        "eventDate": "11 July 2019",
         "location": "Imperial College, South Kensington, London"
     },
     "navBarItems": [

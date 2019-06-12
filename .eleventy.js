@@ -66,8 +66,7 @@ module.exports = function (eleventyConfig) {
     return {
       passthroughFileCopy: true,
       dir: {
-        input: 'src',
-        data: 'src/_data'
+        input: 'src'
       },
       markdownTemplateEngine: 'njk'
     }
