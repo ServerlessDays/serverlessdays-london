@@ -100,18 +100,6 @@
         }
     ]
 },
-"homepage": [
-    {
-        "img":"https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_90/v1521408642/owl_mascot.png",
-        "alt":"Owl mascot",
-        "text":"An opportunity to engage, learn and be part of the growing Serverless community"
-    },
-    {
-        "img":"https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_90/v1521408642/octo_mascot.png",
-        "alt":"Octo mascot",
-        "text":"Creating an event that accessible to everyone in the broader community"
-    }
-],
 "speakers": [
     {
         "img": "/img/teriradichel.jpg",

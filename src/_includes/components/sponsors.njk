@@ -1,0 +1,36 @@
+<div class="w-100 pt3 pb4 tc">
+    {% for sponsor in sponsors.platinum %}
+        <span class="center dib pv3 ph3 v-mid">
+            <a class="no-underline" href="{{ sponsor.link }}">
+                <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+            </a>
+        </span>
+    {% endfor %}
+</div>
+<div class="w-100 pv3 tc">
+    {% for sponsor in sponsors.gold %}
+        <span class="center dib pv3 v-mid">
+            <a class="no-underline" href="{{ sponsor.link }}">
+                <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+            </a>
+        </span>
+    {% endfor %}
+</div>
+<div class="w-100 pv3 tc">
+    {% for sponsor in sponsors.silver %}
+        <span class="w-auto center dib pv3 ph2 v-mid">
+            <a class="no-underline" href="{{ sponsor.link }}">
+                <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+            </a>
+        </span>
+    {% endfor %}
+</div>
+<div class="w-100 pv3 tc">
+    {% for sponsor in sponsors.community %}
+        <span class="w-100 w-20-ns center dib pv3 ph2 v-mid">
+            <a class="no-underline" href="{{ sponsor.link }}">
+                <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+            </a>
+        </span>
+    {% endfor %}
+</div>
