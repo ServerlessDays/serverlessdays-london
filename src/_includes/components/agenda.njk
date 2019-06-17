@@ -5,19 +5,19 @@
         <h2 class="f2 mv3">Agenda</h2>
         <div class="pt2 pt3-ns">
             {% for session in agenda %}
-                <span class="h3 tl f6 ba bw1 b--transparent dib">
+                <span class="h4 tl f5 ba bw1 b--transparent dib">
                     <div class="dt w-100 h-100 contrastBkg contrastColor">
                         <div class="dt-row">
-                            <div class="dtc pa2">
+                            <div class="dtc pa2 v-mid">
                                 <div class="f5 b">
                                     {{ session.time }}
                                 </div>
                             </div>
-                            <div class="dtc pv2 pl2 pr3">
-                                <div class="i pb2">
+                            <div class="dtc pv2 pl2 pr3 v-mid">
+                                <div class="f5 i">
                                     {{ session.name }}
                                 </div>
-                                <div class="b">
+                                <div class="f5 b">
                                     {{ session.speaker }}
                                 </div>
                             </div>

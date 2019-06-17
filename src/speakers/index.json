@@ -6,94 +6,34 @@
         "url": "https://london.serverlessdays.io/speakers",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-            },
-        {
-            "key": "tickets",
-            "path": "/tickets",
-            "name": "Tickets",
-            "cta": "true"
-        }
-    ],
     "speakers" :  [
         {
-            "img": "/img/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
             "link": "/speakers/teri"
         },
         {
-            "img": "/img/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin"
-        },
-        {
-            "img": "/img/sarahdrasner.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
             "alt": "Sarah Drasner",
             "link": "/speakers/sarah"
         },
         {
-            "img": "/img/teriradichel.jpg",
-            "alt": "Teri Radichel",
-            "link": "/speakers/teri"
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/London/2019/chrisgormley.jpg",
+            "alt": "Chris Gormley",
+            "link": "/speakers/chris",
+            "talk": "Creating an Enterprise Level Call Centre using a serverless architecture"
         },
         {
-            "img": "/img/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin"
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560749346/London/2019/seantracey.jpg",
+            "alt": "Sean Tracey",
+            "link": "/speakers/sean",
+            "talk": "Combining serverless and AI to delight your Nan"
         },
         {
-            "img": "/img/sarahdrasner.jpg",
-            "alt": "Sarah Drasner",
-            "link": "/speakers/sarah"
-        },
-        {
-            "img": "/img/teriradichel.jpg",
-            "alt": "Teri Radichel",
-            "link": "/speakers/teri"
-        },
-        {
-            "img": "/img/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin"
-        },
-        {
-            "img": "/img/sarahdrasner.jpg",
-            "alt": "Sarah Drasner",
-            "link": "/speakers/sarah"
-        },
-        {
-            "img": "/img/teriradichel.jpg",
-            "alt": "Teri Radichel",
-            "link": "/speakers/teri"
-        },
-        {
-            "img": "/img/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin"
-        },
-        {
-            "img": "/img/sarahdrasner.jpg",
-            "alt": "Sarah Drasner",
-            "link": "/speakers/sarah"
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753805/London/2019/avishai.jpg",
+            "alt": "Avishai Shafir",
+            "link": "/speakers/avishai",
+            "talk": "Serverless testing, the required adaptation to our testing methodologies"
         }
     ]
 }

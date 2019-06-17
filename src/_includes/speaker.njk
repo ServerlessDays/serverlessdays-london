@@ -9,10 +9,11 @@ layout: base.njk
                     <img class="ba br3 b--transparent h5 w5 cover shadow-6-light" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />
                 </div>
                 <div class="dtc-ns ph2 ph5-ns v-top">
-                    <h1 class="f1 pt0-ns mt0-ns tc tl-ns">{{ speaker.name }}</h1>
-                    <div class="pb2"> 
+                    <h1 class="f2 f1-ns pb1 pt0-ns mb1 mt0-ns tc tl-ns">{{ speaker.name }}</h1>
+                    <p2 class="f4 f3-ns pv1-ns mv1-ns tc tl-ns">{{ speaker.title }}</h1>
+                    <div class="pv1 pv3-ns"> 
                         {% for network in speaker.social %}
-                            <a class="grow" href="{{ network.link }}"><img class="h2 w2 pr2" src="{{ network.icon }}" alt="{{ network.name }}" /></a>
+                            <a class="grow" href="{{ network.link }}" target="_blank"><img class="h2 w2 pr2" src="{{ network.icon }}" alt="{{ network.name }}" /></a>
                         {% endfor %}
                     </div> 
                     <div class="f5 lh-copy mw6 mw7-ns markdown-body">

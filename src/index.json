@@ -41,11 +41,6 @@
         ],
         "silver": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1560201785/scale_factory.png",
-                "alt": "Scale Factory",
-                "link": "https://www.scalefactory.com/"
-            },
-            {
                 "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
                 "alt": "IBM",
                 "link": "https://cloud.ibm.com"
@@ -73,14 +68,7 @@
         {
             "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
-            "link": "/speakers/teri",
-            "talk": "Cloud Security for Developers"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin",
-            "talk": "The future of WebAssembly and Serverless"
+            "link": "/speakers/teri"
         },
         {
             "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
@@ -89,58 +77,22 @@
             "talk": "The Art of Code Comments"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
-            "alt": "Teri Radichel",
-            "link": "/speakers/teri",
-            "talk": "Cloud Security for Developers"
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/London/2019/chrisgormley.jpg",
+            "alt": "Chris Gormley",
+            "link": "/speakers/chris",
+            "talk": "Creating an Enterprise Level Call Centre using a serverless architecture"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin",
-            "talk": "The future of WebAssembly and Serverless"
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560749346/London/2019/seantracey.jpg",
+            "alt": "Sean Tracey",
+            "link": "/speakers/sean",
+            "talk": "Combining serverless and AI to delight your Nan"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
-            "alt": "Sarah Drasner",
-            "link": "/speakers/sarah",
-            "talk": "The Art of Code Comments"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
-            "alt": "Teri Radichel",
-            "link": "/speakers/teri",
-            "talk": "Cloud Security for Developers"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin",
-            "talk": "The future of WebAssembly and Serverless"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
-            "alt": "Sarah Drasner",
-            "link": "/speakers/sarah",
-            "talk": "The Art of Code Comments"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
-            "alt": "Teri Radichel",
-            "link": "/speakers/teri",
-            "talk": "Cloud Security for Developers"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/linclark.jpg",
-            "alt": "Lin Clark",
-            "link": "/speakers/lin",
-            "talk": "The future of WebAssembly and Serverless"
-        },
-        {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
-            "alt": "Sarah Drasner",
-            "link": "/speakers/sarah",
-            "talk": "The Art of Code Comments"
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753805/London/2019/avishai.jpg",
+            "alt": "Avishai Shafir",
+            "link": "/speakers/avishai",
+            "talk": "Serverless testing, the required adaptation to our testing methodologies"
         }
     ],
     "agenda": [

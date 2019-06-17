@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Chris Gormley",
+        "description": "Principal Software Engineer for Liberty IT Belfast. Techie and Serverless convert. Big fan of travelling.",
+        "url": "https://serverlessdays.io",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+    },
+    "speaker": {
+        "name": "Chris Gormley",
+        "title": "Principal Software Engineer for Liberty IT",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/London/2019/chrisgormley.jpg",
+        "bio": "Principal Software Engineer for Liberty IT Belfast. Techie and Serverless convert. Big fan of travelling.",
+        "talk": {
+            "title": "Creating an Enterprise Level Call Centre using a serverless architecture",
+            "abstract" : "How we created a completely serverless AI backed call center using Amazon Lex & Amazon Connect. Currently taking 150,000 calls a month resulting in a magnitude of cost savings of 47% with zero downtime for over a year. All with a team of serverless newbies under tight deadlines."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/chris_gormley",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "Name": "LinkedIn",
+                "link": "https://www.linkin.com/in/chris-gormley-90a262112",
+                "icon": ""
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
