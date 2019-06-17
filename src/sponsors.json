@@ -34,11 +34,6 @@
         ],
         "silver": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1560201785/scale_factory.png",
-                "alt": "Scale Factory",
-                "link": "https://www.scalefactory.com/"
-            },
-            {
                 "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
                 "alt": "IBM",
                 "link": "https://cloud.ibm.com"

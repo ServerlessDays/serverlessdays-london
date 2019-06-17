@@ -9,7 +9,7 @@
     "speaker": {
         "name": "Chris Gormley",
         "title": "Principal Software Engineer for Liberty IT",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/London/2019/chrisgormley.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753307/London/2019/chrisgormley.jpg",
         "bio": "Principal Software Engineer for Liberty IT Belfast. Techie and Serverless convert. Big fan of travelling.",
         "talk": {
             "title": "Creating an Enterprise Level Call Centre using a serverless architecture",
@@ -24,7 +24,7 @@
             {
                 "Name": "LinkedIn",
                 "link": "https://www.linkin.com/in/chris-gormley-90a262112",
-                "icon": ""
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_120/v1560755840/linkedin_white.png"
             }
         ],
         "links": [

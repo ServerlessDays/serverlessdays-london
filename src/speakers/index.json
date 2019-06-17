@@ -8,29 +8,29 @@
     },
     "speakers" :  [
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560341859/London/2019/teriradichel.jpg",
             "alt": "Teri Radichel",
             "link": "/speakers/teri"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560341859/London/2019/sarahdrasner.jpg",
             "alt": "Sarah Drasner",
             "link": "/speakers/sarah"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/London/2019/chrisgormley.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753307/London/2019/chrisgormley.jpg",
             "alt": "Chris Gormley",
             "link": "/speakers/chris",
             "talk": "Creating an Enterprise Level Call Centre using a serverless architecture"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560749346/London/2019/seantracey.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560749346/London/2019/seantracey.jpg",
             "alt": "Sean Tracey",
             "link": "/speakers/sean",
             "talk": "Combining serverless and AI to delight your Nan"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753805/London/2019/avishai.jpg",
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753805/London/2019/avishai.jpg",
             "alt": "Avishai Shafir",
             "link": "/speakers/avishai",
             "talk": "Serverless testing, the required adaptation to our testing methodologies"

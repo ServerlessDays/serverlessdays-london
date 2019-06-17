@@ -9,7 +9,7 @@
     "speaker": {
         "name": "Sean Tracey",
         "title": "Developer Advocate at IBM",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560749346/London/2019/seantracey.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560749346/London/2019/seantracey.jpg",
         "bio": "Sean calls himself a technologist, which is a fancy way of saying he still hasn’t decided what he wants to do with technology – other than everything. \r\nHe has spent his career trying to avoid getting ‘proper’ jobs, and as such has had a hand in making a variety of fun and interesting projects, including a singing statue of Lionel Richie, wearable drum kits, chopstick bagpipes, time-telling hats, and a life-sized Elvis Presley robot, to name only a few. \r\nCurrently, Sean is a Developer Advocate at IBM who spends his time building communities and software around AI, IoT, and cloud native computing. \r\nPreviously, Sean was developer in the Labs department at the Financial Times where he experimented with utilising the cutting edge in web and speech recognition technologies to bring quality news media to as many people as possible. He has also published ~50 articles across 3 internationally published magazines focussing mainly on web, Arduino, and Raspberry Pi development.",
         "talk": {
             "title": "Combining serverless and AI to delight your Nan",

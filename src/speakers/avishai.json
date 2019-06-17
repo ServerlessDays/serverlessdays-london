@@ -9,7 +9,7 @@
     "speaker": {
         "name": "Avishai Shafir",
         "title": "VP Products Lumigo",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753805/London/2019/avishai.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753805/London/2019/avishai.jpg",
         "bio": "Avishai is a veteran developer that led development with several global hi-tech companies. Among his roles, he served as the Chief Functional Architect of HP ALM (Quality Center & Performance Center), leading the HP Mercury ALM architects team and meeting with developers around the world to shape state of the art tools for developers. Later in his career, he managed a line of business at Panaya (acquired by Infosys for $200 Milion) and led a team of product managers at Cellebrite (The global leader in digital intelligence solutions). He is a technology enthusiast.",
         "talk": {
             "title": "Serverless testing, the required adaptation to our testing methodologies",
