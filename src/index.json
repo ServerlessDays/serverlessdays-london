@@ -17,6 +17,10 @@
         "cta": {
             "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
             "name": "Get Tickets"
+        },
+        "altCTA": {
+            "path": "https://diversitytickets.org/en/events/420",
+            "name": "Scholarship Tickets"
         }
     },
     "sponsors": {

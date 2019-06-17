@@ -3,8 +3,8 @@
     "page": {
         "title": "ServerlessDays London - Teri Radichel",
         "description": "Teri Radichel has helped 1000's of companies with cloud security through consulting, writing, research, and training. She was on the original team that helped Capital One move production workloads to AWS. She received the SANS Difference Makers Award for cloud security innovation and is an AWS Hero",
-        "url": "https://serverlessdays.io",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+        "url": "https://serverlessdays.io/speakers/teri",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762319/London/2019/teri_card.jpg"
     },
     "speaker": {
         "name": "Teri Radichel",

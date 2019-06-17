@@ -3,8 +3,8 @@
     "page": {
         "title": "ServerlessDays London - Avishai Shafir",
         "description": "Avishai is a veteran developer that led development with several global hi-tech companies.",
-        "url": "https://serverlessdays.io",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+        "url": "https://serverlessdays.io/speakers/avishai",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762319/London/2019/avishai_card.jpg"
     },
     "speaker": {
         "name": "Avishai Shafir",

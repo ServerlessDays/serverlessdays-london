@@ -3,8 +3,8 @@
     "page": {
         "title": "ServerlessDays London - Chris Gormley",
         "description": "Principal Software Engineer for Liberty IT Belfast. Techie and Serverless convert. Big fan of travelling.",
-        "url": "https://serverlessdays.io",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+        "url": "https://serverlessdays.io/speakers/chris",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762318/London/2019/chris_card.png"
     },
     "speaker": {
         "name": "Chris Gormley",

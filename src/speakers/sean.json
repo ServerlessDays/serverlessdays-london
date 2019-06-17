@@ -3,8 +3,8 @@
     "page": {
         "title": "ServerlessDays London - Sean Tracey",
         "description": "Sean calls himself a technologist, which is a fancy way of saying he still hasn’t decided what he wants to do with technology – other than everything.",
-        "url": "https://serverlessdays.io",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+        "url": "https://serverlessdays.io/speakers/sean",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762318/London/2019/sean_card.jpg"
     },
     "speaker": {
         "name": "Sean Tracey",
