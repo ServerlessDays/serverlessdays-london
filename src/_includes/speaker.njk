@@ -10,14 +10,10 @@ layout: base.njk
                 </div>
                 <div class="dtc-ns ph2 ph5-ns v-top">
                     <h1 class="f2 f1-ns pb1 pt0-ns mb1 mt0-ns tc tl-ns">{{ speaker.name }}</h1>
-                    <p2 class="f4 f3-ns pv1-ns mv1-ns tc tl-ns">{{ speaker.title }}</h1>
+                    <p class="f4 f3-ns pv1-ns mv1-ns tc tl-ns">{{ speaker.title }}</p>
                     <div class="pv1 pv3-ns"> 
                         {% for network in speaker.social %}
-                            {% if network.icon %}
-                                <a href="{{ network.link }}" target="_blank"><img class="h2 w2 pr2" src="{{ network.icon }}" alt="{{ network.name }}" /></a>
-                            {% elif %}
-                                <a class="white f5 no-underline" href="{{ network.link }}" target="_blank">{{ network.blog }}</a>
-                            {% endif %}
+                            <a class="no-underline v-mid" href="{{ network.link }}" target="_blank"><img class="h2 w2 pr2 white f5 v-mid" src="{{ network.icon }}" alt="{{ network.name }}" /></a>
                         {% endfor %}
                     </div> 
                     <div class="f5 lh-copy mw6 mw7-ns markdown-body">
