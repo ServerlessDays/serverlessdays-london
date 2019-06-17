@@ -69,7 +69,7 @@
         ]
     },
     "speakers": {
-        "text": "The 2019 edition of ServerlessDays London brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We hope this year's edition of ServerlessDays London will have something for everyone.",
+        "text": "The 2019 edition of ServerlessDays London brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope this year's edition of ServerlessDays London will have something for everyone.",
         "lineup": [
             {
                 "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
