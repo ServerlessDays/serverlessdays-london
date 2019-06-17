@@ -42,6 +42,11 @@
                 "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
                 "alt": "Thundra",
                 "link": "https://thundra.io"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_65/v1529397141/DAZN_white.png",
+                "alt": "DAZN",
+                "link": "https://www.dazn.com"
             }
         ],
         "community": [
