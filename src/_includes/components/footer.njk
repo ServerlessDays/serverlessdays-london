@@ -1,4 +1,9 @@
 <div class="w-100 pv3 primaryColor">
+    <div class="tc pv2 pv4-ns">
+        {% for mascot in mascots.mascots %}
+            <img class="pa2" src="{{ mascot.img }}" alt="{{ mascot.alt }}" />
+        {% endfor %}
+    </div>
     <div class="tc pv1 pv3-ns">
         {% for item in nav.navBarItems %}
             <a class="no-underline primaryColor pa2 f6" href="{{ item.path }}">{{ item.name }}</a>

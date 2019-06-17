@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Till Schneidereit",
+        "description": "Till Schneidereit directs the WebAssembly tooling and runtime, and the Rust efforts at Mozilla. His team is responsible for Mozilla’s contributions to the Rust programming language; driving the Rust to WebAssembly compilation efforts; the Cranelift WebAssembly code generator; the Wasmtime WebAssembly runtime; and other projects around WebAssembly development and deployment.",
+        "url": "https://serverlessdays.io/speakers/till",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpghttps://res.cloudinary.com/serverlessdays/image/upload/v1560810331/London/2019/till_card.jpg"
+    },
+    "speaker": {
+        "name": "Till Schneidereit",
+        "title": "Senior Research Engineering Manager at Mozilla",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560781936/London/2019/till.jpg",
+        "bio": "Till Schneidereit directs the WebAssembly tooling and runtime, and the Rust efforts at Mozilla. His team is responsible for Mozilla’s contributions to the Rust programming language; driving the Rust to WebAssembly compilation efforts; the Cranelift WebAssembly code generator; the Wasmtime WebAssembly runtime; and other projects around WebAssembly development and deployment. He’s also a delegate to the language standardization bodies for both JavaScript and WebAssembly.",
+        "talk": {
+            "title": "Bringing WebAssembly outside the Web with WASI",
+            "abstract" : "Earlier this year WASI - the WebAssembly system interface, was announced. With this system interface, WebAssembly can be used outside the browser in a portable and safe way. As Solomon Hykes, co-founder of Docker, said, 'If WASM+WASI existed in 2008, you wouldn't have needed us to create Docker. That's how important it is. Webassembly on the server is the future of computing.' But WASI will be useful for so many other use cases, too. In this talk, Lin and Till will share with you how WASI works and explore how different use cases can benefit from it."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/linclark",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

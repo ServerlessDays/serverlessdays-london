@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Sheen Brisals",
+        "description": "A seasoned software engineer, AWS Certified Solutions Architect and a team coach, currently at LEGO architecting serverless eCommerce solutions.",
+        "url": "https://serverlessdays.io/speakers/sheen",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810330/London/2019/sheen_card.jpg"
+    },
+    "speaker": {
+        "name": "Sheen Brisals",
+        "title": "Senior Engineer and Coach at LEGO Group",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560768639/London/2019/sheen.jpg",
+        "bio": "A seasoned software engineer, AWS Certified Solutions Architect and a team coach, currently at LEGO architecting serverless eCommerce solutions. Previously as a principal engineer, tech lead and development manager with leading organizations such as Oracle Corporation, Hewlett-Packard, Omron, TATA, BAe and others. \r\nRegular speaker at tech gatherings and company tech summits. Keen participant at Serverless and Microservices meetups in London, AWS conferences, Serverless Days (JeffConf) and others.",
+        "talk": {
+            "title": "Serverless Journey of shop.LEGO.com",
+            "abstract" : "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/sheenbrisals",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Alexandra Abbas",
+        "description": "Alexandra is a Data Scientist at Datatonic working on large-scale innovation projects in Data Engineering and Machine Learning.",
+        "url": "https://serverlessdays.io/speakers/alexa",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810330/London/2019/alexa_card.jpg"
+    },
+    "speaker": {
+        "name": "Alexandra Abbas",
+        "title": "Data Scientist at Datatonic",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560768539/London/2019/alexa.jpg",
+        "bio": "Alexandra is a Data Scientist at Datatonic working on large-scale innovation projects in Data Engineering and Machine Learning, she spends most of her time creating data pipelines using Big Data technologies like Apache Beam and Airflow and building production ready ML models using Tensorflow. \r\nAlexandra is a curious mind who enjoys problem solving and exploring new technologies. She is an initiator of and passionate about the productionization of Machine Learning models.",
+        "talk": {
+            "title": "Machine Learning on Mobile and Serverless",
+            "abstract" : "This talk is a technical case study of developing a cross-platform, mobile-friendly, highly-performant Product Identification model, using technologies such as AI Platform, Cloud Composer and Cloud Dataflow, which eliminates the need for packaging and labels in a global Cosmetics Retail business."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/alexandraabbas",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

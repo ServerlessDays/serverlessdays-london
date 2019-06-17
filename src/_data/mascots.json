@@ -1,0 +1,32 @@
+{ 
+    "mascots" : [
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_60/v1560783574/Mascots/octo_mascot.png",
+            "alt": "Octopus"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_55/v1560783574/Mascots/unicorn_mascot.png",
+            "alt": "Unicorn"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_65/v1560783573/Mascots/Moth_mascot.png",
+            "alt": "Moth"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_65/v1560783573/Mascots/owl_mascot.png",
+            "alt": "Owl"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_50/v1560783573/Mascots/Dino_mascot.png",
+            "alt": "Dino"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_60/v1560783573/Mascots/Anteater_mascot.png",
+            "alt": "Anteater"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_45/v1560783573/Mascots/robofox.png",
+            "alt": "Robofax"
+        }
+    ]
+}
