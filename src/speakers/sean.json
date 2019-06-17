@@ -1,0 +1,36 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Sean Tracey",
+        "description": "Sean calls himself a technologist, which is a fancy way of saying he still hasn’t decided what he wants to do with technology – other than everything.",
+        "url": "https://serverlessdays.io/speakers/sean",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762318/London/2019/sean_card.jpg"
+    },
+    "speaker": {
+        "name": "Sean Tracey",
+        "title": "Developer Advocate at IBM",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560749346/London/2019/seantracey.jpg",
+        "bio": "Sean calls himself a technologist, which is a fancy way of saying he still hasn’t decided what he wants to do with technology – other than everything. \r\nHe has spent his career trying to avoid getting ‘proper’ jobs, and as such has had a hand in making a variety of fun and interesting projects, including a singing statue of Lionel Richie, wearable drum kits, chopstick bagpipes, time-telling hats, and a life-sized Elvis Presley robot, to name only a few. \r\nCurrently, Sean is a Developer Advocate at IBM who spends his time building communities and software around AI, IoT, and cloud native computing. \r\nPreviously, Sean was developer in the Labs department at the Financial Times where he experimented with utilising the cutting edge in web and speech recognition technologies to bring quality news media to as many people as possible. He has also published ~50 articles across 3 internationally published magazines focussing mainly on web, Arduino, and Raspberry Pi development.",
+        "talk": {
+            "title": "Combining serverless and AI to delight your Nan",
+            "abstract" : "In this talk, I explain why I chose serverless technologies to power a digital picture frame I built for my mother which used AI to filter my Instagram feed to only show her pictures of her grandchildren."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/seanmtracey",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "Blog",
+                "link": "https://smt.codes/"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

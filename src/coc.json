@@ -1,17 +1,24 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays - Code of Conduct",
+        "title": "ServerlessDays London - Home",
         "description": "One Day. One Track. One Community",
         "url": "https://london.serverlessdays.io/coc",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg",
-        "twitter": "https://twitter.com/ServerlessLDN"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
+        "twitter": "https://twitter.com/ServerlessLDN",
+        "eventDate": "11 July 2019",
+        "location": "Imperial College, South Kensington, London"
     },
     "navBarItems": [
         {
             "key": "news",
             "path": "/news",
             "name": "News"
+        },
+        {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
         },
         {
             "key": "sponsors",

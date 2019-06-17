@@ -1,0 +1,28 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Teri Radichel",
+        "description": "Teri Radichel has helped 1000's of companies with cloud security through consulting, writing, research, and training. She was on the original team that helped Capital One move production workloads to AWS. She received the SANS Difference Makers Award for cloud security innovation and is an AWS Hero",
+        "url": "https://serverlessdays.io/speakers/teri",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762319/London/2019/teri_card.jpg"
+    },
+    "speaker": {
+        "name": "Teri Radichel",
+        "title": "CEO 2nd Sight Lab",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560341859/London/2019/teriradichel.jpg",
+        "bio": "Teri Radichel has helped 1000's of companies with cloud security through consulting, writing, research, and training. She has multiple cybersecurity [certifications](https://www.giac.org/certified-professional/teri-radichel/140127), including the [GSE](https://www.giac.org/certification/security-expert-gse). Teri is the founding organizer of the [Seattle AWS Architects and Engineers Meetup](https://www.meetup.com/Seattle-AWS-Architects-Engineers/) which has nearly 3,000 members. She was on the original team that helped Capital One move production workloads to AWS. At another company, Teri led a team of 30 people in two countries and architected a SAAS IOT solution for firewalls connecting to the cloud. Her team implemented a secure CI/CD pipeline based on her [white paper on event-driven security](https://www.sans.org/reading-room/whitepapers/incident/paper/36837). She then moved into security research, writing articles for publications such as Light Reading and Infosecurity Magazine, and reverse engineering malware. She also helped with technical due diligence for cloud acquisitions. She received the SANS Difference Makers Award for cloud security innovation and is an [AWS Hero](https://aws.amazon.com/developer/community/heroes/teri-radichel/).  \r\n \r\nAs the CEO of [2nd Sight Lab](https://2ndsightlab.com/), she has helped companies from startups to Fortune 100 with cloud security assessments, pentests, audits, and training. Teri presents on cloud security at conferences such as RSA, AWS re:Invent, AWS re:Inforce, IANS Security Forums, Countermeasure, ServerlessDays, and BSides. She writes a blog called [Cloud Security](https://medium.com/cloud-security/) and is working on a book, [Cybersecurity for Executives](https://medium.com/cloud-security/cybersecurity-for-executives-table-of-contents-3e3a4104c31b). You can follow her on Twitter [@teriradichel](https://twitter.com/teriradichel). ",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/teriradichel",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

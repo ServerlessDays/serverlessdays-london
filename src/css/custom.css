@@ -19,8 +19,16 @@
 .w-12 { width: 12.5% }
 .w-16 { width: 16.5% }
 
+.h45 { height: 12rem }
+.w45 { width: 12rem }
+.w35 { width: 6rem }
+
 .shadow-3-light { box-shadow: 2px 2px 4px 2px rgba(119, 119, 255, 0.2); }
 .shadow-5-light { box-shadow: 4px 4px 8px 0px rgba(119, 119, 255, 0.2); }
+
+.shadow-6-light { box-shadow: 0px 0px 24px 24px rgba(255, 255, 255, 0.2); }
+.shadow-6 { box-shadow: 0px 0px 24px 24px rgba(0, 0, 0, 0.2); }
+.shadow-7 { box-shadow: 0px 0px 12px 12px rgba(0, 0, 0, 0.2); }
 
 @media screen and (min-width: 30em) {
     .heroImage-ns {
@@ -34,6 +42,7 @@
     .w-16-ns { width: 16.5% }
     .w-12-ns { width: 12.5% }
     .w-05-ns { width: 5% }
+    .shadow-6-ns { box-shadow: 0px 0px 24px 24px rgba(0, 0, 0, 0.2); }
 }
 
 @media screen and (min-width: 60em) {
@@ -48,6 +57,7 @@
     .w-16-l { width: 16.5% }
     .w-12-l { width: 12.5% }
     .w-05-l { width: 5% }
+    .shadow-6-l { box-shadow: 0px 0px 24px 24px rgba(0, 0, 0, 0.2); }
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
@@ -59,4 +69,5 @@
     .w-16-m { width: 16.5% }
     .w-12-m { width: 12.5% }
     .w-05-m { width: 5% }
+    .shadow-6-m { box-shadow: 0px 0px 24px 24px rgba(0, 0, 0, 0.2); }
 }

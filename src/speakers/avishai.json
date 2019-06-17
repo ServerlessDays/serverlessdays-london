@@ -1,0 +1,26 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Avishai Shafir",
+        "description": "Avishai is a veteran developer that led development with several global hi-tech companies.",
+        "url": "https://serverlessdays.io/speakers/avishai",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762319/London/2019/avishai_card.jpg"
+    },
+    "speaker": {
+        "name": "Avishai Shafir",
+        "title": "VP Products Lumigo",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753805/London/2019/avishai.jpg",
+        "bio": "Avishai is a veteran developer that led development with several global hi-tech companies. Among his roles, he served as the Chief Functional Architect of HP ALM (Quality Center & Performance Center), leading the HP Mercury ALM architects team and meeting with developers around the world to shape state of the art tools for developers. Later in his career, he managed a line of business at Panaya (acquired by Infosys for $200 Milion) and led a team of product managers at Cellebrite (The global leader in digital intelligence solutions). He is a technology enthusiast.",
+        "talk": {
+            "title": "Serverless testing, the required adaptation to our testing methodologies",
+            "abstract" : "Increasing development velocity and feature release pace is the No. 1 goal of software engineering teams. You cannot move fast when your software is failing. Serverless architecture offers new opportunities, but we need to modify our testing methods to enjoy them. Let’s talk about this."
+        },
+        "social": [],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Lin Clark",
+        "description": "Lin Clark is great",
+        "url": "https://serverlessdays.io",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+    },
+    "speaker": {
+        "name": "Lin Clark",
+        "title": "",
+        "img": "/img/linclark.jpg",
+        "bio": "",
+        "talk": {
+            "title": "",
+            "abstract" : ""
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/linclark",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

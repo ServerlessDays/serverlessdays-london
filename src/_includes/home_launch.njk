@@ -1,0 +1,88 @@
+---
+layout: base.njk
+---
+<div class="flex-l pt4 pt6-ns w-100 db">
+    <div class="w-auto w-10-l dn db-l">
+    </div>
+    <div class="w-100 w-40-l tc tr-l">
+        <img class="v-top-ns cover shiftRight90-l ph2 w-80 w-70-m w-100-l" src={{ eventDetails.logo }}>
+        <h1 class="avenir mr2 mr5-m pr4 pr5-m pr0-l mt0 tr f3 f2-ns i mv0 mv1-ns shiftRight60-l">{{ eventDetails.name }}</h1>
+        <div class="avenir fw4 f4 pt0 pl3 pl0-ns tc tr-ns shiftRight60-l">
+            <p class="tc tr-l f4 f3-l mv2">{{eventDetails.endDate}}</p>
+        </div>
+    </div>
+    <div class="w-auto w-10-l dn db-l">
+    </div>
+    <div class="w-100 w-40-l tr-l v-top cover pa0">
+        <img src="{{ eventDetails.hero }}" class="heroImage-l">
+    </div>
+</div>
+<div class="w-100 pa0-m pa3 tc tl-l f4 db mv4 shiftUp240-l" >
+    <div class="flex-l">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-40-l tc tr-m tl-l shiftUp90-m">
+           <a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m contrastBkg contrastColor" href="{{ eventDetails.cta.path }}" target="_blank">{{ eventDetails.cta.name }}</a>
+        </div>
+    </div>
+</div>
+<div class="contrastBkg contrastColor pa3 db w-100">
+    <div class="flex-l mb2">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-auto-ns"> 
+            <p class="fw7 f3 f2-ns mv2 tc tl-l">{{ eventDetails.tagline }}</p>
+        </div>
+    </div>
+</div>
+<div class="w-100 ph1 pv3 pa3-ns tl f4 secondaryColor secondaryBkg">
+    <div class="flex-ns mv3 mv5-l">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-60-m w-50-l ph3 ph0-ns">
+            <h2 class="f2 mt2 mb3">{{ section[0].name }}</h2>
+            <div class="f5 lh-copy pr3-m">{% markdown section[0].text %}</div>
+            <div class="mt4 mt4-ns"><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 secondaryConstrastBkg secondaryContrastColor" href="{{ section[0].cta.path }}" target="_blank">{{ section[0].cta.name }}</a></div>
+        </div>
+        <div class="w-100 w-10-l dn db-l">
+        </div>
+        <div class="dt w-100 w-40-m w-30-l ph3 ph0-ns"> 
+            <p class="fw7 mv3 pt3 pt0-ns f4">Milestones</p>
+            {% for item in eventDetails.milestones %}
+                <div class="dt-row f5">
+                    <div class="dtc mt1 mb0 pv1 pr2 tl">{{ item.date }}</div> 
+                    <div class="dtc tr fr pl3">{{ item.description }}</div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<div class="w-100 ph1 pv3 pa3-ns tl f4 tertiaryColor tertiaryBkg">
+    <div class="flex-ns mv3 mv5-l">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-40-l tc tl-m ph2 ph3-m ph0-ns">
+            <img class="pa2-l" height="300" src="{{ section[1].image }}" />
+        </div>
+        <div class="w-100 w-50-l tl tr-ns ph3 ph0-ns">
+            <h2 class="f2 mv3">{{ section[1].name }}</h2>
+            <div class="f5 lh-copy pl3-m">{% markdown section[1].text %}</div>
+            <div class="mt4"><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2-l tertiaryContrastColor tertiaryContrastBkg" href="{{ section[1].cta.path }}" target="_blank">{{ section[1].cta.name }}</a></div>
+        </div>
+    </div>
+</div>
+<div class="w-100 ph1 pv3 pa3-ns f5 f4-ns tl f5 f4-ns primaryColor primaryBkg">
+    <div class="flex-ns mv3 mv5-ns">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-60-m w-50-l tl ph3 ph0-ns">
+            <h2 class="f2 mv3">{{ section[2].name }}</h2>
+            <div class="f5 lh-copy pr3-m">{% markdown section[2].text %}</div>
+            <div class="mt4"><span><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 contrastColor contrastBkg" href="{{ section[2].cta.path }}" target="_blank">{{ section[2].cta.name }}</a></span></div>
+        </div>
+        <div class="w-100 w-40-m w-40-l db-ns tc tl-m ph2 ph3-m ph0-l">
+            <img class="ba br3 b--transparent pt4 pt0-ns cover" height="320" src="{{ section[2].image }}"/>
+        </div>
+    </div>
+</div>
+{% include 'signup.njk' %}
