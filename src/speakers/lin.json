@@ -2,18 +2,18 @@
     "layout": "speaker.njk",
     "page": {
         "title": "ServerlessDays London - Lin Clark",
-        "description": "Lin Clark is great",
-        "url": "https://serverlessdays.io",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+        "description": "Lin Clark makes code cartoons and is a Principal Research Engineer on Mozilla's Advanced Development team, focusing on WebAssembly and Rust.",
+        "url": "https://serverlessdays.io/speakers/lin",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810332/London/2019/lin_card.jpg"
     },
     "speaker": {
         "name": "Lin Clark",
-        "title": "",
-        "img": "/img/linclark.jpg",
-        "bio": "",
+        "title": "Principal Research Engineer at Mozilla",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1559600203/London/2019/linclark.jpg",
+        "bio": "Lin Clark makes code cartoons and is a Principal Research Engineer on Mozilla's Advanced Development team, focusing on WebAssembly and Rust.",
         "talk": {
-            "title": "",
-            "abstract" : ""
+            "title": "Bringing WebAssembly outside the Web with WASI",
+            "abstract" : "Earlier this year WASI - the WebAssembly system interface, was announced. With this system interface, WebAssembly can be used outside the browser in a portable and safe way. As Solomon Hykes, co-founder of Docker, said, 'If WASM+WASI existed in 2008, you wouldn't have needed us to create Docker. That's how important it is. Webassembly on the server is the future of computing.' But WASI will be useful for so many other use cases, too. In this talk, Lin and Till will share with you how WASI works and explore how different use cases can benefit from it."
         },
         "social": [
             {

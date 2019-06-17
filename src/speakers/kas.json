@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Kas Perch",
+        "description": "Kas (they/them/their) is a developer 🥑 for CloudFlare. They’re also an author of two books about JS Robotics and a Twitch Affiliate streamer for code and hardware. ",
+        "url": "https://serverlessdays.io/speakers/kas",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810331/London/2019/kas_card.jpg"
+    },
+    "speaker": {
+        "name": "Kas Perch",
+        "title": "Developer 🥑 at Cloudflare",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560768751/London/2019/kas.jpg",
+        "bio": "Kas (they/them/their) is a developer 🥑 for CloudFlare. They’re also an author of two books about JS Robotics and a Twitch Affiliate streamer for code and hardware. They like serverless and all the discussions it brings, and playing with their 2 cats.",
+        "talk": {
+            "title": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing",
+            "abstract" : "Let's chat about our approach to serverless: how using the V8 engine and running user functions in isolates decreases overhead and eliminates cold starts. Let's talk about how we leverage JS APIs and features like WebAssembly to allow you to run the code you need, where you need it."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/nodebotanist",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
