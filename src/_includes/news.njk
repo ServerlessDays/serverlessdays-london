@@ -9,16 +9,32 @@ layout: base.njk
     <div class="w-100 w-80-m w-60-l center ba br2 b--transparent shadow-3-light mb5 pa3">
         <a class="no-underline primaryColor tl" href="{{ lead.link }}">
             <div class="flex-ns">
-                <div class="w-100 w-70-ns pa3">
-                    <h2 class="f4 f3-ns mt2 mb0">{{ lead.headline }}</h2>
+                <div class="w-100 w-80-ns pa3">
+                    <h2 class="f4 f2-ns mt2 mb0">{{ lead.headline }}</h2>
                     <p class="f6 f5-ns">{{ lead.description }}</p>
                     <div class="mv1 f5 i tl v-btm">{{ lead.date }}</div>
                 </div>
-                <div class="w-100 w-30-ns">
+                <div class="w-100 w-20-ns">
                     <img class="cover" src="{{ lead.image }}" />
                 </div>
             </div>
         </a>
+    </div>
+    <div class="w-100 w-80-m w-60-l center">
+        {% for post in posts %}
+        <a class="no-underline primaryColor tl" href="{{ lead.link }}"> 
+            <div class="w-100 flex-ns">
+                <div class="w-100 w-20-ns">
+                    <span class="mv1 ml2 f5 i tl">{{ post.date }}</span>
+                </div>
+                <div class="w-100 w-80 ph3 pb3 v-top">
+                    <h2 class="f4 f3-ns pt0 mt0 mb0">{{ post.headline }}</h2>
+                    <p class="f6 f5-ns">{{ post.description }}</p>
+                    
+                </div>
+            </div>
+        </a>
+        {% endfor %}
     </div>
 </div>
 

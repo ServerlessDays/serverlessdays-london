@@ -4,48 +4,22 @@
         "title": "ServerlessDays London - News",
         "description": "One Day. One Track. One Community",
         "url": "https://london.serverlessdays.io/news",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
-        "twitter": "https://twitter.com/ServerlessLDN",
-        "date": "11 July 2019",
-        "location": "Imperial College, South Kensington, London"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-            },
-        {
-            "key": "tickets",
-            "path": "/tickets",
-            "name": "Tickets",
-            "cta": true
-        }
-    ],
     "lead": {
-        "headline": "Announcing ServerlessDays London 2019",
-        "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
-        "date": "26 March 2019",
-        "link": "./announcing-serverless-days-2019",
-        "image": ""
+        "headline": "Announcing Keynotes and Speakers",
+        "description": "We're delighted to announce our keynotes and some of our first speakers. We're joined by Teri Radichel, Lin Clark, Till Schneidereit, and Sarah Drasner.",
+        "date": "18 June 2019",
+        "link": "./keynote-speakers",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_400/v1560839614/London/2019/speaker_square.jpg"
     },
-    "contact": {
-        "email": "london@serverlessdays.io",
-        "twitter": "https://twitter.com/@serverlessLDN"
-    }
+    "posts": [
+        {
+            "headline": "Announcing ServerlessDays London 2019",
+            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "26 March 2019",
+            "link": "./announcing-serverless-days-2019",
+            "image": ""
+        }
+    ]
 }
