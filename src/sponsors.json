@@ -1,38 +1,66 @@
 {
     "layout": "sponsors.njk",
     "page": {
-        "title": "ServerlessDays - Code of Conduct",
+        "title": "ServerlessDays - Sponsors",
         "description": "One Day. One Track. One Community",
-        "url": "https://sydney.serverlessdays.io/coc",
+        "url": "https://sydney.serverlessdays.io/sponsors",
         "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
         "twitter": "https://twitter.com/SydDays"
     },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "venue",
-            "path": "/venue",
-            "name": "Venue"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-        },
-        {
-            "key": "tickets",
-            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
-            "name": "Tickets",
-            "cta": "true"
+    "sponsor": {
+        "cta": {
+            "path": "/static/ServerlessDaysSydney_SponsorProspectus_20190321.pdf",
+            "name": "Download"
         }
-    ]
+    },
+    "sponsors": {
+        "platinum": [
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
+                "alt": "Amazon Web Services",
+                "link": "https://aws.amazon.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_85/v1559653248/cloudflare.png",
+                "alt": "Cloudflare",
+                "link": "https://cloudflare.com"
+            }
+        ],
+        "gold": [
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
+                "alt": "Google Cloud Platform",
+                "link": "https://cloud.google.com"
+            }
+        ],
+        "silver": [
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
+                "alt": "IBM",
+                "link": "https://cloud.ibm.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
+                "alt": "Thundra",
+                "link": "https://thundra.io"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_65/v1529397141/DAZN_white.png",
+                "alt": "DAZN",
+                "link": "https://www.dazn.com"
+            }
+        ],
+        "community": [
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_25/v1528242508/reason-white.png",
+                "alt": "Reason",
+                "link": "https://reason.co"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/London/2019/nearst.png",
+                "alt": "NearSt",
+                "link": "https://near.st"
+            }
+        ]
+    }
 }

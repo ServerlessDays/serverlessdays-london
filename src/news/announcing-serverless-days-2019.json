@@ -5,7 +5,9 @@
         "description": "The third edition of ServerlessDays Sydney is upon us, new venue, higher capacity, bigger program. Get your Serverless on!",
         "url": "https://sydney.serverlessdays.io/news/announcing-serverless-days-2019",
         "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
+        "twitter": "https://twitter.com/SydDays",
+        "date": "27 August 2019",
+        "location": "Darlinghurst Theatre Company, Sydney"
     },
     "navBarItems": [
         {
@@ -14,15 +16,24 @@
             "name": "News"
         },
         {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
+        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
         },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+            "path": "/tickets",
             "name": "Tickets",
             "cta": "true"
         }
-    ]
+    ],
+    "contact": {
+        "email": "sydney@serverlessdays.io",
+        "twitter": "https://twitter.com/SydDays"
+    }
 }

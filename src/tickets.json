@@ -1,0 +1,39 @@
+{
+    "layout": "tickets.njk",
+    "page": {
+        "title": "ServerlessDays - Tickets",
+        "description": "One Day. One Track. One Community",
+        "url": "https://sydney.serverlessdays.io/tickets",
+        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
+        "twitter": "https://twitter.com/SydDays"
+    },
+    "tickets": [
+        {
+            "title": "Standard Ticket",
+            "description": "Standard Admission",
+            "price": "$69",
+            "cta": {            
+                "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+                "name": "Buy"
+            }
+        },
+        {
+            "title": "Standard + Sponsor Ticket",
+            "description": "Standard Admission for you and sponsor a ticket for someone else",
+            "price": "$99",
+            "cta": {            
+                "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+                "name": "Buy"
+            }
+        },
+        {
+            "title": "Scholarship",
+            "description": "Are you from an under represented minority? Apply for our scholarship via diversitytickets.org",
+            "price": "$10",
+            "cta": {            
+                "path": "https://diversitytickets.org/en/events/420",
+                "name": "Apply"
+            }
+        }
+    ]
+}

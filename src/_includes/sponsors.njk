@@ -1,8 +1,18 @@
 ---
 layout: base.njk
 ---
-<div class="pt4 pt6-ns w-100">
+<div class="ph3 ph0-ns pt4 pt6-ns w-100">
+    <div class="w-100 w-80-m w-60-l center">
+        <h1 class="f1">Sponsors</h1>
+    </div>
+    <div class="mw6-m mw7-l center pb2 pb4-ns">
+        {% include 'components/sponsors.njk' %}
+    </div>
+
     <div class="markdown-body mw6-m mw7-l avenir center">
         {{ content | safe }}
+    </div>
+    <div class="mw6-m mw7-l center pt4 pb5">
+        <a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m contrastBkg contrastColor" href="{{ sponsor.cta.path }}" target="_blank">{{ sponsor.cta.name }}</a>
     </div>
 </div>

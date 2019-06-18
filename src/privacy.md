@@ -186,5 +186,5 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: hello@serverlessdays.io
+By email: sydney@serverlessdays.io
 
