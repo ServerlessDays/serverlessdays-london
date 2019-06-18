@@ -22,7 +22,7 @@ We had an overwhelming response to the conference CFP, with 136 proposals were r
 
 The first selection of CFP speakers is now available on the [website](https://london.serverlessdays.io/speakers/), these include…. 
 
-**["Combining serverless and AI to delight your Nan"](https://london.serverlessdays.io/speakers/sean/) by Sean Tracy (Developer Advocate @ IBM Cloud)**
+**["Combining serverless and AI to delight your Nan"](https://london.serverlessdays.io/speakers/sean/) by Sean Tracey (Developer Advocate @ IBM Cloud)**
 
 Sean Tracy will explain why he chose serverless technologies to power a digital picture frame he built for his mother, which used AI to filter my Instagram feed to only show her pictures of her grandchildren.
 
