@@ -1,0 +1,23 @@
+{% if item.type=='break' %}
+    <div class="ph3 ph4-l pv2 tl ba b--transparent br3 contrastBkg contrastColor"> 
+        <div class="v-mid">
+            <span class="f5">{{ item.name }}</span>
+        </div>
+    </div>
+{% elif item.type=='talk' %}
+    <div class="ph3 ph4-l pv2 tl ba b--transparent br3 secondaryBkg secondaryColor"> 
+        <div class="v-mid">
+            <span class="f5">{{ item.name }}</span>
+        </div>
+    </div>
+{% elif item.type=='keynote' %}
+    <div class="tertiaryBkg tertiaryColor h-100 v-mid">
+        <span>Title:</span>
+        <span>{{ item.name }}</span>
+    </div>
+{% elif item.type=='lightning' %}
+    <div class="contrastBkg contrastColor h-100 v-mid">
+        <span>Title:</span>
+        <span>{{ item.name }}</span>
+    </div>
+{% endif %}

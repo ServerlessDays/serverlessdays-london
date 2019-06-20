@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+<div class="ph3 ph0-ns pt4 pt6-ns w-100">
+    <div class="markdown-body mw6-m mw7-l avenir center">
+        <div class="dt">
+            {% for item in agenda %}
+                <div class="dt-row">
+                    <div class="dtc h-100 w4 pa1 pa2-ns v-mid">
+                        <div class="ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
+                            <span class="f5 f4-l">{{ item.time }}</span>
+                        </div>
+                    </div>
+                  
+                    <div class="dtc h3 pa1 pa2-ns v-mid">
+                       
+                        {% include 'components/talkCard.njk' %}
+                        
+                    </div> 
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

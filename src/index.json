@@ -191,10 +191,6 @@
         },
         {
             "time": "12:35",
-            "name": "Lightning Talk"
-        },
-        {
-            "time": "12:45",
             "name": "Lunch"
         },
         {
@@ -211,18 +207,22 @@
         },
         {
             "time": "15:15",
-            "name": "Break"
-        },
-        {
-            "time": "15:45",
             "name": "Lightning Talk"
         },
         {
-            "time": "16:00",
+            "time": "15:25",
+            "name": "Break"
+        },
+        {
+            "time": "15:55",
             "name": "Talk"
         },
         {
             "time": "16:30",
+            "name": "Talk"
+        },
+        {
+            "time": "17:05",
             "name": "Closing Keynote",
             "speaker": [
                 {
@@ -232,7 +232,7 @@
             ]
         },
         {
-            "time": "17:00",
+            "time": "17:30",
             "name": "Closing Remarks",
             "speaker": [
                 {
