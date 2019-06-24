@@ -1,0 +1,42 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Roberto Diaz",
+        "description": "Roberto is a Software Developer at Agile Monkeys and is passionate about technologies. With more than 10 years of experience as a full-stack developer, and experience working on several projects related to image processing in real time and augmented reality.",
+        "url": "https://serverlessdays.io/speakers/roberto",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561361001/London/2019/roberto_card.jpg"
+    },
+    "speaker": {
+        "name": "Roberto Diaz",
+        "title": "Developer at Agile Monkeys",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561357206/London/2019/roberto.jpg",
+        "bio": "Roberto is a Software Developer at Agile Monkeys and is passionate about technologies. With more than 10 years of experience as a full-stack developer, and experience working on several projects related to image processing in real time and augmented reality. When he came across serverless technologies, he fell in love with them and has soaked up as much knowledge about them as he possibly could since.",
+        "talk": {
+            "title": "Discovering the microbiological world with Apache OpenWhisk and Rust",
+            "abstract" : "Biological image analysis plays an important role due to its wide range of applications in biology, molecular biology, and neuroscience. Visualization and image analysis methods are critical to understanding various features of cell and biological parameters in an unprecedented and highly specific manner. \r\n \r\nThis talk explores the use of Apache OpenWhisk to perform image processing using Serverless technologies. We will review the main OpenWhisk features and describe the use of the multi-language capabilities of OpenWhisk to implement the whole system, using Rust as the primary language. \r\n \r\nWe will start by exploring the foundations of Apache OpenWhisk with a review of its internal architecture. Then, we will give a brief introduction to biological image processing and its main techniques. \r\n \r\nOnce we have the “mise en place” of our technology stack, we will show the proposed system architecture. We are going to present a completely configurable image processing pipeline based on OpenWhisk. Our system receives an image and a sequence of filters as input parameters and, after the sequence execution, it returns the final processed image and any associated result to the client. \r\n \r\nOur system is fully created inside OpenWhisk using Rust functions. When the user uploads an image, the handler coordinates the execution of each filter defined in the filter sequence and gathers all filter results. When the sequence is complete, the handler returns the result to the user. The key feature of our system is based on the filter structure. The filters are totally independent, which gives us the ability to configure our image pipeline “on the fly” when the user uploads an image. \r\n \r\nWith the system fully developed, we can proceed to validate it using real biological images. In this case, we are going to show how to determine the viability of a yeast colony by trying to measure yeast cell density per cubic millimeter by counting the number of live yeast cells in a microscopic image."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/rdiaz82",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "Github",
+                "link": "https://github.com/rdiaz82",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1561357391/GitHub-Mark-Light.png"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/rdiaz82",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

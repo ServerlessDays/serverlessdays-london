@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Chris Munns",
+        "description": "Chris Munns is a Principal and the lead Developer Advocate for Serverless Applications at Amazon Web Services based in New York City. Chris works with AWS's developer customers to understand how serverless technologies can drastically change the way they think about building and running applications at potentially massive scale with minimal administration overhead.",
+        "url": "https://serverlessdays.io/speakers/chrism",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561361000/London/2019/chrism_card.jpg"
+    },
+    "speaker": {
+        "name": "Chris Munns",
+        "title": "Principal Developer Advocate at Amazon Web Services",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359670/London/2019/chrism.jpg",
+        "bio": "Chris Munns is a Principal and the lead Developer Advocate for Serverless Applications at Amazon Web Services based in New York City. Chris works with AWS's developer customers to understand how serverless technologies can drastically change the way they think about building and running applications at potentially massive scale with minimal administration overhead. \r\n \r\nPrior to this role, Chris was the global Business Development Manager for DevOps at AWS, spent a few years as a Solutions Architect at AWS, and has held senior operations engineering posts at Etsy, Meetup, and other NYC based startups. Chris has a Bachelor of Science in Applied Networking and System Administration from the Rochester Institute of Technology.",
+        "talk": {
+            "title": "How AWS Builds Serverless Services Using Serverless",
+            "abstract" : "This talk peels back the covers a bit to look at how AWS thinks about using serverless technology and patterns to build even more serverless technology. It explores how the Serverless team has used various AWS technologies to build a product that enables teams to build with serverless."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/chrismunns",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

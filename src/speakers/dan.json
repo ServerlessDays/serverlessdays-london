@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Daniel Bass",
+        "description": "Daniel is a Software Developer at a large Investment Management firm in the City of London. He is the author of 2 books on Serverless - 'Beginning...' and 'Advanced Serverless Architectures with Microsoft Azure'.",
+        "url": "https://serverlessdays.io/speakers/dan",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561360999/London/2019/dan_card.jpg"
+    },
+    "speaker": {
+        "name": "Daniel Bass",
+        "title": "Software Developer",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359022/London/2019/dan.jpg",
+        "bio": "Daniel is a Software Developer at a large Investment Management firm in the City of London. He is the author of 2 books on Serverless - 'Beginning...' and 'Advanced Serverless Architectures with Microsoft Azure'. \r\nHe loves traveling around the world and learning to cook vegetarian dishes from the places he visits.",
+        "talk": {
+            "title": "Serverless 'On Desk'",
+            "abstract" : "Hear about the real-world experience of building Serverless systems 'On Desk' in Investment Management. Learn how to use Serverless to massively increase your productivity and adaptability, integrate with legacy systems and deliver data at scale in a tightly regulated environment."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/danbassdev",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

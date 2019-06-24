@@ -1,0 +1,36 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Jennifer Davis",
+        "description": "Jennifer Davis is the co-author of Effective DevOps and a cloud advocate at Microsoft. Previously, she was a principal site reliability engineer at RealSelf, developed cookbooks to simplify building and managing infrastructure at Chef, and built reliable service platforms at Yahoo.",
+        "url": "https://serverlessdays.io/speakers/jennifer",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561360998/London/2019/jennifer_card.jpg"
+    },
+    "speaker": {
+        "name": "Jennifer Davis",
+        "title": "Cloud Developer Advocate at Microsoft",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359021/London/2019/jennifer.jpg",
+        "bio": "Jennifer Davis is the co-author of Effective DevOps and a cloud advocate at Microsoft. Previously, she was a principal site reliability engineer at RealSelf, developed cookbooks to simplify building and managing infrastructure at Chef, and built reliable service platforms at Yahoo. She is a global organizer of devopsdays and organizes the Silicon Valley event. She is the founder of CoffeeOps",
+        "talk": {
+            "title": "Monitoring and Debugging Serverless",
+            "abstract" : "A function is deployed, and alerts go off. When our intrepid site reliability engineer responds to the change in availability, she begins the task of debugging and implementing new tests to catch the issue in future deployments. While the nature and complexity of computing changes, the need for specialized operations engineering skills increases. \r\nIn this talk, we examine the role of Operations, how it has evolved with the advent of new compute paradigms. We’ll examine two critical areas of operational readiness of monitoring and debugging."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/sigje",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "CoffeeOps",
+                "link": " http://www.coffeeops.org/"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{% if item.type=='break' %}
+    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 contrastBkg contrastColor v-mid"> 
+        <span class="f5 pt2">{{ item.name }}</span>
+    </div>
+{% elif item.type=='talk' %}
+    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 secondaryBkg secondaryColor"> 
+        <div class="flex v-mid">
+            <span class="f5 pt2 pr2">{{ item.name }}</span>
+            <span class="pl3">
+                <div class="f5 b pv2 pl2">{{ item.title }}</div>
+                <div class="f5 pv2 pl2">{{ item.abstract }}</div>
+            </span>
+        </div>
+        <div>
+            {% for speaker in item.speaker %}
+                <div><a class="no-underline secondaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
+            {% endfor %}
+        </div>
+    </div>
+{% elif item.type=='keynote' %}
+    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 tertiaryBkg tertiaryColor"> 
+        <div class="flex">
+            <span class="f5 pt2 pr2 w3">{{ item.name }}</span>
+            <span class="pl3">
+                <div class="f5 b pv2">{{ item.title }}</div>
+                <div class="f5 pv2">{{ item.abstract }}</div>
+            </span>
+        </div>
+        <div>
+            {% for speaker in item.speaker %}
+                <div><a class="no-underline tertiaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
+            {% endfor %}
+        </div>
+    </div>
+{% elif item.type=='lightning' %}
+    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 secondaryBkg secondaryColor"> 
+        <div class="flex">
+            <span class="f5 pt2 pr2 w3">{{ item.name }}</span>
+            <span class="pl3">
+                <div class="f5 b pv2 pl2">{{ item.title }}</div>
+                <div class="f5 pv2 pl2">{{ item.abstract }}</div>
+            </span>
+        </div>
+        <div>
+            {% for speaker in item.speaker %}
+                <div><a class="no-underline secondaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
+            {% endfor %}
+        </div>
+    </div>
+{% endif %}

@@ -62,6 +62,30 @@
             "alt": "Sheen Brisals",
             "link": "/speakers/sheen",
             "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359670/London/2019/chrism.jpg",
+            "alt": "Chris Munns",
+            "link": "/speakers/chrism",
+            "talk": "How AWS Builds Serverless Services Using Serverless"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359021/London/2019/jennifer.jpg",
+            "alt": "Jennifer Davis",
+            "link": "/speakers/jennifer",
+            "talk": "Monitoring and Debugging Serverless"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359022/London/2019/dan.jpg",
+            "alt": "Daniel Bass",
+            "link": "/speakers/dan",
+            "talk": "Serverless 'On Desk'"
+        },
+        {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561357206/London/2019/roberto.jpg",
+            "alt": "Roberto Diaz",
+            "link": "/speakers/roberto",
+            "talk": "Discovering the microbiological world with Apache OpenWhisk and Rust"
         }
     ]
 }
