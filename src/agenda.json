@@ -111,6 +111,8 @@
     {
         "time": "17:05",
         "name": "Closing Keynote",
+        "title": "The Art of Code Comments",
+        "abstract": "Code comments are art",
         "speaker": [
             {
                 "name": "Sarah Drasner",

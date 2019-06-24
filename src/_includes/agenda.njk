@@ -2,20 +2,19 @@
 layout: base.njk
 ---
 <div class="ph3 ph0-ns pt4 pt6-ns w-100">
-    <div class="markdown-body mw6-m mw7-l avenir center">
-        <div class="dt">
+    <div class="mw6-m mw7-l avenir center">
+        <div class="dt w-100">
             {% for item in agenda %}
                 <div class="dt-row">
-                    <div class="dtc h-100 w4 pa1 pa2-ns v-mid">
-                        <div class="ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
-                            <span class="f5 f4-l">{{ item.time }}</span>
+                    <div class="dtc w4 pa1 pa2-ns">
+                        <div class="h4 ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
+                            <div class="f5 f4-l v-mid">{{ item.time }}</div>
                         </div>
                     </div>
-                  
-                    <div class="dtc h3 pa1 pa2-ns v-mid">
-                       
-                        {% include 'components/talkCard.njk' %}
-                        
+                    <div class="dtc pa1 pa2-ns v-mid">
+                        <div class="h4">
+                            {% include 'components/talkCard.njk' %}
+                        </div>
                     </div> 
                 </div>
             {% endfor %}
