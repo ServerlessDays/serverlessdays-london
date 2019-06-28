@@ -1,0 +1,56 @@
+{
+    "layout": "workshops.njk",
+    "page": {
+        "title": "ServerlessDays London - Workshops",
+        "description": "One Day. One Track. One Community",
+        "url": "https://london.serverlessdays.io/workshops",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    },
+    "workshops": [
+        {
+            "title": "Thundra Workshop",
+            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "10 July 2019",
+            "link": "./thundra",
+            "image": "",
+            "duration": "3 hours",
+            "start": "13:00"
+        },
+        {
+            "title": "Thundra Workshop",
+            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "10 July 2019",
+            "link": "./thundra",
+            "image": "",
+            "duration": "3 hours",
+            "start": "13:00"
+        },
+        {
+            "title": "Thundra Workshop",
+            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "10 July 2019",
+            "link": "./thundra",
+            "image": "",
+            "duration": "3 hours",
+            "start": "13:00"
+        },
+        {
+            "title": "Thundra Workshop",
+            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "10 July 2019",
+            "link": "./thundra",
+            "image": "",
+            "duration": "3 hours",
+            "start": "13:00"
+        },
+        {
+            "title": "Thundra Workshop",
+            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "10 July 2019",
+            "link": "./thundra",
+            "image": "",
+            "duration": "3 hours",
+            "start": "13:00"
+        }
+    ]
+}

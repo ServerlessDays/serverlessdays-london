@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays London 2019 Keynote Speakers",
+        "description": "We're delighted to announce our keynotes and some of our first speakers. We're joined by Teri Radichel, Lin Clark, Till Schneidereit, and Sarah Drasner.",
+        "url": "https://london.serverlessdays.io/news/keynote-speakers-2019",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_800/v1560839157/London/2019/keynote.jpg"
+    }
+}

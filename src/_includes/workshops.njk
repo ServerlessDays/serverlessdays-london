@@ -1,0 +1,38 @@
+---
+layout: base.njk
+---
+
+<div class="ph3 ph0-ns pt4 pt6-ns w-100 center">
+    <div class="w-100 w-80-m w-60-l center">
+        <h1 class="f1">Workshops</h1>
+    </div>
+    <div class="w-100 w-80-m w-60-l mb5 pa0 pa2-l center">
+        {% for workshop in workshops %}
+        <a class="no-underline primaryColor tl" href="{{ workshop.link }}"> 
+            <span class="w-100 w-40-m w-30-l dib ph1 pv2">
+                <div class="w-100 ba br3 b--white">
+                    <div class="w-100 pa3 v-top">
+                        <h2 class="f4 f3-ns pt0 mt0 mb0">{{ workshop.title }}</h2>
+                        <div>
+                            <div class="mv1  f4 i tl">{{ workshop.date }}</div>
+                            <div class="mv2 f5 i">
+                                <span class="tl">Start Time: {{ workshop.start }}</span>
+                                <span class="tr">Duration: {{ workshop.duration }}</span>
+                            </div>
+                        </div>
+                        {% if workshop.img %}
+                        <div>
+                            <img class="mv1 w-80 ba br3 b--transparent"-0 src="{{ workshop.img }}"/>
+                        </div>
+                        {% endif %}
+                        <div class="f6 f5-ns">{% markdown workshop.description %}</div>
+                    </div>
+                </div>
+            </span>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+
+    
