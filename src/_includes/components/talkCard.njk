@@ -1,5 +1,5 @@
 {% if item.type=='break' %}
-    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 contrastBkg contrastColor v-mid"> 
+    <div class="h-100 ph3 ph4-l pv2 pv3-ns tl ba b--transparent br3 contrastBkg contrastColor v-mid"> 
         <span class="f5 pt2">{{ item.name }}</span>
     </div>
 {% elif item.type=='talk' %}
@@ -33,7 +33,7 @@
         </div>
     </div>
 {% elif item.type=='lightning' %}
-    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 secondaryBkg secondaryColor"> 
+    <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 secondaryConstrastBkg secondaryContrastColor"> 
         <div class="flex">
             <span class="f5 pt2 pr2 w3">{{ item.name }}</span>
             <span class="pl3">
@@ -43,7 +43,7 @@
         </div>
         <div>
             {% for speaker in item.speaker %}
-                <div><a class="no-underline secondaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
+                <div><a class="no-underline secondaryContrastColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
             {% endfor %}
         </div>
     </div>

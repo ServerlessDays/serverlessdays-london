@@ -7,14 +7,14 @@ layout: base.njk
             {% for item in agenda %}
                 <div class="dt-row">
                     <div class="dtc w4 pa1 pa2-ns">
-                        <div class="h4 ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
+                        <div class="ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
                             <div class="f5 f4-l v-mid">{{ item.time }}</div>
                         </div>
                     </div>
                     <div class="dtc pa1 pa2-ns v-mid">
-                        <div class="h4">
+                        
                             {% include 'components/talkCard.njk' %}
-                        </div>
+                       
                     </div> 
                 </div>
             {% endfor %}

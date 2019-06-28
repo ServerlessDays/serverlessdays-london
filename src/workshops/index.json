@@ -8,13 +8,22 @@
     },
     "workshops": [
         {
-            "title": "Thundra Workshop",
-            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "title": "Building 100% Serverless Blog Site Application with Right Observability",
+            "description": "Learn how to build a simplistic version of a blog site application in serverless and how to gain observability into the application and architecture with Thundra.",
             "date": "10 July 2019",
             "link": "./thundra",
-            "image": "",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
             "duration": "3 hours",
-            "start": "13:00"
+            "start": "14:00",
+            "location": "DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, London W6 0NW",
+            "capacity": "20",
+            "speakers": [
+                {
+                  "name": "Serhan Ozal",
+                  "title": "Founder & CEO",
+                  "company": "Thundra"
+                }
+            ]
         },
         {
             "title": "Thundra Workshop",
