@@ -15,11 +15,18 @@
     {
         "time": "09:15",
         "name": "Welcome Remarks",
+        "speaker": [
+            {
+                "name": "ServerlessDays Team"
+            }
+        ],
         "type": "talk"
     },
     {
         "time": "09:25",
         "name": "Keynote",
+        "title": "Bringing WebAssembly outside the Web with WASI",
+        "abstract": "Earlier this year WASI - the WebAssembly system interface, was announced. With this system interface, WebAssembly can be used outside the browser in a portable and safe way. As Solomon Hykes, co-founder of Docker, said, 'If WASM+WASI existed in 2008, you wouldn't have needed us to create Docker. That's how important it is. Webassembly on the server is the future of computing.' But WASI will be useful for so many other use cases, too. In this talk, Lin and Till will share with you how WASI works and explore how different use cases can benefit from it.",
         "speaker": [
             {
                 "name": "Lin Clark",
@@ -35,6 +42,8 @@
     {
         "time": "10:15",
         "name": "Keynote",
+        "title": "Security & Serverless",
+        "abstract": "",
         "speaker": [
             {
                 "name": "Teri Radichel",
@@ -51,46 +60,84 @@
     {
         "time": "11:30",
         "name": "Talk",
+        "title": "Machine Learning on Mobile and Serverless",
+        "abstract": "This talk is a technical case study of developing a cross-platform, mobile-friendly, highly-performant Product Identification model, using technologies such as AI Platform, Cloud Composer and Cloud Dataflow, which eliminates the need for packaging and labels in a global Cosmetics Retail business.",
+        "speaker": [
+            {
+                "name": "Alexandra Abbas",
+                "link": "/speakers/alexa"
+            }
+        ],
         "type": "talk"
     },
     {
         "time": "12:00",
-        "name": "Lightning Talk",
-        "type": "lightning"
+        "name": "Talk",
+        "title": "Discovering the microbiological world with Apache OpenWhisk and Rust",
+        "abstract": "This talk explores the use of Apache OpenWhisk to perform image processing using Serverless technologies.",
+        "speaker": [
+            {
+                "name": "Roberto Diaz",
+                "link": "/speakers/roberto"
+            }
+        ],
+        "type": "talk"
     },
     {
-        "time": "12:15",
-        "name": "Lightning Talk",
-        "type": "lightning"
-    },
-    {
-        "time": "12:25",
-        "name": "Lightning Talk",
-        "type": "lightning"
-    },
-    {
-        "time": "12:35",
+        "time": "12:30",
         "name": "Lunch",
         "type": "break"
     },
     {
         "time": "14:00",
         "name": "Talk",
+        "title": "How AWS Builds Serverless Services Using Serverless",
+        "abstract": "This talk peels back the covers a bit to look at how AWS thinks about using serverless technology and patterns to build even more serverless technology. It explores how the Serverless team has used various AWS technologies to build a product that enables teams to build with serverless.",
+        "speaker": [
+            {
+                "name": "Chris Munns",
+                "link": "/speakers/chrism"
+            }
+        ],
         "type": "talk"
     },
     {
-        "time": "14:35",
+        "time": "14:30",
         "name": "Talk",
+        "title": "Creating an Enterprise Level Call Centre using a serverless architecture",
+        "abstract": "How we created a completely serverless AI backed call center using Amazon Lex & Amazon Connect. Currently taking 150,000 calls a month resulting in a magnitude of cost savings of 47% with zero downtime for over a year. All with a team of serverless newbies under tight deadlines.",
+        "speaker": [
+            {
+                "name": "Chris Gormley",
+                "link": "/speakers/chris"
+            }
+        ],
         "type": "talk"
     },
     {
-        "time": "15:05",
+        "time": "15:00",
         "name": "Lightning Talk",
+        "title": "Combining serverless and AI to delight your Nan",
+        "abstract": "In this talk, I explain why I chose serverless technologies to power a digital picture frame I built for my mother which used AI to filter my Instagram feed to only show her pictures of her grandchildren.",
+        "speaker": [
+            {
+                "name": "Sean Tracey",
+                "link": "/speakers/sean"
+            }
+        ],
         "type": "lightning"
     },
     {
         "time": "15:15",
         "name": "Lightning Talk",
+        "title": "Serverless testing, the required adaptation to our testing methodologies",
+        "abstract": "Increasing development velocity and feature release pace is the No. 1 goal of software engineering teams. You cannot move fast when your software is failing. Serverless architecture offers new opportunities, but we need to modify our testing methods to enjoy them. Let’s talk about this.",
+        "speaker": [
+          {
+            "name": "Avishai Shafir",
+            "link": "/speakers/avishai"
+          }
+        ],
         "type": "lightning"
     },
     {
@@ -100,16 +147,58 @@
     },
     {
         "time": "15:55",
-        "name": "Talk",
-        "type": "talk"
+        "name": "Lightning Talk",
+        "title": "Monitoring and Debugging Serverless",
+        "abstract": "A function is deployed, and alerts go off. When our intrepid site reliability engineer responds to the change in availability, she begins the task of debugging and implementing new tests to catch the issue in future deployments. While the nature and complexity of computing changes, the need for specialized operations engineering skills increases. In this talk, we examine the role of Operations, how it has evolved with the advent of new compute paradigms. We’ll examine two critical areas of operational readiness of monitoring and debugging.",
+        "speaker": [
+            {
+                "name": "Jennifer Davis",
+                "link": "/speakers/Jennifer"
+            }
+        ],
+        "type": "lightning"
+    },
+    {
+        "time": "16:10",
+        "name": "Lightning Talk",
+        "title": " Serverless 'On Desk'",
+        "abstract": "Hear about the real-world experience of building Serverless systems 'On Desk' in Investment Management. Learn how to use Serverless to massively increase your productivity and adaptability, integrate with legacy systems and deliver data at scale in a tightly regulated environment.",
+        "speaker": [
+            {
+                "name": "Daniel Bass",
+                "link": "/speakers/dan"
+            }
+        ],
+        "type": "lightning"
+    },
+    {
+        "time": "16:20",
+        "name": "Lightning Talk",
+        "title": "Serverless Journey of shop.LEGO.com",
+        "abstract": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality.",
+        "speaker": [
+            {
+                "name": "Sheen Brisals",
+                "link": "/speakers/sheen"
+            }
+        ],
+        "type": "lightning"
     },
     {
         "time": "16:30",
         "name": "Talk",
+        "title": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing",
+        "abstract": "Let's chat about our approach to serverless: how using the V8 engine and running user functions in isolates decreases overhead and eliminates cold starts. Let's talk about how we leverage JS APIs and features like WebAssembly to allow you to run the code you need, where you need it.",
+        "speaker": [
+            {
+                "name": "Kas Perch",
+                "link": "/speakers/kas"
+            }
+        ],
         "type": "talk"
     },
     {
-        "time": "17:05",
+        "time": "17:00",
         "name": "Closing Keynote",
         "title": "The Art of Code Comments",
         "abstract": "Code comments are art",
@@ -131,5 +220,5 @@
         ],
         "type": "talk"
     }
-]
+  ]
 }
