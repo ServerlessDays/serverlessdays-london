@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays - Observability Workshop",
+        "description": "Building a 100% Serverless Blog Site Application with the Right Observability",
+        "url": "https://london.serverlessdays.io/workshops/thundra",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    }
+}

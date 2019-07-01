@@ -1,0 +1,43 @@
+---
+layout: base.njk
+---
+
+<div class="ph3 ph0-ns pt4 pt6-ns w-100 center">
+    <div class="w-100 w-80-m w-60-l center">
+        <h1 class="f1">Workshops</h1>
+    </div>
+    <div class="w-100 w-80-m w-60-l mb5 pa0 pa2-l center">
+        {% for workshop in workshops %}
+        <a class="no-underline primaryColor tl" href="{{ workshop.link }}"> 
+            <span class="w-100 w-40-m w-30-l dib ph1 pv2 v-top">
+                <div class="w-100 ba br3 b--white">
+                    <div class="w-100 pa3 v-top">
+                        <h2 class="f4 f3-ns pt0 mt0 mb0">{{ workshop.title }}</h2>
+                        {% if workshop.img %}
+                        <div>
+                            <img class="mv1 w-80 ba br3 b--transparent"-0 src="{{ workshop.img }}"/>
+                        </div>
+                        {% endif %}
+                        <div class="f6 f5-ns lh-copy">{% markdown workshop.description %}</div>
+                        <div>
+                            <div class="mv1 f4 i tc contrastBkg contrastColor pv1">{{ workshop.date }}</div>
+                            <div class="mv2 f5 lh-copy"><span class="b">{{ workshop.location }}</span></div>
+                            <div class="mv2 f5">Start Time: <span class="b">{{ workshop.start }}</span></div>
+                            <div class="mv2 f5">Duration: <span class="b">{{ workshop.duration }}</span></div>
+                            {% if workshop.image %}
+                                <div class="mv2 f5">Presented by: </span></div>
+                                <div class="mv3">
+                                    <img src="{{ workshop.image }}"/>
+                                </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </span>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+
+    

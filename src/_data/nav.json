@@ -11,6 +11,16 @@
             "name": "Speakers"
         },
         {
+            "key": "agenda",
+            "path": "/agenda",
+            "name": "Agenda"
+        },
+        {
+            "key": "workshops",
+            "path": "/workshops",
+            "name": "Workshops"
+        },
+        {
             "key": "sponsors",
             "path": "/sponsors",
             "name": "Sponsors"
