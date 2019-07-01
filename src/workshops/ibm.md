@@ -21,3 +21,5 @@ James Thomas - Developer Advocate @ IBM
 **Start Time:** 14:00
 
 **Duration:** 3 hours
+
+You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.
