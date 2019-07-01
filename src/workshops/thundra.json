@@ -1,9 +1,9 @@
 {
     "layout": "post.njk",
     "page": {
-        "title": "Announcing ServerlessDays London 2019",
-        "description": "The third edition of ServerlessDays London is upon us, new venue, higher capacity, bigger program. Get your Serverless on!",
-        "url": "https://london.serverlessdays.io/news/announcing-serverless-days-2019",
-        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+        "title": "ServerlessDays - Observability Workshop",
+        "description": "Building a 100% Serverless Blog Site Application with the Right Observability",
+        "url": "https://london.serverlessdays.io/workshops/thundra",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     }
 }

@@ -2,13 +2,13 @@
     "layout": "workshops.njk",
     "page": {
         "title": "ServerlessDays London - Workshops",
-        "description": "One Day. One Track. One Community",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
         "url": "https://london.serverlessdays.io/workshops",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     },
     "workshops": [
         {
-            "title": "Building 100% Serverless Blog Site Application with Right Observability",
+            "title": "Building a 100% Serverless Blog Site Application with the Right Observability",
             "description": "Learn how to build a simplistic version of a blog site application in serverless and how to gain observability into the application and architecture with Thundra.",
             "date": "10 July 2019",
             "link": "./thundra",
@@ -19,47 +19,34 @@
             "capacity": "20",
             "speakers": [
                 {
-                  "name": "Serhan Ozal",
+                  "name": "Serkan Özal",
                   "title": "Founder & CEO",
                   "company": "Thundra"
                 }
             ]
         },
         {
-            "title": "Thundra Workshop",
-            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "title": "Serverless Voice Assistants",
+            "description": "Devices like Google Home and Amazon Alexa are gaining huge popularity in the home. Not only do they let you build your own applications on top of them, but they are fantastic use-cases for Serverless computing.",
             "date": "10 July 2019",
-            "link": "./thundra",
-            "image": "",
+            "link": "./ibm",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
             "duration": "3 hours",
-            "start": "13:00"
-        },
-        {
-            "title": "Thundra Workshop",
-            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
-            "date": "10 July 2019",
-            "link": "./thundra",
-            "image": "",
-            "duration": "3 hours",
-            "start": "13:00"
-        },
-        {
-            "title": "Thundra Workshop",
-            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
-            "date": "10 July 2019",
-            "link": "./thundra",
-            "image": "",
-            "duration": "3 hours",
-            "start": "13:00"
-        },
-        {
-            "title": "Thundra Workshop",
-            "description": "ServerlessDays London 2019 is happening on 11 July at Imperial College, South Kensington. New venue, expanded program, more Serverless! Get your Serverless on!",
-            "date": "10 July 2019",
-            "link": "./thundra",
-            "image": "",
-            "duration": "3 hours",
-            "start": "13:00"
+            "start": "14:00",
+            "location": "Cloudflare, County Hall/The Riverside Building, Belvedere Rd, Lambeth, London SE1 7PB",
+            "capacity": "40",
+            "speakers": [
+                {
+                  "name": "James Thomas",
+                  "title": "Developer Advocate",
+                  "company": "IBM"
+                },
+                {
+                    "name": "Ed Shee",
+                    "title": "Developer Advocate",
+                    "company": "IBM"
+                  }
+            ]
         }
     ]
 }
