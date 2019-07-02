@@ -15,6 +15,13 @@
     },
     "posts": [
         {
+            "headline": "Announcing Workshops",
+            "description": "We're delighted to announce our workshops for 2019. We have 4 workshops from Thundra, IBM, AWS and Google.",
+            "date": "2nd July 2019",
+            "link": "./workshops-2019",
+            "image": ""
+        },
+        {
             "headline": "Announcing Keynotes and Speakers",
             "description": "We're delighted to announce our keynotes and some of our first speakers. We're joined by Teri Radichel, Lin Clark, Till Schneidereit, and Sarah Drasner.",
             "date": "18 June 2019",
