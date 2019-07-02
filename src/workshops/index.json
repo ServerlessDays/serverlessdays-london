@@ -47,6 +47,24 @@
                     "company": "IBM"
                   }
             ]
+        },
+        {
+            "title": "Serverless Security Workshop",
+            "description": "Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. It covers AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, infrastructure, data, code, logging & monitoring",
+            "date": "12 July 2019",
+            "link": "./aws",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "4 hours",
+            "start": "09:00",
+            "location": "1 Principal Place, Worship Street, EC2A 2BA, London",
+            "capacity": "40",
+            "speakers": [
+                {
+                  "name": "Danilo Poccia",
+                  "title": "Principal Developer Advocate",
+                  "company": "Amazon Web Services"
+                }
+            ]
         }
     ]
 }

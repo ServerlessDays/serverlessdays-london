@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays - Serverless Security Workshop",
+        "description": "Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. The workshop covers AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, infrastructure, data, code, logging & monitoring",
+        "url": "https://london.serverlessdays.io/workshops/aws",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    }
+}

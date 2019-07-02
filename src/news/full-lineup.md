@@ -6,7 +6,7 @@ We're delighted to reveal the remaining conference talks & speakers, (provisiona
 
 There are now less than two weeks until the event. **[Tickets](https://london.serverlessdays.io/tickets/) are selling faster than previous editions and we expect to sell out again**.  Don't leave it too late to buy a ticket if you want to come! Don't be that person who emailed us the night before the event in 2018 pleading for a ticket (yes this really happened...)
 
-![Speaker Pictures](https://res.cloudinary.com/serverlessdays/image/upload/v1561969028/London/2019/speaker_lineup.jpg)
+![Speaker Pictures](https://res.cloudinary.com/serverlessdays/image/upload/v1561968823/London/2019/speaker_lineup.jpg)
 
 ## Talks
 
@@ -53,4 +53,3 @@ Tickets are still available at [https://london.serverlessdays.io/tickets/](https
 ### Diversity
 
 Serverless Days London is running a scholarship program for under represented minorities in tech to attend for free, through **diversitytickets.org** which you can [apply for here](https://diversitytickets.org/en/events/420). Please share this with people who are eligible. 
-

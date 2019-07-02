@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays - Serverless Voice Assistants Workshop",
+        "description": "Learn how to build a voice assistant for Google Home, Amazon Alexa and other popular home assistants.",
+        "url": "https://london.serverlessdays.io/workshops/ibm",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    }
+}
