@@ -7,19 +7,19 @@
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     },
     "lead": {
-        "headline": "Full Lineup and Agenda Announced",
-        "description": "The agenda and full lineup for ServerlessDays London is up! Check out our remaining speakers including Jennifer Davis, Chris Munns, Kas Perch, Roberto Diaz, Alexandra Abbas, Dan Bass, & Sheen Brisals",
-        "date": "1 July 2019",
-        "link": "./full-lineup",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_300/v1561969548/London/2019/full_lineup_thumb.jpg"
+        "headline": "Announcing Workshops",
+        "description": "We're delighted to announce our workshops for 2019. We have 4 workshops from Thundra, IBM, AWS and Google.",
+        "date": "3 July 2019",
+        "link": "./workshops-2019",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_300/v1562140241/London/2019/workshop_thumb.png"
     },
     "posts": [
         {
-            "headline": "Announcing Workshops",
-            "description": "We're delighted to announce our workshops for 2019. We have 4 workshops from Thundra, IBM, AWS and Google.",
-            "date": "2nd July 2019",
-            "link": "./workshops-2019",
-            "image": ""
+            "headline": "Full Lineup and Agenda Announced",
+            "description": "The agenda and full lineup for ServerlessDays London is up! Check out our remaining speakers including Jennifer Davis, Chris Munns, Kas Perch, Roberto Diaz, Alexandra Abbas, Dan Bass, & Sheen Brisals",
+            "date": "1 July 2019",
+            "link": "./full-lineup",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_300/v1561969548/London/2019/full_lineup_thumb.jpg"
         },
         {
             "headline": "Announcing Keynotes and Speakers",
