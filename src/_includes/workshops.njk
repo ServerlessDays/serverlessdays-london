@@ -6,12 +6,12 @@ layout: base.njk
     <div class="w-100 w-80-m w-60-l center">
         <h1 class="f1">Workshops</h1>
     </div>
-    <div class="w-100 w-80-m w-60-l mb5 pa0 pa2-l center">
+    <div class="w-100 w-80-ns mb5 pa0 pa1-m pa2-l center tc">
         {% for workshop in workshops %}
         <a class="no-underline primaryColor tl" href="{{ workshop.link }}"> 
-            <span class="w-100 w-40-m w-30-l dib ph1 pv2 v-top">
+            <span class="w-100 w-40-m w-20-l dib ph1 ph2-ns pv2 v-top">
                 <div class="w-100 ba br3 b--white">
-                    <div class="w-100 pa3 v-top">
+                    <div class="w-100 pa2 pa3-ns v-top">
                         <h2 class="f4 f3-ns pt0 mt0 mb0">{{ workshop.title }}</h2>
                         {% if workshop.img %}
                         <div>
@@ -26,8 +26,8 @@ layout: base.njk
                             <div class="mv2 f5">Duration: <span class="b">{{ workshop.duration }}</span></div>
                             {% if workshop.image %}
                                 <div class="mv2 f5">Presented by: </span></div>
-                                <div class="mv3">
-                                    <img src="{{ workshop.image }}"/>
+                                <div class="mt4 mb2 w-100 tc">
+                                    <img class="center tc" src="{{ workshop.image }}"/>
                                 </div>
                             {% endif %}
                         </div>

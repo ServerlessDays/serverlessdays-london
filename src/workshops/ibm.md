@@ -11,8 +11,9 @@ Workshop material and slides will be made available on Github.
 Please bring your laptop for the hands-on workshop.
 
 ### Speakers
-Ed Shee - Developer Advocate @ IBM
-James Thomas - Developer Advocate @ IBM
+
+- Ed Shee - Developer Advocate @ IBM
+- James Thomas - Developer Advocate @ IBM
 
 **Location:** Cloudflare, County Hall/The Riverside Building, Belvedere Rd, Lambeth, London SE1 7PB
 
