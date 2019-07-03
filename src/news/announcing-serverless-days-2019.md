@@ -3,7 +3,7 @@
 
 - Conference: August 27th 2019
 - Location: Darlinghurst Theatre
-- Tickets: $59 + Diversity Sponsorship
+- Tickets: $69 + Diversity Sponsorship
 
 Website: [https://sydney.serverlessdays.io/](https://sydney.serverlessdays.io/)
 
