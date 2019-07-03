@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Denis Bauer",
+        "description": "Denis Bauer heads cloud computing bioinformatics at CSIRO.",
+        "url": "https://serverlessdays.io/speakers/denis",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/w_400,ar_1:1,c_fill,g_auto/v1561964382/Denis_Bauer_zhw3fq.jpg"
+    },
+    "speaker": {
+        "name": "Denis Bauer",
+        "title": "Head cloud computing bioinformatics at CSIRO",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/w_400,ar_1:1,c_fill,g_auto/v1561964382/Denis_Bauer_zhw3fq.jpg",
+        "bio": "Dr Denis Bauer, PhD, BSc(Hons), is an internationally recognised expert in machine learning, specifically in processing big genomic data to help unlock the secrets in human DNA – secrets that could change the course of human history. Her achievements include developing an open-source, artificial intelligence-based search engine that helps researchers pinpoint the exact genes they need to study or edit to cure disease. ",
+        "talk": {
+            "title": "Serverless Beacon: Helping take genomic analysis from the cloud to the clinic",
+            "abstract" : "Reading the genome to search for the cause of a disease has improved the lives of many children enrolled in clinical trials. However, to convert research into clinical practice requires the ability to query large volumes of data and find the needle in the haystack efficiently. This is hampered by traditional server and database based approaches being too expensive and unable to scale with accumulating medical information. We hence developed a serverless approach to exchange human genomic information between organizations. The framework was architected to provide instantaneous analysis of non-local data on demand, with zero downtime costs and minimal running costs. We used Terraform to write the infrastructure, enabling rapid iteration and version control at the architecture level. In order to maintain governance over our infrastructure created in this way, we developed a custom Continuous Deployment service that built and securely maintained each project, providing visibility and security over the entire organisation’s cloud infrastructure. Our implementation led to an increased query speed of up to 2000% over conventional methods. Querying 100,000 genomes for 85 million variants was completed in 1 second, compared to the current average of 40 seconds. At a query rate of 100/hr, our implementation costs only 0.2% as much as the conventional method. To handle our cohort, it costs $7 per month, compared to $4000 per month if using traditional methods. With the importance of genetic information in the clinic as well as the increasing size and quantity of data available, new processing methods are required. Our serverless implementation allows for the rapid querying of large datasets, streamlining the approach and reducing the time to progress from research to clinic."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/allPowerde",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

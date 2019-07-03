@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Geshan Manandhar",
+        "description": "Ever wondered how you could run your web applications containers serverless natively? Wait no further with the recent Google cloud run release it is already possible. You can get from 0 to a working serverless URL for a containerized app in no time. Till now there was nothing that married serverless goodness with container’s ease. Cloud run also makes deploying new versions so easy with its web interface. This talk will be a run through of how to deploy and run a simple nodejs app on google cloud run in a matter of minutes.",
+        "url": "https://serverlessdays.io/speakers/geshan",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1562027678/geshan-serverless-days_krjnjx.jpg"
+    },
+    "speaker": {
+        "name": "Geshan Manandhar",
+        "title": "Senior Software Engineer at The ICONIC",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1562027678/geshan-serverless-days_krjnjx.jpg",
+        "bio": "Geshan is a seasoned software engineer, with more than a decade of software engineering experience. Currently, in Sydney, Australia serving THE ICONIC as a senior software engineer. He has a keen interest in REST architecture and microservices. He is actively involved with the developer community in his hometown Kathmandu, Nepal. He occasionally blogs in his free time.",
+        "talk": {
+            "title": "From 0 to working serverless URL for a containerized app with Google cloud run",
+            "abstract" : "Ever wondered how you could run your web applications containers serverless natively? Till now there was nothing that married serverless goodness with container’s ease. This talk will be a run through of how to deploy and run a simple nodejs app on google cloud run in a matter of minutes."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/geshan",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

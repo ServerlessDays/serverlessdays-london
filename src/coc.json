@@ -1,11 +1,10 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays - Code of Conduct",
+        "title": "ServerlessDays Sydney - Home",
         "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/coc",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
     "navBarItems": [
         {
@@ -14,20 +13,29 @@
             "name": "News"
         },
         {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
             "key": "sponsors",
-            "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
+            "path": "/sponsors",
             "name": "Sponsors"
         },
         {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
-        },
+            },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+            "path": "/tickets",
             "name": "Tickets",
             "cta": "true"
         }
-    ]
+    ],
+    "contact": {
+        "email": "sydney@serverlessdays.io",
+        "twitter": "https://twitter.com/@SydDays"
+    }
 }

@@ -1,33 +1,9 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays - Privacy Policy",
+        "title": "ServerlessDays Sydney - Privacy Policy",
         "description": "One Day. One Track. One Community",
-        "url": "https://sydney.serverlessdays.io/venue",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
-    },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "sponsors",
-            "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
-            "name": "Sponsors"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-        },
-        {
-            "key": "tickets",
-            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
-            "name": "Tickets",
-            "cta": true
-        }
-    ]
+        "url": "https://sydney.serverlessdays.io/privacy",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
+    }
 }

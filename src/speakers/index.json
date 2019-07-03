@@ -1,0 +1,41 @@
+{
+    "layout": "speakers.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Speakers",
+        "description": "One Day. One Track. One Community",
+        "url": "https://sydney.serverlessdays.io/speakers",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
+    },
+    "speakers" :  [
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
+            "alt": "Bret McGowen",
+            "link": "/speakers/bret"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561614070/danilo_zycvkf.jpg",
+            "alt": "Danilo Poccia",
+            "link": "/speakers/danilo"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/w_400,ar_1:1,c_fill,g_auto/v1561964382/Denis_Bauer_zhw3fq.jpg",
+            "alt": "Denis Bauer",
+            "link": "/speakers/denis"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1562027678/geshan-serverless-days_krjnjx.jpg",
+            "alt": "Geshan Manandhar",
+            "link": "/speakers/geshan"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1560864775/jeff-hollan_hhjrj5.jpg",
+            "alt": "Jeff Hollan",
+            "link": "/speakers/jeff"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/yun_usfnwg.jpg",
+            "alt": "Yun Zhi Lin",
+            "link": "/speakers/yun"
+        }
+    ]
+}

@@ -1,35 +1,25 @@
 {
     "layout": "news.njk",
     "page": {
-        "title": "ServerlessDays - News",
+        "title": "ServerlessDays Sydney - News",
         "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/news",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-        },
-        {
-            "key": "tickets",
-            "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
-            "name": "Tickets",
-            "cta": true
-        }
-    ],
     "lead": {
         "headline": "Announcing ServerlessDays Sydney 2019",
-        "description": "ServerlessDays Sydney 2019 is happening on 27 August at Daringhurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
+        "description": "ServerlessDays Sydney 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
         "date": "26 March 2019",
         "link": "./announcing-serverless-days-2019",
         "image": ""
-    }
+    },
+    "posts": [
+        {
+            "headline": "Announcing ServerlessDays Sydney 2019",
+            "description": "ServerlessDays Sydney 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "26 March 2019",
+            "link": "./announcing-serverless-days-2019",
+            "image": ""
+        }
+    ]
 }

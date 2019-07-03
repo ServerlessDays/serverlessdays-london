@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Danilo Poccia",
+        "description": "Can we use technology to improve ourselves? Communication is such an important part of our lives, and we should always strive to improve - but it is not easy. I’ll show how I came to build a serverless “positive chat” using sentiment analysis and automatic translation to provide a more inclusive environment. And as I was building, a few ideas popped into my mind. When you build something new, what is the meaning of a 1.0 release? And when we work together, what is the role of a team? ",
+        "url": "https://serverlessdays.io/speakers/danilo",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561614070/danilo_zycvkf.jpg"
+    },
+    "speaker": {
+        "name": "Danilo Poccia",
+        "title": "Principal Evangelist, Serverless at Amazon Web Services",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561614070/danilo_zycvkf.jpg",
+        "bio": "Danilo works with startups and companies of any size to support their innovation. In his role as Evangelist at Amazon Web Services, he leverages his experience to help people bring their ideas to life, focusing on serverless architectures and event-driven programming, and on the technical and business impact of machine learning and edge computing. He is the author of AWS Lambda in Action from Manning.",
+        "talk": {
+            "title": "Building a serverless 'positive chat' and why products and teams are important",
+            "abstract" : "I wanted to build something to improve the way we communicate, a 'positive chat' that rejects sentences with negative sentiment and translates messages to be more inclusive. As I was building, I thought: What are the issues for serverless developments? What about teams? This session is the result."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/danilop",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

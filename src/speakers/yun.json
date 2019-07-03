@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Yun Zhi Lin",
+        "description": "Serverless is achieving frictionless innovation by removing all the non-differentiating overheads. Enabling laser focus on business value and for the first time forms a coherent capability by combining Business and IT. The serverless landscape across enterprise, government, and startups is constantly shifting, and so are the serverless offerings between major cloud providers.",
+        "url": "https://serverlessdays.io/speakers/yun",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613799/yun_usfnwg.jpg"
+    },
+    "speaker": {
+        "name": "Yun Zhi Lin",
+        "title": "Head of Innovation at Contino",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/yun_usfnwg.jpg",
+        "bio": "Yun aka 'Mr Serverless' is a blended technology executive for disruptive organisation look to deliver rapid business value. Over the last 17 years, he has worked across the entire spectrum of architecture evolution: from mainframes to ESB, Container Microservices and Serverless Functions. Whilst successfully transforming and launching new lines of business for some of the largest companies global and local, across both government, enterprise and startups. He is the author of A Cloud Guru AWS Lambdas Benchmarks.",
+        "talk": {
+            "title": "The Art of Serverless Business Value: told through AI-Driven GovTech, Enterprise War Stories, and Serverless Multi-Cloud Benchmark",
+            "abstract" : "The point of serverless is to focus on business value. But what exactly is serverless business value? Why is serverless becoming gov minister/strategic C level conversation? Where are we in mainstream adoption? How does each cloud provider compare? Is there life beyond serverless? Come and find out! "
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/yunzhilin",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

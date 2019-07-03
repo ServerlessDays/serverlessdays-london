@@ -1,0 +1,111 @@
+{
+    "layout": "agenda.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Agenda",
+        "description": "One Day. One Track. One Community",
+        "url": "https://sydney.serverlessdays.io/agenda",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
+    },
+    "agenda": [
+    {
+        "time": "08:30",
+        "name": "Doors Open",
+        "type": "break"
+    },
+    {
+        "time": "09:15",
+        "name": "Welcome Remarks",
+        "type": "talk"
+    },
+    {
+        "time": "09:25",
+        "name": "Keynote",
+        "type": "keynote"
+    },
+    {
+        "time": "10:15",
+        "name": "Keynote",
+        "type": "keynote"
+    },
+    {
+        "time": "11:00",
+        "name": "Break",
+        "type": "break"
+    },
+    {
+        "time": "11:30",
+        "name": "Talk",
+        "type": "talk"
+    },
+    {
+        "time": "12:00",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "12:15",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "12:25",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "12:35",
+        "name": "Lunch",
+        "type": "break"
+    },
+    {
+        "time": "14:00",
+        "name": "Talk",
+        "type": "talk"
+    },
+    {
+        "time": "14:35",
+        "name": "Talk",
+        "type": "talk"
+    },
+    {
+        "time": "15:05",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "15:15",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "15:25",
+        "name": "Break",
+        "type": "break"
+    },
+    {
+        "time": "15:55",
+        "name": "Talk",
+        "type": "talk"
+    },
+    {
+        "time": "16:30",
+        "name": "Talk",
+        "type": "talk"
+    },
+    {
+        "time": "17:05",
+        "name": "Closing Keynote",
+        "type": "keynote"
+    },
+    {
+        "time": "17:30",
+        "name": "Closing Remarks",
+        "speaker": [
+            {
+                "name": "ServerlessDays Team"
+            }
+        ],
+        "type": "talk"
+    }
+]
+}

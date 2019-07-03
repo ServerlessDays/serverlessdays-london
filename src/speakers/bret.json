@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Bret McGowen",
+        "description": "Kubernetes lets you orchestrate containers for a wide variety of workloads: from on premise data centers to hyperscale clouds to Raspberry Pi clusters. But it still requires knowledge of containers and significant manual configuration, even for application developers. Knative is a collaborative project from Google, IBM, Pivotal, Red Hat and more to create Kubernetes-based serverless building blocks like building, eventing, and serving. Learn why we started this project and how it’s being used to create serverless development experiences for startups, enterprises, ERP developers and more. ",
+        "url": "https://serverlessdays.io/speakers/bret",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613799/bret_nu6um3.jpg"
+    },
+    "speaker": {
+        "name": "Bret McGowen",
+        "title": "Developer Advocate at Google",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
+        "bio": "Bret is a Developer Advocate for Serverless on the Google Cloud Platform team at Google, focusing on serverless products like Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He’s currently an aspiring Node.js developer. Prior to Google, Bret worked as a software engineer in the cloud industry at Rackspace. He’s often on the running trail, volleyball court or kickball field. Bret earned a bachelor’s degree in computer science from Texas A&M University.",
+        "talk": {
+            "title": "Knative and Kubernetes: bringing serverless to more developers",
+            "abstract" : "Kubernetes is powerful, flexible and great for DevOps folks. But for developers building apps that run on Kubernetes, it’s still a far cry from the ease of use of true serverless FaaS. Knative is the first step in bringing the serverless experience to those developers. "
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/bretmcg",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

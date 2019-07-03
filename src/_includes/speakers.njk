@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<div class="ph3 ph0-ns pt4 pt6-ns w-100 center">
+    <div class="w-100 w-80-m w-70-l center tc tl-ns">
+        <h1 class="f1">Speakers</h1>
+            {% for speaker in speakers %}
+            <span class="w5 pa2 pa3-m pa4-l v-top center tc dib">
+                <a class="no-underline center" href="{{ speaker.link }}">
+                    <img class="ba br-100 b--transparent w5" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />
+                    <p class="f3 pt2 primaryColor tc">{{ speaker.alt }}</p>
+                </a>
+            </span>
+            {% endfor %}
+    </div>
+    <div class="cf">
+    </div>
+</div>

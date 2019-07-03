@@ -1,0 +1,17 @@
+<div class="flex-ns mv3 mv4-l">
+    <div class="w-100 w-05-l dn db-l"> 
+    </div>
+    <div class="w-100 w-50-l ph3 ph0-ns tc tl-ns pb4-l">
+        <h2 class="f2 mv3">Speakers</h2>
+        <div class="f5 lh-copy pr3-m">{% markdown speakers.text %}</div>
+        <div class="pt2 pt3-ns">
+            {% for speaker in speakers.lineup %}
+                <a class="no-underline" href="{{ speaker.link }}" alt="{{ speaker.alt }}" >
+                    <img class="w4 h4" src="{{speaker.img}}" alt="{{ speaker.alt }}">
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="w-100 w-10-l dn db-l">
+    </div>  
+</div>

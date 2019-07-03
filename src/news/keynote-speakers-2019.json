@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays Sydney 2019 Keynote Speakers",
+        "description": "We're delighted to announce our keynotes and some of our first speakers.",
+        "url": "https://sydney.serverlessdays.io/news/keynote-speakers-2019",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_800/v1560839157/London/2019/keynote.jpg"
+    }
+}
