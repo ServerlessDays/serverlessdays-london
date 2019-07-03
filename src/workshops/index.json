@@ -49,6 +49,29 @@
             ]
         },
         {
+            "title": "Build a Serverless Web Store",
+            "description": "Build a serverless web store using Google Cloud's serverless stack! Along the way, you'll learn how to convert an App Engine app to Cloud Run, use Cloud Functions for event driven processing, and use Cloud Firestore, a fully managed serverless NoSql database.",
+            "date": "10 July 2019",
+            "link": "./google",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1529401537/google-cloud-logo-white.png",
+            "duration": "2 1/2 hours",
+            "start": "14:00",
+            "location": "Google Academy, 123 Buckingham Palace Road, London, SW1W 9SR",
+            "capacity": "40",
+            "speakers": [
+                {
+                  "name": "Justin Grayston",
+                  "title": "Customer Engineer",
+                  "company": "Google Cloud Platform"
+                },
+                {
+                    "name": "Bret McGowan",
+                    "title": "Developer Advocate",
+                    "company": "Google Cloud Platfrom"
+                  }
+            ]
+        },
+        {
             "title": "Serverless Security Workshop",
             "description": "Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. It covers AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, infrastructure, data, code, logging & monitoring",
             "date": "12 July 2019",

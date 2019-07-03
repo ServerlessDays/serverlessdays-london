@@ -20,7 +20,7 @@ Intermediate knowledge about cloud-based applications, beginner/intermediate lev
 
 ### Speakers
 
-Serkan Özal - CEO & Founder, Thundra
+- Serkan Özal - CEO & Founder, Thundra
 
 **Location:** DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, London W6 0NW
 

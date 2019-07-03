@@ -1,25 +1,24 @@
-# Serverless Voice Assistants
+# Build a Serverless Web Store
 
-Devices like Google Home and Amazon Alexa are gaining huge popularity in the home. Not only do they let you build your own applications on top of them, but they are fantastic use-cases for Serverless computing.
+Build a serverless web store using Google Cloud's serverless stack! Along the way, you'll learn how to convert an App Engine app to Cloud Run, use Cloud Functions for event driven processing, and use Cloud Firestore, a fully managed serverless NoSql database.
 
-Join us for this Hands on workshop and learn how to build skills for home assistants.
-
-Workshop material and slides will be made available on Github.
+We'll set up CI/CD, monitoring and alerting. Then once we have the app in place, we'll step through using our Data Analytics tools process clickstream data. All with no servers to manage...
 
 ### Prerequisites
 
 Please bring your laptop for the hands-on workshop.
 
 ### Speakers
-Ed Shee - Developer Advocate @ IBM
-James Thomas - Developer Advocate @ IBM
 
-**Location:** Cloudflare, County Hall/The Riverside Building, Belvedere Rd, Lambeth, London SE1 7PB
+- Justin Grayston - CRE @ Google
+- Brett McGowan - Developer Advocate @ Google
+
+**Location:** Google Academy, 123 Buckingham Palace Road, Victoria, London, SW1W 9SR
 
 **Date:** 10 July 2019
 
 **Start Time:** 14:00
 
-**Duration:** 3 hours
+**Duration:** 2 1/2 hours
 
 You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.

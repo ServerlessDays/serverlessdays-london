@@ -13,7 +13,8 @@ The content for the workshop is available online:
 Please bring your laptop for the hands-on workshop.
 
 ### Speakers
-Danilo Poccia - Principal Developer Advocate @ Amazon Web Services
+
+- Danilo Poccia - Principal Developer Advocate @ Amazon Web Services
 
 **Location:** 1 Principal Place, Worship Street, EC2A 2BA, London
 
