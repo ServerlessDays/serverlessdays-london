@@ -3,8 +3,7 @@
 We're delighted to announce the workshops at the 2019 edition of [Serverless Days London](https://london.serverlessdays.io/). Workshop sessions for the conference come from Thundra, IBM, AWS and 
 Google.
 
-Workshop spaces are limited, so they are on a first come first served basis. You will be emailed a 
-link to book a workshop after purchasing a ticket.
+Workshop spaces are limited, so they are on a first come first served basis. You will be emailed a link to book a workshop after [purchasing a ServerlessDays ticket](https://london.serverlessdays.io/tickets/). Workshops are no additional cost beyond the £35 for a ServerlessDays ticket.
 
 ### Building a 100% Serverless Blog Site Application with the Right Observability
 
@@ -39,9 +38,4 @@ Learn techniques to secure a serverless application built with AWS Lambda, Amazo
 More info here: 
 [Serverless Security Workshop](https://london.serverlessdays.io/workshops/aws/)
 
-Join us 
-
-
-
-
-
+Join us!
