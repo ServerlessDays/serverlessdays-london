@@ -10,11 +10,18 @@ The content for the workshop is available online:
 
 ### Prerequisites
 
-Please bring your laptop for the hands-on workshop.
+- Please bring your laptop for the hands-on workshop.
+- You must have your own active AWS account for this workshop
 
 ### Speakers
 
-- Danilo Poccia - Principal Developer Advocate @ Amazon Web Services
+- Danilo Poccia, Principal Evangelist, [@danilop](https://twitter.com/danilop)
+- James Beswick, Senior Developer Advocate, [@jbesw](https://twitter.com/jbesw)
+- Heitor Lessa, Specialist Solutions Architect, [@heitor_lessa](https://twitter.com/heitor_lessa)
+- Simon Thulbourn, Specialist Solutions Architect, [@sthulb](https://twitter.com/sthulb)
+
+
+Thank you!!!
 
 **Location:** 1 Principal Place, Worship Street, EC2A 2BA, London
 
