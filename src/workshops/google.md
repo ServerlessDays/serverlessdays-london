@@ -19,6 +19,6 @@ Please bring your laptop for the hands-on workshop.
 
 **Start Time:** 14:00
 
-**Duration:** 2 1/2 hours
+**Duration:** 3 hours
 
 You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.
