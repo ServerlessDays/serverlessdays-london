@@ -8,6 +8,11 @@
     },
     "speakers" :  [
         {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1562327853/ben_kehoe_yjzdaa.jpg",
+            "alt": "Ben Kehoe",
+            "link": "/speakers/ben"
+        },
+        {
             "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
             "alt": "Bret McGowen",
             "link": "/speakers/bret"

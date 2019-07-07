@@ -77,6 +77,11 @@
         "text": "The 2019 edition of ServerlessDays Sydney brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope ServerlessDays Sydney will have something for everyone.",
         "lineup": [
             {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1562327853/ben_kehoe_yjzdaa.jpg",
+                "alt": "Ben Kehoe",
+                "link": "/speakers/ben"
+            },
+            {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
                 "alt": "Bret McGowen",
                 "link": "/speakers/bret"
