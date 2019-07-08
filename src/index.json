@@ -41,6 +41,11 @@
                 "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
                 "alt": "Google Cloud Platform",
                 "link": "https://cloud.google.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+                "alt": "Microsoft Azure",
+                "link": "https://azure.microsoft.com"
             }
         ],
         "silver": [

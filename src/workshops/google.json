@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays - Build a Serverless Web Store",
+        "description": "Build a serverless web store using Google Cloud's serverless stack! Including Cloud Run, Cloud Functions and Cloud Firestore!",
+        "url": "https://london.serverlessdays.io/workshops/google",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    }
+}
