@@ -8,6 +8,43 @@
     },
     "agenda": [
     {
+        "date": "10 July 2019",
+        "type": "date"
+    },
+    {
+        "time": "14:00",
+        "name": "Workshop",
+        "title": "Build a Serverless Web Store",
+        "abstract": "Build a serverless web store using Google Cloud's serverless stack! Along the way, you'll learn how to convert an App Engine app to Cloud Run, use Cloud Functions for event driven processing, and use Cloud Firestore, a fully managed serverless NoSql database. **LIMITED AVAILABILITY**",
+        "location": "Google Academy, 123 Buckingham Palace Road, London, SW1W 9SR",
+        "speaker": [
+            {
+              "name": "Justin Grayston"
+            },
+            {
+              "name": "Bret McGowan"
+            }
+        ],
+        "type": "workshop"
+    },
+    {
+        "time": "14:00",
+        "name": "Workshop",
+        "title": "Building a 100% Serverless Blog Site Application with the Right Observability",
+        "abstract": "Learn how to build a simplistic version of a blog site application in serverless and how to gain observability into the application and architecture with Thundra. **LIMITED AVAILABILITY**",
+        "location": "DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, London W6 0NW",
+        "speaker": [
+            {
+                "name": "Serkan Özal"
+            }
+        ],
+        "type": "workshop"
+    },
+    {
+        "date": "11 July 2019",
+        "type": "date"
+    },
+    {
         "time": "08:30",
         "name": "Doors Open",
         "type": "break"
@@ -219,6 +256,32 @@
             }
         ],
         "type": "talk"
+    },
+    {
+        "date": "12 July 2019",
+        "type": "date"
+    },
+    {
+        "time": "09:00",
+        "name": "Workshop",
+        "title": "Serverless Security Workshop",
+        "abstract": "Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. \r\n \r\nIt covers AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, infrastructure, data, code, logging & monitoring **LIMITED AVAILABILITY**",
+        "location": "1 Principal Place, Worship Street, EC2A 2BA, London",
+        "speaker": [
+            {
+              "name": "Danilo Poccia"
+            },
+            {
+              "name": "James Beswick"
+            },
+            {
+              "name": "Heitor Lessa"
+            },
+            {
+              "name": "Simon Thulbourn"
+            }
+        ],
+        "type": "workshop"
     }
   ]
 }
