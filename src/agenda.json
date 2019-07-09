@@ -42,7 +42,7 @@
     {
         "time": "10:15",
         "name": "Keynote",
-        "title": "Security & Serverless",
+        "title": "Serverless Attack Vectors",
         "abstract": "",
         "speaker": [
             {
@@ -91,12 +91,12 @@
     {
         "time": "14:00",
         "name": "Talk",
-        "title": "How AWS Builds Serverless Services Using Serverless",
-        "abstract": "This talk peels back the covers a bit to look at how AWS thinks about using serverless technology and patterns to build even more serverless technology. It explores how the Serverless team has used various AWS technologies to build a product that enables teams to build with serverless.",
+        "title": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing",
+        "abstract": "Let's chat about our approach to serverless: how using the V8 engine and running user functions in isolates decreases overhead and eliminates cold starts. Let's talk about how we leverage JS APIs and features like WebAssembly to allow you to run the code you need, where you need it.",
         "speaker": [
             {
-                "name": "Chris Munns",
-                "link": "/speakers/chrism"
+                "name": "Kas Perch",
+                "link": "/speakers/kas"
             }
         ],
         "type": "talk"
@@ -187,12 +187,12 @@
     {
         "time": "16:30",
         "name": "Talk",
-        "title": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing",
-        "abstract": "Let's chat about our approach to serverless: how using the V8 engine and running user functions in isolates decreases overhead and eliminates cold starts. Let's talk about how we leverage JS APIs and features like WebAssembly to allow you to run the code you need, where you need it.",
+        "title": "How AWS Builds Serverless Services Using Serverless",
+        "abstract": "This talk peels back the covers a bit to look at how AWS thinks about using serverless technology and patterns to build even more serverless technology. It explores how the Serverless team has used various AWS technologies to build a product that enables teams to build with serverless.",
         "speaker": [
             {
-                "name": "Kas Perch",
-                "link": "/speakers/kas"
+                "name": "Chris Munns",
+                "link": "/speakers/chrism"
             }
         ],
         "type": "talk"

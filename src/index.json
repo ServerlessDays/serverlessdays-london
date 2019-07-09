@@ -24,59 +24,84 @@
         }
     },
     "sponsors": {
-        "platinum": [
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
-                "alt": "Amazon Web Services",
-                "link": "https://aws.amazon.com"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_85/v1559653248/cloudflare.png",
-                "alt": "Cloudflare",
-                "link": "https://cloudflare.com"
-            }
-        ],
-        "gold": [
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
-                "alt": "Google Cloud Platform",
-                "link": "https://cloud.google.com"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
-                "alt": "Microsoft Azure",
-                "link": "https://azure.microsoft.com"
-            }
-        ],
-        "silver": [
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
-                "alt": "IBM",
-                "link": "https://cloud.ibm.com"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
-                "alt": "Thundra",
-                "link": "https://thundra.io"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_65/v1529397141/DAZN_white.png",
-                "alt": "DAZN",
-                "link": "https://www.dazn.com"
-            }
-        ],
-        "community": [
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_25/v1528242508/reason-white.png",
-                "alt": "Reason",
-                "link": "https://reason.co"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/London/2019/nearst.png",
-                "alt": "NearSt",
-                "link": "https://near.st"
-            }
-        ]
+      "platinum": [
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
+              "alt": "Amazon Web Services",
+              "link": "https://aws.amazon.com"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_85/v1559653248/cloudflare.png",
+              "alt": "Cloudflare",
+              "link": "https://workers.cloudflare.com"
+          }
+      ],
+      "gold": [
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562595079/London/2019/logo_aqua_dark.png",
+              "alt": "Aqua Security",
+              "link": "https://www.aquasec.com/"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
+              "alt": "Google Cloud Platform",
+              "link": "https://cloud.google.com"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+              "alt": "Microsoft Azure",
+              "link": "https://azure.microsoft.com"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_55/v1562651856/London/2019/stdlib_white.png",
+              "alt": "Standard Library",
+              "link": "https://stdlib.com"
+          }
+      ],
+      "silver": [
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
+              "alt": "IBM",
+              "link": "https://cloud.ibm.com"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
+              "alt": "Thundra",
+              "link": "https://thundra.io"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652192/London/2019/twilio-logo-white.png",
+              "alt": "Twilio",
+              "link": "https://www.twilio.com"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652298/London/2019/cloudinary_logo_for_blue_bg.png",
+              "alt": "Cloudinary",
+              "link": "https://cloudinary.com"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_65/v1529397141/DAZN_white.png",
+              "alt": "DAZN",
+              "link": "https://www.dazn.com"
+          }
+      ],
+      "community": [
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_25/v1528242508/reason-white.png",
+              "alt": "Reason",
+              "link": "https://reason.co"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/London/2019/nearst.png",
+              "alt": "NearSt",
+              "link": "https://near.st"
+          },
+          {
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1562652066/London/2019/tray_white.png",
+              "alt": "Tray",
+              "link": "https://tray.io"
+          }
+      ]
     },
     "speakers": {
         "text": "The 2019 edition of ServerlessDays London brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope this year's edition of ServerlessDays London will have something for everyone.",
@@ -249,12 +274,12 @@
       {
         "time": "14:00",
         "name": "Talk",
-        "title": "How AWS Builds Serverless Services Using Serverless",
-        "abstract": "This talk peels back the covers a bit to look at how AWS thinks about using serverless technology and patterns to build even more serverless technology. It explores how the Serverless team has used various AWS technologies to build a product that enables teams to build with serverless.",
+        "title": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing",
+        "abstract": "Let's chat about our approach to serverless: how using the V8 engine and running user functions in isolates decreases overhead and eliminates cold starts. Let's talk about how we leverage JS APIs and features like WebAssembly to allow you to run the code you need, where you need it.",
         "speaker": [
           {
-            "name": "Chris Munns",
-            "link": "/speakers/chrism"
+            "name": "Kas Perch",
+            "link": "/speakers/kas"
           }
         ],
         "type": "talk"
@@ -345,12 +370,12 @@
       {
         "time": "16:30",
         "name": "Talk",
-        "title": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing",
-        "abstract": "Let's chat about our approach to serverless: how using the V8 engine and running user functions in isolates decreases overhead and eliminates cold starts. Let's talk about how we leverage JS APIs and features like WebAssembly to allow you to run the code you need, where you need it.",
+        "title": "How AWS Builds Serverless Services Using Serverless",
+        "abstract": "This talk peels back the covers a bit to look at how AWS thinks about using serverless technology and patterns to build even more serverless technology. It explores how the Serverless team has used various AWS technologies to build a product that enables teams to build with serverless.",
         "speaker": [
           {
-            "name": "Kas Perch",
-            "link": "/speakers/kas"
+            "name": "Chris Munns",
+            "link": "/speakers/chrism"
           }
         ],
         "type": "talk"
