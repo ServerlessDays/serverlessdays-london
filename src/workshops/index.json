@@ -26,29 +26,6 @@
             ]
         },
         {
-            "title": "Serverless Voice Assistants",
-            "description": "Devices like Google Home and Amazon Alexa are gaining huge popularity in the home. Not only do they let you build your own applications on top of them, but they are fantastic use-cases for Serverless computing.",
-            "date": "10 July 2019",
-            "link": "./ibm",
-            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
-            "duration": "3 hours",
-            "start": "14:00",
-            "location": "Cloudflare, County Hall/The Riverside Building, Belvedere Rd, Lambeth, London SE1 7PB",
-            "capacity": "40",
-            "speakers": [
-                {
-                  "name": "James Thomas",
-                  "title": "Developer Advocate",
-                  "company": "IBM"
-                },
-                {
-                    "name": "Ed Shee",
-                    "title": "Developer Advocate",
-                    "company": "IBM"
-                  }
-            ]
-        },
-        {
             "title": "Build a Serverless Web Store",
             "description": "Build a serverless web store using Google Cloud's serverless stack! Along the way, you'll learn how to convert an App Engine app to Cloud Run, use Cloud Functions for event driven processing, and use Cloud Firestore, a fully managed serverless NoSql database.",
             "date": "10 July 2019",

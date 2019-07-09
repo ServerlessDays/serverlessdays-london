@@ -40,6 +40,12 @@
             "talk": "Combining serverless and AI to delight your Nan"
         },
         {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1562653626/London/2019/ErezBerkner.jpg",
+            "alt": "Erez Berkner",
+            "link": "/speakers/erez",
+            "talk": "Serverless testing, the required adaptation to our testing methodologies"
+        },
+        {
             "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753805/London/2019/avishai.jpg",
             "alt": "Avishai Shafir",
             "link": "/speakers/avishai",

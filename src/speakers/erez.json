@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays London - Erez Berkner",
+        "description": "Erez is the CEO & co-founder of Lumigo, a startup focusing on serverless applications monitoring, where the entire backend is… 100% serverless.",
+        "url": "https://serverlessdays.io/speakers/avishai",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762319/London/2019/erez_card.jpg"
+    },
+    "speaker": {
+        "name": "Erez Berkner",
+        "title": "CEO & Founder",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1562653626/London/2019/ErezBerkner.jpg",
+        "bio": "Erez is the CEO & co-founder of Lumigo, a startup focusing on serverless applications monitoring, where the entire backend is… 100% serverless. \r\nPrior to founding Lumigo, Erez was the R&D director of cloud products at Check Point, heading the company’s cloud strategy & execution.",
+        "talk": {
+            "title": "Serverless testing, the required adaptation to our testing methodologies",
+            "abstract" : "Increasing development velocity and feature release pace is the No. 1 goal of software engineering teams. You cannot move fast when your software is failing. Serverless architecture offers new opportunities, but we need to modify our testing methods to enjoy them. Let’s talk about this."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/erezberkner",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
