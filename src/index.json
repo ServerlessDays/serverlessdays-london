@@ -415,11 +415,11 @@
       }
     ],
     "venue": {
-        "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. ",
+        "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. \r\n \r\n**Location:** Sherfield Building, Imperial College, South Kensington, SW7 5NH",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/London/2019/imperial_med.jpg",
         "cta": {
-            "path": "/tickets",
-            "name": "Get Tickets"
+            "path": "https://www.google.com/maps/dir/South+Kensington+Station,+London/51.4985229,-0.1779713/@51.4961326,-0.1808188,16z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x48760542a2c42db5:0xf56b36019c8646fc!2m2!1d-0.1747855!2d51.4944371!1m0!3e2",
+            "name": "Directions"
         }
     }
 }
