@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "It's nearly time for ServerlessDays 2019!",
+        "description": "The excitement is building, the attendees are gathering, the servers are quaking in their racks... ServerlessDays London 2019 on Thursday July 11th is almost upon us!",
+        "url": "https://london.serverlessdays.io/news/nearly-time-for-serverlessdays-2019",
+        "image": "https://london.serverlessdays.io/img/imperial_above.jpg"
+    }
+}
