@@ -124,27 +124,46 @@
         },
         {
             "time": "09:25",
-            "name": "Keynote"
+            "name": "Keynote",
+            "speaker": [
+                {
+                    "name": "Ben Kehoe"
+                }
+            ]
         },
         {
-            "time": "10:15",
-            "name": "Keynote"
+            "time": "10:00",
+            "name": "Keynote",
+            "speaker": [
+                {
+                    "name": "Jeff Hollan"
+                }
+            ]
         },
         {
-            "time": "11:00",
+            "time": "10:35",
+            "name": "Lightning Talk"
+        },
+        {
+            "time": "10:50",
             "name": "Break"
             
         },
         {
-            "time": "11:30",
-            "name": "Talk"
+            "time": "11:10",
+            "name": "Keynote",
+            "speaker": [
+                {
+                    "name": "Danilo Poccia"
+                }
+            ]
         },
         {
-            "time": "12:00",
+            "time": "11:45",
             "name": "Lightning Talk"
         },
         {
-            "time": "12:15",
+            "time": "12:05",
             "name": "Lightning Talk"
         },
         {
@@ -152,49 +171,63 @@
             "name": "Lightning Talk"
         },
         {
-            "time": "12:35",
+            "time": "12:45",
             "name": "Lunch"
         },
         {
-            "time": "14:00",
-            "name": "Talk"
+            "time": "13:40",
+            "name": "Keynote",
+            "speaker": [
+                {
+                    "name": "Bret McGowen"
+                }
+            ]
+        },
+        {
+            "time": "14:15",
+            "name": "Lightning Talk"
         },
         {
             "time": "14:35",
-            "name": "Talk"
+            "name": "Lightning Talk"
         },
         {
-            "time": "15:05",
+            "time": "14:55",
             "name": "Lightning Talk"
         },
         {
             "time": "15:15",
-            "name": "Lightning Talk"
-        },
-        {
-            "time": "15:25",
             "name": "Break"
         },
         {
+            "time": "15:35",
+            "name": "Lightning Talk"
+        },
+        {
             "time": "15:55",
-            "name": "Talk"
+            "name": "Lightning Talk"
         },
         {
-            "time": "16:30",
-            "name": "Talk"
+            "time": "16:15",
+            "name": "Closing Keynote",
+            "speaker": [
+                {
+                    "name": "Denis Bauer"
+                }
+            ]
         },
         {
-            "time": "17:05",
-            "name": "Closing Keynote"
-        },
-        {
-            "time": "17:30",
+            "time": "16:50",
             "name": "Closing Remarks",
             "speaker": [
                 {
                     "name": "ServerlessDays Team"
                 }
             ]
+        },
+        {
+            "time": "17:00",
+            "name": "Drinks"
         }
     ],
     "venue": {
