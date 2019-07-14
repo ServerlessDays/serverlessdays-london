@@ -40,6 +40,11 @@
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1561959285/gitlab-logo-white-stacked-rgb_2_jwytwa.png",
                 "alt": "Gitlab",
                 "link": "https://about.gitlab.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_70/v1562916759/Salesforce_Logo_RGB_1797c0_8_13_14_thjgyc.png",
+                "alt": "Salesforce",
+                "link": "https://www.salesforce.com/au/"
             }
         ],
         "silver": [
