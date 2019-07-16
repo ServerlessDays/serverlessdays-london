@@ -1,0 +1,31 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Nelly Sattari",
+        "description": "Applications that use real-time updates increase the fairness and data transparency among your users, and the bi-directional interactions between connected clients and server helps reduce the bursting traffic challenges introduced by traditional web-style interactions. Traditionally, it was not possible to go Serverless with real-time applications. However, by leveraging Azure SignalR Services you, can build Serverless solutions and enjoy building modern Real-time applications. In this session Nelly will demonstrate how developers can quickly build a solution for real-time apps with Azure’s SignalR Service and using serverless technology in the Azure cloud with Azure App Services, Azure Storage and Azure Functions. ",
+        "url": "https://serverlessdays.io/speakers/nelly",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563198253/Nelly_square_photo_wmjpht.png"    },
+    "speaker": {
+        "name": "Nelly Sattari",
+        "title": "Lead Developer at Challenger Limited",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563198253/Nelly_square_photo_wmjpht.png",
+        "bio": "Nelly Sattari is a lead developer who has been always in IT industry in her entire career. Web development is her main focus along with leading the front-end side of Sitecore CMS websites. So interested in sharing her knowledge and forming internal knowledge-sharing communities by running Brown Bags at work, supporting meetups, user groups ,and mentoring women in tech.",
+        "talk": {
+            "title": "Real-time serverless applications using Azure SignalR Service",
+            "abstract" : "Applications that use real-time updates increase the fairness and data transparency among your users, and the bi-directional interactions between connected clients and server helps reduce the bursting traffic challenges introduced by traditional web-style interactions. Traditionally, it was not possible to go Serverless with real-time applications. However, by leveraging Azure SignalR Services you, can build Serverless solutions and enjoy building modern Real-time applications. In this session Nelly will demonstrate how developers can quickly build a solution for real-time apps with Azure’s SignalR Service and using serverless technology in the Azure cloud with Azure App Services, Azure Storage and Azure Functions. "
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/nelly_sattari",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
