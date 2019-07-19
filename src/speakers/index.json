@@ -18,6 +18,11 @@
             "link": "/speakers/bret"
         },
         {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563320914/DaleSalter_bvxttf.jpg",
+            "alt": "Dale Salter",
+            "link": "/speakers/dale"
+        },
+        {
             "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561614070/danilo_zycvkf.jpg",
             "alt": "Danilo Poccia",
             "link": "/speakers/danilo"

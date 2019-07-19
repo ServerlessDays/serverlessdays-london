@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Dale Salter",
+        "description": "A Cloud Guru has been a Serverless company from day one. Being a Serverless company does not necessarily mean that we started with the patterns & architectures that would effectively allow us to scale out our development team. This talk will be a brief history and analysis of our original architecture, deployment strategy, service communication. I will then contrast that history against our new ideas and approaches to building Serverless architectures. ",
+        "url": "https://serverlessdays.io/speakers/dale",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563320914/DaleSalter_bvxttf.jpg"
+    },
+    "speaker": {
+        "name": "Dale Salter",
+        "title": "Software Development Lead at A Cloud Guru",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563320914/DaleSalter_bvxttf.jpg",
+        "bio": "Dale Salter has been working on production AWS Serverless systems for 3 years. Dale works within and across teams to design Serverless only architectures. One of his major interests is how to go beyond parity with Serverful applications in a Serverless only way. ",
+        "talk": {
+            "title": "How A Cloud Guru does Serverless",
+            "abstract" : "A Cloud Guru has been a Serverless company from day one. Being a Serverless company does not necessarily mean that we started with the patterns & architectures that would effectively allow us to scale out our development team. This talk will be a brief history and analysis of our original architecture, deployment strategy, service communication. I will then contrast that history against our new ideas and approaches to building Serverless architectures. "
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/enepture",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
