@@ -175,7 +175,12 @@
         },
         {
             "time": "11:45",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Geshan Manandhar"
+                }
+            ]
         },
         {
             "time": "12:05",
