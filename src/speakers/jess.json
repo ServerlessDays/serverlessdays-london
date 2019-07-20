@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Jessica Flanagan",
+        "description": "Data pipelines need to be flexible, modular and easily monitored. They are not just set-and-forget. The team that monitors a pipeline might not have developed it and may not be experts on the dataset. End users must have confidence in the output. This talk is a practical walkthrough of a suggested pipeline architecture on AWS using Step functions, Glue, Lambda and Data Dog. Jess will be covering techniques using AWS and DataDog, but many of the approaches are applicable in an Apache Airflow/Kibana environment. ",
+        "url": "https://serverlessdays.io/speakers/jess",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563604074/jessica_flanagan_square_vflfg0.png"
+    },
+    "speaker": {
+        "name": "Jessica Flanagan",
+        "title": "Co-founder and head of engineering at Deckard Technologies",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563604074/jessica_flanagan_square_vflfg0.png",
+        "bio": "Jessica Flanagan has 15 years of software development experience with the last ten years spent working with medium to big data. She has a passion for exploration, optimisation and best practices. She enjoys developing and mentoring teams and experimenting with new technology. She prefers to be technology agnostic and is focused on finding the right solution for a problem. Jessica began her career in the security space, but after repeatedly needing to pull large disparate data sources together, she found a passion for data engineering. She has built pipelines and analytics tools, for many domains including telecommunications, intellectual property management and self-driving cars. Currently, she is co-founder and head of engineering at Deckard Technologies an early stage start-up that is helping US cities, institutions and NGOs become smarter using data analytics and machine learning.",
+        "talk": {
+            "title": "Working with Large Numbers of Non-Trivial ETL Pipelines",
+            "abstract" : "Data pipelines need to be flexible, modular and easily monitored. They are not just set-and-forget. The team that monitors a pipeline might not have developed it and may not be experts on the dataset. End users must have confidence in the output. This talk is a practical walkthrough of a suggested pipeline architecture on AWS using Step functions, Glue, Lambda and Data Dog. Jess will be covering techniques using AWS and DataDog, but many of the approaches are applicable in an Apache Airflow/Kibana environment. "
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

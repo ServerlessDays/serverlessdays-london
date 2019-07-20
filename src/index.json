@@ -117,6 +117,11 @@
                 "link": "/speakers/jeff"
             },
             {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563604074/jessica_flanagan_square_vflfg0.png",
+                "alt": "Jessica Flanagan",
+                "link": "/speakers/jess"
+            },
+            {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563198253/Nelly_square_photo_wmjpht.png",
                 "alt": "Nelly Sattari",
                 "link": "/speakers/nelly"
@@ -157,7 +162,12 @@
         },
         {
             "time": "10:35",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Jessica Flanagan"
+                }
+            ]
         },
         {
             "time": "10:50",
