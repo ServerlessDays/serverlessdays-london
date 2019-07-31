@@ -24,6 +24,33 @@
                 "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
                 "name": "Buy"
             }
+        },
+        {
+            "title": "Sponsor Ticket Only",
+            "description": "Sponsor a ticket for someone else",
+            "price": "$39",
+            "cta": {            
+                "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+                "name": "Buy"
+            }
+        },
+        {
+            "title": "Student Ticket",
+            "description": "A discounted ticket to make the conference affordable for students",
+            "price": "$39",
+            "cta": {            
+                "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
+                "name": "Buy"
+            }
+        },
+        {
+            "title": "Scholarship",
+            "description": "Are you from an under represented minority? Apply for our scholarship via diversitytickets.org",
+            "price": "$0",
+            "cta": {            
+                "path": "https://diversitytickets.org/en/events/487",
+                "name": "Apply"
+            }
         }
     ]
 }
