@@ -33,6 +33,11 @@
             "link": "/speakers/denis"
         },
         {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1564278219/farrah.campbell.square_liat6y.png",
+            "alt": "Farrah Campbell",
+            "link": "/speakers/farrah"
+        },
+        {
             "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1562027678/geshan-serverless-days_krjnjx.jpg",
             "alt": "Geshan Manandhar",
             "link": "/speakers/geshan"
