@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Simon Waight",
+        "description": "During 2018 I developed a game that was played by attendees at a range of developer conferences around Australia. That game - “Where’s Bit” - was built entirely on the Microsoft Azure platform’s serverless features and this talk will walk attendees through how they can do the same. ",
+        "url": "https://serverlessdays.io/speakers/simon",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1564720077/simon_waight_a5yfeq.jpg"
+    },
+    "speaker": {
+        "name": "Simon Waight",
+        "title": "Azure Pro Developer Lead in Sydney for Microsoft",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1564720077/simon_waight_a5yfeq.jpg",
+        "bio": "Simon is the Azure Pro Developer Lead in Sydney for Microsoft. He has more years of experience than he cares to remember in online solution architecture and delivery and has held roles spanning software development, infrastructure architecture and IT operations, and finds modern cloud practices embodied by the DevOps culture to be a sweet spot. During his career Simon has participated in many teams and has a strong understanding of the collaborative nature of successful projects. He enjoys sharing his experience with others and is always happy to chat tech! ",
+        "talk": {
+            "title": "Azure Selfie and Seek: Building a game with serverless on Azure",
+            "abstract" : "During 2018 I developed a game that was played by attendees at a range of developer conferences around Australia. That game - “Where’s Bit” - was built entirely on the Microsoft Azure platform’s serverless features and this talk will walk attendees through how they can do the same. "
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/simonwaight",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

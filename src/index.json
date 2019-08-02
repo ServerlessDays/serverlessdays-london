@@ -132,6 +132,11 @@
                 "link": "/speakers/nelly"
             },
             {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1564720077/simon_waight_a5yfeq.jpg",
+                "alt": "Simon Waight",
+                "link": "/speakers/simon"
+            },
+            {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/yun_usfnwg.jpg",
                 "alt": "Yun Zhi Lin",
                 "link": "/speakers/yun"
