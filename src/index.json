@@ -170,7 +170,8 @@
             "name": "Keynote",
             "speaker": [
                 {
-                    "name": "Ben Kehoe"
+                    "name": "Ben Kehoe",
+                    "link": "/speakers/ben"
                 }
             ]
         },
@@ -179,7 +180,8 @@
             "name": "Keynote",
             "speaker": [
                 {
-                    "name": "Jeff Hollan"
+                    "name": "Jeff Hollan",
+                    "link": "/speakers/jeff"
                 }
             ]
         },
@@ -188,7 +190,8 @@
             "name": "Lightning Talk",
             "speaker": [
                 {
-                    "name": "Jessica Flanagan"
+                    "name": "Jessica Flanagan",
+                    "link": "/speakers/jess"
                 }
             ]
         },
@@ -202,7 +205,8 @@
             "name": "Keynote",
             "speaker": [
                 {
-                    "name": "Danilo Poccia"
+                    "name": "Danilo Poccia",
+                    "link": "/speakers/danilo"
                 }
             ]
         },
@@ -211,17 +215,30 @@
             "name": "Lightning Talk",
             "speaker": [
                 {
-                    "name": "Geshan Manandhar"
+                    "name": "Geshan Manandhar",
+                    "link": "/speakers/geshan"
                 }
             ]
         },
         {
             "time": "12:05",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Nelly Sattari",
+                    "link": "/speakers/nelly"
+                }
+            ]
         },
         {
             "time": "12:25",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Julia Davis",
+                    "link": "/speakers/julia"
+                }
+            ]
         },
         {
             "time": "12:45",
@@ -232,21 +249,40 @@
             "name": "Keynote",
             "speaker": [
                 {
-                    "name": "Bret McGowen"
+                    "name": "Bret McGowen",
+                    "link": "/speakers/bret"
                 }
             ]
         },
         {
             "time": "14:15",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Dale Salter",
+                    "link": "/speakers/dale"
+                }
+            ]
         },
         {
             "time": "14:35",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Sabith Venkitachalapathy",
+                    "link": "/speakers/sabith"
+                }
+            ]
         },
         {
             "time": "14:55",
-            "name": "Lightning Talk"
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Simon Waight",
+                    "link": "/speakers/simon"
+                }
+            ]
         },
         {
             "time": "15:15",
@@ -254,23 +290,36 @@
         },
         {
             "time": "15:35",
-            "name": "Lightning Talk"
-        },
-        {
-            "time": "15:55",
-            "name": "Lightning Talk"
-        },
-        {
-            "time": "16:15",
-            "name": "Closing Keynote",
+            "name": "Keynote",
             "speaker": [
                 {
-                    "name": "Denis Bauer"
+                    "name": "Farrah Campbell",
+                    "link": "/speakers/farrah"
                 }
             ]
         },
         {
-            "time": "16:50",
+            "time": "16:05",
+            "name": "Lightning Talk",
+            "speaker": [
+                {
+                    "name": "Yun Zhi Lin",
+                    "link": "/speakers/yun"
+                }
+            ]
+        },
+        {
+            "time": "16:25",
+            "name": "Closing Keynote",
+            "speaker": [
+                {
+                    "name": "Denis Bauer",
+                    "link": "/speakers/denis"
+                }
+            ]
+        },
+        {
+            "time": "17:00",
             "name": "Closing Remarks",
             "speaker": [
                 {
@@ -279,7 +328,7 @@
             ]
         },
         {
-            "time": "17:00",
+            "time": "17:10",
             "name": "Drinks"
         }
     ],
