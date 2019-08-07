@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Sabith Venkitachalapathy",
+        "description": "Serverless computing is a new way to build apps in the cloud. The question isn’t whether you should leverage serverless computing, but when, where and how you should start. ",
+        "url": "https://serverlessdays.io/speakers/sabith",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565142131/Sabith_square_aydli6.png"
+    },
+    "speaker": {
+        "name": "Sabith Venkitachalapathy",
+        "title": "Principal Solutions Architect, Alibaba Cloud",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565142131/Sabith_square_aydli6.png",
+        "bio": "Sabith is a hands-on technology leader with more than 20 years of experience building and maintaining large-scale distributed systems and solving problems at scale. As a principal solutions architect, he is responsible for determining the business, data, application and technical architectures enabling development teams to turn ideas into reliable, scalable production systems. ",
+        "talk": {
+            "title": "Choosing the right serverless option",
+            "abstract" : "Serverless computing is a new way to build apps in the cloud. The question isn’t whether you should leverage serverless computing, but when, where and how you should start.  "
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

@@ -140,6 +140,11 @@
                 "link": "/speakers/nelly"
             },
             {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565142131/Sabith_square_aydli6.png",
+                "alt": "Sabith Venkitachalapathy",
+                "link": "/speakers/sabith"
+            },
+            {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1564720077/simon_waight_a5yfeq.jpg",
                 "alt": "Simon Waight",
                 "link": "/speakers/simon"
