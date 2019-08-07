@@ -48,6 +48,11 @@
                 "link": "https://cloud.google.com"
             },
             {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_160/v1564977738/EN-cmyk_%E7%94%BB%E6%9D%BF_1_ijbjwy.png",
+                "alt": "Alibaba Cloud",
+                "link": "https://au.alibabacloud.com/"
+            },
+            {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1561959285/gitlab-logo-white-stacked-rgb_2_jwytwa.png",
                 "alt": "Gitlab",
                 "link": "https://about.gitlab.com/"
@@ -60,12 +65,10 @@
         ],
         "silver": [
             {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_60/v1562038414/Stripe_logo_-_white_mi4hz0.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1562038414/Stripe_logo_-_white_mi4hz0.png",
                 "alt": "Stripe",
                 "link": "https://stripe.com/au"
-            }
-        ],
-        "community": [
+            },
             {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1562028123/MongoDB_Logo_FullColorWhite_RGB_d2e1n0.svg",
                 "alt": "MongoDB",
