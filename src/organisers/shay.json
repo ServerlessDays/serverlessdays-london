@@ -1,0 +1,28 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Shay Hamama",
+        "description": "Leading at the intersection of technology, customer experience, marketing and sales, Shay apply two key goals to drive business growth: solving problems with technology and building forward-thinking, user-led teams.",
+        "url": "https://serverlessdays.io/organisers/shay",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565246112/SHAY_PROFILE_PIC_mfjbw3.jpg"
+    },
+    "organiser": {
+        "name": "Shay Hamama",
+        "title": "Chief Product Officer | MBA | High-Performance Cultures",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565246112/SHAY_PROFILE_PIC_mfjbw3.jpg",
+        "bio": "Leading at the intersection of technology, customer experience, marketing and sales, Shay apply two key goals to drive business growth: solving problems with technology and building forward-thinking, user-led teams.",
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/shayhamama/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

@@ -344,5 +344,25 @@
             "path": "https://www.google.com/maps/dir/Museum+Station,+Sydney+NSW/Darlinghurst+Theatre+Company,+Burton+Street,+Darlinghurst+NSW/@-33.8776678,151.2107869,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6b12ae3d8b93f0ed:0x23d361e3fc7c8174!2m2!1d151.2098528!2d-33.8766105!1m5!1m1!1s0x6b12ae73665a41c9:0xf22d4ad34399c8a7!2m2!1d151.2160635!2d-33.8787251!3e2",
             "name": "Directions"
         }
+    },
+    "organisers": {
+        "text": "ServerlessDays Sydney couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",
+        "people": [
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565264237/peter_square_wn6msm.png",
+                "alt": "Peter Hanssens",
+                "link": "/organisers/peter"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565252209/robert2_hgvhay.jpg",
+                "alt": "Robert Preswick",
+                "link": "/organisers/robert"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565250903/shay_gzawtb.png",
+                "alt": "Shay Hamama",
+                "link": "/organisers/shay"
+            }
+        ]
     }
 }

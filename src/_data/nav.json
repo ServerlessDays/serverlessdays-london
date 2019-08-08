@@ -16,6 +16,11 @@
             "name": "Sponsors"
         },
         {
+            "key": "organisers",
+            "path": "/organisers",
+            "name": "Organisers"
+        },
+        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"

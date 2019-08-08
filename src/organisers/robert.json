@@ -1,0 +1,28 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Robert Preswick",
+        "description": "Robert Preswick is Product Manager at Luxury Escapes and likes to see what becomes possible under Serverless that wasn't before. Seeing the conference as another product he needs to deliver, his experience as a Product Manager helps in putting together a great conference for the attendees.",
+        "url": "https://serverlessdays.io/organisers/robert",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565252209/robert2_hgvhay.jpg"
+    },
+    "organiser": {
+        "name": "Robert Preswick",
+        "title": "Product Manager at Luxury Escapes",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565252209/robert2_hgvhay.jpg",
+        "bio": "Robert Preswick is Product Manager at Luxury Escapes and likes to see what becomes possible under Serverless that wasn't before. Seeing the conference as another product he needs to deliver, his experience as a Product Manager helps in putting together a great conference for the attendees.",
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/preswick/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

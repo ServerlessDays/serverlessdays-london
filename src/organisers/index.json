@@ -1,0 +1,26 @@
+{
+    "layout": "organisers.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Organisers",
+        "description": "One Day. One Track. One Community",
+        "url": "https://sydney.serverlessdays.io/organisers",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
+    },
+    "organisers" :  [
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565264237/peter_square_wn6msm.png",
+            "alt": "Peter Hanssens",
+            "link": "/organisers/peter"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565252209/robert2_hgvhay.jpg",
+            "alt": "Robert Preswick",
+            "link": "/organisers/robert"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565250903/shay_gzawtb.png",
+            "alt": "Shay Hamama",
+            "link": "/organisers/shay"
+        }
+    ]
+}

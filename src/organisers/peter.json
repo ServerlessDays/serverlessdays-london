@@ -1,0 +1,33 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays Sydney - Peter Hanssens",
+        "description": "A Data Engineer and Solutions Architect specialising in the serverless space, Peter is an active member of the Sydney tech community; running the Serverless and Data Engineering meetups. ",
+        "url": "https://serverlessdays.io/organisers/peter",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565264237/peter_square_wn6msm.png"
+    },
+    "organiser": {
+        "name": "Peter Hanssens",
+        "title": "Data Engineer and Solutions Architect (Serverless)",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565264237/peter_square_wn6msm.png",
+        "bio": "A Data Engineer and Solutions Architect specialising in the serverless space, Peter is an active member of the Sydney tech community; running the Serverless and Data Engineering meetups. ",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/petehanssens",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/peterhanssens/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
