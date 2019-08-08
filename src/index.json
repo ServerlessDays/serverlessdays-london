@@ -61,6 +61,11 @@
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_60/v1562916759/Salesforce_Logo_RGB_1797c0_8_13_14_thjgyc.png",
                 "alt": "Salesforce",
                 "link": "https://www.salesforce.com/au/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1565224068/LELogo_White_e652fz.png",
+                "alt": "Luxury Escapes",
+                "link": "https://luxuryescapes.com/au"
             }
         ],
         "silver": [

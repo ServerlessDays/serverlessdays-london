@@ -50,6 +50,11 @@
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1561959285/gitlab-logo-white-stacked-rgb_2_jwytwa.png",
                 "alt": "Gitlab",
                 "link": "https://about.gitlab.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_50/v1565224068/LELogo_White_e652fz.png",
+                "alt": "Luxury Escapes",
+                "link": "https://luxuryescapes.com/au"
             }
         ],
         "silver": [
