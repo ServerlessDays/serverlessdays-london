@@ -295,7 +295,7 @@
         },
         {
             "time": "15:35",
-            "name": "Keynote",
+            "name": "Lightning Talk",
             "speaker": [
                 {
                     "name": "Farrah Campbell",
@@ -304,7 +304,7 @@
             ]
         },
         {
-            "time": "16:05",
+            "time": "15:55",
             "name": "Lightning Talk",
             "speaker": [
                 {
@@ -314,7 +314,7 @@
             ]
         },
         {
-            "time": "16:25",
+            "time": "16:15",
             "name": "Closing Keynote",
             "speaker": [
                 {
@@ -324,7 +324,7 @@
             ]
         },
         {
-            "time": "17:00",
+            "time": "16:50",
             "name": "Closing Remarks",
             "speaker": [
                 {
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "time": "17:10",
+            "time": "17:00",
             "name": "Drinks"
         }
     ],
