@@ -176,7 +176,8 @@
             "speaker": [
                 {
                     "name": "Ben Kehoe",
-                    "link": "/speakers/ben"
+                    "link": "/speakers/ben",
+                    "company": "iRobot"
                 }
             ]
         },
@@ -186,17 +187,19 @@
             "speaker": [
                 {
                     "name": "Jeff Hollan",
-                    "link": "/speakers/jeff"
+                    "link": "/speakers/jeff",
+                    "company": "Microsoft Azure"
                 }
             ]
         },
         {
             "time": "10:35",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Jessica Flanagan",
-                    "link": "/speakers/jess"
+                    "link": "/speakers/jess",
+                    "company": "Deckard Technologies"
                 }
             ]
         },
@@ -211,37 +214,41 @@
             "speaker": [
                 {
                     "name": "Danilo Poccia",
-                    "link": "/speakers/danilo"
+                    "link": "/speakers/danilo",
+                    "company": "Amazon Web Services"
                 }
             ]
         },
         {
             "time": "11:45",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Geshan Manandhar",
-                    "link": "/speakers/geshan"
+                    "link": "/speakers/geshan",
+                    "company": "The ICONIC"
                 }
             ]
         },
         {
             "time": "12:05",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Nelly Sattari",
-                    "link": "/speakers/nelly"
+                    "link": "/speakers/nelly",
+                    "company": "Challenger"
                 }
             ]
         },
         {
             "time": "12:25",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Julia Davis",
-                    "link": "/speakers/julia"
+                    "link": "/speakers/julia",
+                    "company": "Luxury Escapes"
                 }
             ]
         },
@@ -255,37 +262,41 @@
             "speaker": [
                 {
                     "name": "Bret McGowen",
-                    "link": "/speakers/bret"
+                    "link": "/speakers/bret",
+                    "company": "Google"
                 }
             ]
         },
         {
             "time": "14:15",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Dale Salter",
-                    "link": "/speakers/dale"
+                    "link": "/speakers/dale",
+                    "company": "A Cloud Guru"
                 }
             ]
         },
         {
             "time": "14:35",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Sabith Venkitachalapathy",
-                    "link": "/speakers/sabith"
+                    "link": "/speakers/sabith",
+                    "company": "Alibaba Cloud"
                 }
             ]
         },
         {
             "time": "14:55",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Simon Waight",
-                    "link": "/speakers/simon"
+                    "link": "/speakers/simon",
+                    "company": "Microsoft Azure"
                 }
             ]
         },
@@ -295,21 +306,23 @@
         },
         {
             "time": "15:35",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Farrah Campbell",
-                    "link": "/speakers/farrah"
+                    "link": "/speakers/farrah",
+                    "company": "Stackery"
                 }
             ]
         },
         {
             "time": "15:55",
-            "name": "Lightning Talk",
+            "name": "Talk",
             "speaker": [
                 {
                     "name": "Yun Zhi Lin",
-                    "link": "/speakers/yun"
+                    "link": "/speakers/yun",
+                    "company": "Contino"
                 }
             ]
         },
@@ -319,7 +332,8 @@
             "speaker": [
                 {
                     "name": "Denis Bauer",
-                    "link": "/speakers/denis"
+                    "link": "/speakers/denis",
+                    "company": "CSIRO"
                 }
             ]
         },

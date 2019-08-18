@@ -22,6 +22,11 @@
                                         <div><a class="no-underline contrastColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
                                     {% endfor %}
                                 </div>
+                                <div class="f5 i">
+                                    {% for speaker in session.speaker %}
+                                        <div>{{ speaker.company }}</div>
+                                    {% endfor %}
+                                </div>
                             </div>
                         </div>
                     </div>
