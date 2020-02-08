@@ -4,14 +4,9 @@
     "title": "ServerlessDays - Home",
     "description": "One Day. One Track. One Community",
     "url": "https://serverlessdays.io",
-    "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
+    "image": "img/opera-house-at-night.jpg",
     "twitter": "https://twitter.com/SydDays"
 },"navBarItems": [
-    {
-        "key": "news",
-        "path": "/news",
-        "name": "News"
-    },
     {
         "key": "sponsors",
         "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
@@ -26,26 +21,30 @@
 "eventDetails": {
     "name": "Sydney",
     "description":"Let's get Serverless",
-    "startDate": "27 August 2019",
-    "endDate": "27 August 2019",
+    "startDate": "17 August 2020",
+    "endDate": "18 August 2020",
     "logo": "img/serverless_white_new.svg",
-    "hero": "img/SydneyHarbourOperaHouse.jpg",
+    "hero": "img/opera-house-at-night.jpg",
     "tagline": "One Day. One Track. One Community",
     "milestones": [
         {
-            "date": "25 March 2019",
+            "date": "01 February 2020",
             "description": "CFP Opens"
         },
         {
-            "date": "20 May 2019",
+            "date": "15 May 2020",
             "description": "CFP Closes"
         },
         {
-            "date": "27 June 2019",
-            "description": "Speakers Announced"
+            "date": "01 July 2020",
+            "description": "Speakers annouced"
         },
         {
-            "date": "27 August 2019",
+            "date": "17 August 2020",
+            "description": "Workshop Day!"
+        },
+        {
+            "date": "18 August 2020",
             "description": "ServerlessDay!"
         }
     ],
@@ -59,7 +58,7 @@
         "name": "Speak",
         "text": "Communities grow through sharing. Take the opportunity to share your experiences working with Serverless platforms and technologies. We're looking for all levels of talks, from beginner to advanced, and all levels of speakers. If you're a first time speaker we offer mentoring, from assisting with your CFP submission, advice on your slides and helping you with your presentation and delivery.",
         "cta": {
-            "path": "https://www.papercall.io/serverlessdays-sydney",
+            "path": "https://www.papercall.io/serverlessdays-sydney-2020",
             "name": "Submit a talk"
         }
     },
@@ -70,15 +69,6 @@
         "cta": {
             "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
             "name": "Sponsor"
-        }
-    },
-    {
-        "name": "Find out more",
-        "text": "ServerlessDays will be hosted at **Darlinghurst Theatre Company** near the Oxford Art Factory. Located between Museum and Kings Cross stations, it is located in the cultural heartland of Sydney. Darlinghurst Theatre Company offers a lot of character as a venue and maintains itself in good proportion to its local surronds. ",
-        "image": "img/DarlinghurstTheatreCompany.jpg",
-        "cta": {
-            "path": "/news",
-            "name": "Latest News"
         }
     }
 ],
