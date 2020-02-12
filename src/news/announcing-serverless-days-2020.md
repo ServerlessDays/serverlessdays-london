@@ -1,7 +1,7 @@
 # Announcing ServerlessDays Sydney 2019
 
 
-- Conference: August 27th 2019
+- Conference: August 18th 2020
 - Location: Darlinghurst Theatre
 - Tickets: $59 + Diversity Sponsorship
 

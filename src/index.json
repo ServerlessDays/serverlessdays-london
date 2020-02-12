@@ -49,8 +49,8 @@
         }
     ],
     "cta": {
-        "path": "/news",
-        "name": "Latest News"
+        "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
+        "name": "Sponsor Us"
     }
 },
 "section": [
