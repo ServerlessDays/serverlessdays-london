@@ -9,14 +9,14 @@
     },
     "navBarItems": [
         {
+            "key": "sponsors",
+            "path": "../static/ServerlessDaysSydney_SponsorProspectus.pdf",
+            "name": "Sponsors"
+        },
+        {
             "key": "news",
             "path": "/news",
             "name": "News"
-        },
-        {
-            "key": "sponsors",
-            "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
-            "name": "Sponsors"
         },
         {
             "key": "coc",

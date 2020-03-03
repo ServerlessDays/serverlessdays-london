@@ -23,6 +23,7 @@ layout: base.njk
         </div>
         <div class="w-100 w-40-l tc tr-m tl-l shiftUp90-m">
            <a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m contrastBkg contrastColor" href="{{ eventDetails.cta.path }}" target="_blank">{{ eventDetails.cta.name }}</a>
+           <a class="ml2 pv2 ph2 ph4-l f4 no-underline ba br2 b--white mr5-m primaryColor" href="{{ eventDetails.altCTA.path }}" target="_blank">{{ eventDetails.altCTA.name }}</a>
         </div>
     </div>
 </div>
@@ -68,6 +69,20 @@ layout: base.njk
             <h2 class="f2 mv3">{{ section[1].name }}</h2>
             <div class="f5 lh-copy pl3-m">{% markdown section[1].text %}</div>
             <div class="mt4"><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2-l tertiaryContrastColor tertiaryContrastBkg" href="{{ section[1].cta.path }}" target="_blank">{{ section[1].cta.name }}</a></div>
+        </div>
+    </div>
+</div>
+<div class="w-100 ph1 pv3 pa3-ns f5 f4-ns tl f5 f4-ns primaryColor primaryBkg">
+    <div class="flex-ns mv3 mv5-ns">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-60-m w-50-l tl ph3 ph0-ns">
+            <h2 class="f2 mv3">{{ section[2].name }}</h2>
+            <div class="f5 lh-copy pr3-m">{% markdown section[2].text %}</div>
+            <div class="mt4"><span><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 contrastColor contrastBkg" href="{{ section[2].cta.path }}" target="_blank">{{ section[2].cta.name }}</a></span></div>
+        </div>
+        <div class="w-100 w-40-m w-40-l db-ns tc tl-m ph2 ph3-m ph0-l">
+            <img class="ba br3 b--transparent pt4 pt0-ns cover" height="320" src="{{ section[2].image }}"/>
         </div>
     </div>
 </div>

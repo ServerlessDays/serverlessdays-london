@@ -9,6 +9,11 @@
     },
     "navBarItems": [
         {
+            "key": "sponsors",
+            "path": "../static/ServerlessDaysSydney_SponsorProspectus.pdf",
+            "name": "Sponsors"
+        },
+        {
             "key": "news",
             "path": "/news",
             "name": "News"
@@ -17,13 +22,19 @@
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
+        },
+        {
+            "key": "tickets",
+            "path": "https://www.tickettailor.com/events/serverlessdayssydney/357277",
+            "name": "Tickets",
+            "cta": "true"
         }
     ],
     "lead": {
-        "headline": "Announcing ServerlessDays Sydney 2019",
-        "description": "ServerlessDays Sydney 2019 is happening on 27 August at Daringhurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
-        "date": "26 March 2019",
-        "link": "./announcing-serverless-days-2019",
+        "headline": "Announcing ServerlessDays Sydney 2020",
+        "description": "ServerlessDays Sydney 2020 is happening on 18 August at SMC Conference & Function Centre, Sydney. New venue, expanded program, more Serverless! Get your Serverless on!",
+        "date": "29 February 2020",
+        "link": "./announcing-serverless-days-2020",
         "image": ""
     }
 }

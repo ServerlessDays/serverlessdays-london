@@ -1,8 +1,9 @@
-# Announcing ServerlessDays Sydney 2019
+# Announcing ServerlessDays Sydney 2020
 
 
 - Conference: August 18th 2020
-- Location: Darlinghurst Theatre
+- Workshops: August 17th 2020
+- Location: SMC Conference & Function Centre
 - Tickets: $59 + Diversity Sponsorship
 
 Website: [https://sydney.serverlessdays.io/](https://sydney.serverlessdays.io/)
@@ -19,7 +20,7 @@ Conference format will be single track sessions (aiming at a mix of experience l
 
 ### CFP
 
-Share your Serverless experiences at ServerlessDays Sydney. The CFP is now open until 20 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdays-sydney)
+Share your Serverless experiences at ServerlessDays Sydney. The CFP is now open until 31 May 2020. Submit to the CFP [here](https://www.papercall.io/serverlessdays-sydney-2020)
 
 ### Diversity and Inclusion
 
@@ -29,13 +30,14 @@ Once again, we're again asking those who are able to afford the extra ticket pri
 
 ### Venue
 
-We've found an amazing venue for the conference: [Darlinghurst Theatre Company](https://www.darlinghursttheatre.com/). This venue puts on great events (usually plays), offering our attendees food, coffee and drinks at the bar (ask us about our Drinks Sponsorshop!). We're certain everybody will love the venue.
+We've found an amazing venue for the conference: [SMC Conference & Function Centre](https://www.smcfc.com.au/). This venue puts on great events, offering our attendees food, coffee and drinks at the bar (ask us about our Drinks Sponsorshop!). We're certain everybody will love the venue.
 
 ### The Team
 
-__Shay Hamama__ is a keen enthusiast on Serverless technology and as Chief Product Officer at Luxury Escapes, he wants to open up the concept of serverless to those outside of engineering. He brings a wealth of knowledge in event organising from previous conferences and events.
-
-__Robert Preswick__ is Product Manager at Luxury Escapes and likes to see what becomes possible under Serverless that wasn't before. His experience as a PM helps keep the conference on track.
-
 __Peter Hanssens__ is the co-organiser of the Sydney Serverless meetup as well as the Sydney Data Engineering meetup. He's spent the last few years working in cloud including a stint at A Cloud Guru, one of the more famous serverless startups. He tweets at [@petehanssens](https://twitter.com/petehanssens)
 
+__Monica Mendes__ is a junior Front End Engineer at Domain and helped us at last years event.
+
+__Leo Hoare__ is an Associate Data Engineer and member of the Serverless meetup here in Sydney.
+
+__Toby Hede__ is long time member of the Serverless community here in Sydney. He presented at the first ever meetup and is an Engineering Manager at Amaysim.

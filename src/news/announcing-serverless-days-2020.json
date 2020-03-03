@@ -9,6 +9,11 @@
     },
     "navBarItems": [
         {
+            "key": "sponsors",
+            "path": "../../static/ServerlessDaysSydney_SponsorProspectus.pdf",
+            "name": "Sponsors"
+        },
+        {
             "key": "news",
             "path": "/news",
             "name": "News"
@@ -17,10 +22,10 @@
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
-            },
+        },
         {
             "key": "tickets",
-            "path": "https://ti.to/serverlessdays-sydney/serverlessdays-sydney-2019",
+            "path": "https://www.tickettailor.com/events/serverlessdayssydney/357277",
             "name": "Tickets",
             "cta": "true"
         }
