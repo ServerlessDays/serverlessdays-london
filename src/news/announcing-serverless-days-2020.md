@@ -36,7 +36,7 @@ We've found an amazing venue for the conference: [SMC Conference & Function Cent
 
 __Peter Hanssens__ is the co-organiser of the Sydney Serverless meetup as well as the Sydney Data Engineering meetup. He's spent the last few years working in cloud including a stint at A Cloud Guru, one of the more famous serverless startups. He tweets at [@petehanssens](https://twitter.com/petehanssens)
 
-__Monica Mendes__ is a junior Front End Engineer at Domain and helped us at last years event.
+__Monica Mendes__ is a Junior Software Engineer at Domain and helped us at last year event.
 
 __Leo Hoare__ is an Associate Data Engineer and member of the Serverless meetup here in Sydney.
 
