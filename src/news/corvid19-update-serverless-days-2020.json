@@ -1,0 +1,33 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "CORVID 19 (Coronavirus) Update ServerlessDays Sydney 2020",
+        "description": "An important update on CORVID 19 (Coronavirus) Update for ServerlessDays Sydney 2020",
+        "url": "https://sydney.serverlessdays.io/news/corvid19-update-serverless-days-2020",
+        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
+        "twitter": "https://twitter.com/SydDays"
+    },
+    "navBarItems": [
+        {
+            "key": "sponsors",
+            "path": "../../static/ServerlessDaysSydney_SponsorProspectus.pdf",
+            "name": "Sponsors"
+        },
+        {
+            "key": "news",
+            "path": "/news",
+            "name": "News"
+        },
+        {
+            "key": "coc",
+            "path": "/coc",
+            "name": "Code of Conduct"
+        },
+        {
+            "key": "tickets",
+            "path": "https://www.tickettailor.com/events/serverlessdayssydney/357277",
+            "name": "Tickets",
+            "cta": "true"
+        }
+    ]
+}

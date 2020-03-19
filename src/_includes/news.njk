@@ -6,7 +6,8 @@ layout: base.njk
     <div class="w-100 w-80-m w-60-l center">
         <h1 class="f1">News</h1>
     </div>
-    <div class="w-100 w-80-m w-60-l center ba br2 b--transparent shadow-3-light mb5 pa3">
+    {% for lead in leads %}
+    <div class="w-100 w-80-m w-60-l center ba br2 b--transparent shadow-3-light mb5 pa3">        
         <a class="no-underline primaryColor tl" href="{{ lead.link }}">
             <div class="flex-ns">
                 <div class="w-100 w-70-ns pa3">
@@ -20,6 +21,7 @@ layout: base.njk
             </div>
         </a>
     </div>
+    {% endfor %}
 </div>
 
 
