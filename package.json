@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.8.3",
+    "@11ty/eleventy": "^1.0.2",
     "clean-css": "^4.2.1",
     "jsdom": "^14.1.0",
     "markdown-it": "^8.4.2"
